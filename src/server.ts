@@ -3,6 +3,7 @@ import bodyParser from 'body-parser';
 import path from 'path';
 import dotenv from 'dotenv';
 import { chatController } from './controllers/chatController';
+import { speakController } from './controllers/speakController';
 import { errorHandler } from './middlewares/errorHandler';
 
 dotenv.config();
@@ -12,7 +13,7 @@ const port = process.env.PORT || 3000;
 
 // Middleware
 app.use(bodyParser.urlencoded({ extended: false }));
-app.use(bodyParser.json()); // For parsing application/json
+app.use(bodyParser.json());
 app.set('view engine', 'ejs');
 app.set('views', path.join(__dirname, 'views'));
 app.use(express.static(path.join(__dirname, 'public')));
@@ -23,6 +24,7 @@ app.get('/', (req: Request, res: Response) => {
 });
 
 app.post('/api/chat', chatController);
+app.post('/api/text-to-speech', speakController);
 
 // Error handling middleware
 app.use(errorHandler);

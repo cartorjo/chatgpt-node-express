@@ -3,19 +3,108 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chat with GPT-4</title>
+    <title>Chat Application</title>
+    <!-- Add a link to a CSS file for better performance (if any) -->
     <link rel="stylesheet" href="/styles.css">
+    <script defer src="/scripts.js"></script>
 </head>
 <body>
-<div class="chat-container">
-    <div id="chat-box" class="chat-box">
-        <!-- Chat messages will appear here -->
+<div id="chat-container" role="main">
+    <div id="chat-box" aria-live="polite" aria-atomic="true"></div>
+    <div id="input-container">
+        <input type="text" id="user-input" placeholder="Type a message..." aria-label="Type a message">
+        <button id="send-button" aria-label="Send message">Send</button>
+        <button id="start-voice" aria-label="Start voice input">🎤</button>
+        <button id="stop-voice" aria-label="Stop voice input" disabled>🛑</button>
+        <label>
+            <input type="checkbox" id="enable-tts" aria-label="Enable Text-to-Speech"> Enable TTS
+        </label>
+        <label for="voice-select">Choose voice:</label>
+        <select id="voice-select" aria-label="Select voice">
+            <option value="nova">Nova</option>
+            <option value="echo">Echo</option>
+            <!-- Add more voice options as needed -->
+        </select>
+        <label for="language-select">Choose language:</label>
+        <select id="language-select" aria-label="Select language">
+            <optgroup label="Top Languages">
+                <option value="ca-ES">Català</option>
+                <option value="es-ES">Español</option>
+                <option value="en-US">English (Inglés)</option>
+                <option value="fr-FR">Français (Francés)</option>
+                <option value="it-IT">Italiano</option>
+                <option value="de-DE">Deutsch (Alemán)</option>
+                <option value="pt-PT">Português (Portugués)</option>
+                <option value="ru-RU">Русский (Ruso)</option>
+                <option value="zh-CN">中文 (Chino)</option>
+                <option value="ar-SA">العربية (Árabe)</option>
+                <option value="nl-NL">Nederlands (Neerlandés)</option>
+                <option value="uk-UA">Українська (Ucraniano)</option>
+                <option value="ja-JP">日本語 (Japonés)</option>
+                <option value="sv-SE">Svenska (Sueco)</option>
+                <option value="ko-KR">한국어 (Coreano)</option>
+                <option value="pl-PL">Polski (Polaco)</option>
+                <option value="hi-IN">हिन्दी (Hindi)</option>
+                <option value="tr-TR">Türkçe (Turco)</option>
+                <option value="vi-VN">Tiếng Việt (Vietnamita)</option>
+                <option value="th-TH">ไทย (Tailandés)</option>
+                <option value="fa-IR">فارسی (Persa)</option>
+            </optgroup>
+            <optgroup label="Other Languages">
+                <option value="am-ET">አማርኛ (Amárico)</option>
+                <option value="az-AZ">Azərbaycan (Azerí)</option>
+                <option value="bn-BD">বাংলা (Bengalí)</option>
+                <option value="be-BY">Беларуская (Bielorruso)</option>
+                <option value="bg-BG">Български (Búlgaro)</option>
+                <option value="cs-CZ">Čeština (Checo)</option>
+                <option value="cy-GB">Cymraeg (Galés)</option>
+                <option value="da-DK">Dansk (Danés)</option>
+                <option value="et-EE">Eesti (Estonio)</option>
+                <option value="fi-FI">Suomi (Finlandés)</option>
+                <option value="gl-ES">Galego (Gallego)</option>
+                <option value="ka-GE">ქართული (Georgiano)</option>
+                <option value="el-GR">Ελληνικά (Griego)</option>
+                <option value="gu-IN">ગુજરાતી (Gujarati)</option>
+                <option value="ha-NG">Hausa (Hausa)</option>
+                <option value="he-IL">עברית (Hebreo)</option>
+                <option value="hr-HR">Hrvatski (Croata)</option>
+                <option value="hu-HU">Magyar (Húngaro)</option>
+                <option value="is-IS">Íslenska (Islandés)</option>
+                <option value="ig-NG">Igbo (Igbo)</option>
+                <option value="id-ID">Bahasa Indonesia (Indonesio)</option>
+                <option value="ga-IE">Gaeilge (Irlandés)</option>
+                <option value="jv-ID">Basa Jawa (Javanés)</option>
+                <option value="km-KH">ភាសាខ្មែរ (Camboyano)</option>
+                <option value="kn-IN">ಕನ್ನಡ (Kannada)</option>
+                <option value="lt-LT">Lietuvių (Lituano)</option>
+                <option value="lv-LV">Latviešu (Letón)</option>
+                <option value="mg-MG">Malagasy (Malgache)</option>
+                <option value="ms-MY">Bahasa Melayu (Malayo)</option>
+                <option value="ml-IN">മലയാളം (Malayalam)</option>
+                <option value="mt-MT">Malti (Maltés)</option>
+                <option value="mr-IN">मराठी (Marathi)</option>
+                <option value="mn-MN">Монгол (Mongol)</option>
+                <option value="ne-NP">नेपाली (Nepalí)</option>
+                <option value="no-NO">Norsk (Noruego)</option>
+                <option value="pa-IN">ਪੰਜਾਬੀ (Punjabi)</option>
+                <option value="ro-RO">Română (Rumano)</option>
+                <option value="sr-RS">Српски (Serbio)</option>
+                <option value="si-LK">සිංහල (Cingalés)</option>
+                <option value="sk-SK">Slovenčina (Eslovaco)</option>
+                <option value="sl-SI">Slovenščina (Esloveno)</option>
+                <option value="sw-KE">Kiswahili (Swahili)</option>
+                <option value="ta-IN">தமிழ் (Tamil)</option>
+                <option value="te-IN">తెలుగు (Telugu)</option>
+                <option value="tl-PH">Tagalog (Tagalo)</option>
+                <option value="ur-PK">اردو (Urdu)</option>
+                <option value="uz-UZ">Oʻzbek (Uzbeko)</option>
+                <option value="cy-GB">Cymraeg (Galés)</option>
+                <option value="yo-NG">Yorùbá (Yoruba)</option>
+                <option value="zu-ZA">isiZulu (Zulú)</option>
+            </optgroup>
+        </select>
     </div>
-    <input type="text" id="user-input" class="user-input" placeholder="Type your message here...">
-    <button id="send-button" class="send-button">Send</button>
-    <button id="start-voice" class="voice-button">🎤 Start Voice</button>
-    <button id="stop-voice" class="voice-button" disabled>🛑 Stop Voice</button>
+    <div id="loading-indicator" aria-live="assertive" aria-busy="true" style="display: none;">Loading...</div>
 </div>
-<script defer src="/scripts.js"></script>
 </body>
 </html>
