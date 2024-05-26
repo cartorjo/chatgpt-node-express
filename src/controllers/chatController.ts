@@ -10,11 +10,12 @@ export const chatController = async (req: Request, res: Response, next: NextFunc
         const completion = await openai.chat.completions.create({
             model: 'gpt-4',
             messages: [{ role: 'user', content: message }],
-            max_tokens: 150,
+            max_tokens: 300,
             temperature: 0.7,
         });
 
-        const botReply = completion.choices?.[0]?.message?.content?.trim() ?? 'No response from AI';
+        // Ensure to get the full response from OpenAI
+        const botReply = completion.choices[0].message?.content?.trim() || 'No response from AI';
 
         if (enableTTS) {
             const ttsResponse = await openai.audio.speech.create({
@@ -35,6 +36,7 @@ export const chatController = async (req: Request, res: Response, next: NextFunc
             res.json({ reply: botReply });
         }
     } catch (error) {
+        console.error('Error:', error);
         res.status(500).json({ error: 'Internal Server Error' });
         next(error);
     }

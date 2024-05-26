@@ -17,16 +17,17 @@ const openaiConfig_1 = __importDefault(require("../config/openaiConfig"));
 const path_1 = __importDefault(require("path"));
 const fs_1 = __importDefault(require("fs"));
 const chatController = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
-    var _a, _b, _c, _d, _e;
+    var _a, _b;
     const { message, enableTTS, voice = 'nova', language = 'ca-ES' } = req.body;
     try {
         const completion = yield openaiConfig_1.default.chat.completions.create({
             model: 'gpt-4',
             messages: [{ role: 'user', content: message }],
-            max_tokens: 150,
+            max_tokens: 300,
             temperature: 0.7,
         });
-        const botReply = (_e = (_d = (_c = (_b = (_a = completion.choices) === null || _a === void 0 ? void 0 : _a[0]) === null || _b === void 0 ? void 0 : _b.message) === null || _c === void 0 ? void 0 : _c.content) === null || _d === void 0 ? void 0 : _d.trim()) !== null && _e !== void 0 ? _e : 'No response from AI';
+        // Ensure to get the full response from OpenAI
+        const botReply = ((_b = (_a = completion.choices[0].message) === null || _a === void 0 ? void 0 : _a.content) === null || _b === void 0 ? void 0 : _b.trim()) || 'No response from AI';
         if (enableTTS) {
             const ttsResponse = yield openaiConfig_1.default.audio.speech.create({
                 model: 'tts-1',
@@ -46,6 +47,7 @@ const chatController = (req, res, next) => __awaiter(void 0, void 0, void 0, fun
         }
     }
     catch (error) {
+        console.error('Error:', error);
         res.status(500).json({ error: 'Internal Server Error' });
         next(error);
     }

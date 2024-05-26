@@ -3,31 +3,109 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chat Application</title>
-    <!-- Add a link to a CSS file for better performance (if any) -->
+    <title>Chat Bot</title>
     <link rel="stylesheet" href="/css/styles.css">
+    <style>body {
+            display: flex;
+            flex-direction: column;
+            margin: 0;
+            height: 100vh;
+            font-family: Arial, sans-serif;
+        }
+
+        main {
+            flex: 1;
+            overflow-y: auto;
+            padding: 10px;
+            background: #f4f4f4;
+        }
+
+        #chat-container {
+            display: flex;
+            flex-direction: column;
+            height: 100%;
+        }
+
+        #chat-box {
+            flex: 1;
+            overflow-y: auto;
+            padding: 10px;
+            background: white;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            margin-bottom: 10px;
+        }
+
+        #input-container {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 5px;
+            align-items: center;
+            background: white;
+            padding: 10px;
+            border-top: 1px solid #ccc;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+            box-shadow: 0 -2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        #user-input {
+            flex: 1;
+            min-width: 512px;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        #send-button, #start-voice, #stop-voice {
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+
+        #send-button i, #start-voice i, #stop-voice i {
+            font-size: 24px;
+        }
+
+        #send-button i {
+            color: green;
+        }
+
+        #start-voice i {
+            color: orange;
+        }
+
+        #stop-voice i {
+            color: red;
+        }
+
+        #language-select, #voice-select, #enable-tts {
+            margin-right: 5px;
+        }
+
+        .visually-hidden {
+            position: absolute;
+            width: 1px;
+            height: 1px;
+            margin: -1px;
+            padding: 0;
+            overflow: hidden;
+            clip: rect(0, 0, 0, 0);
+            border: 0;
+        }
+
+    </style>
+    <script src="//unpkg.com/@phosphor-icons/web"></script>
     <script defer src="/scripts.js"></script>
 </head>
 <body>
-<div id="chat-container" role="main">
-    <div id="chat-box" aria-live="polite" aria-atomic="true"></div>
-    <div id="input-container">
-        <input type="text" id="user-input" placeholder="Type a message..." aria-label="Type a message">
-        <button id="send-button" aria-label="Send message">Send</button>
-        <button id="start-voice" aria-label="Start voice input">🎤</button>
-        <button id="stop-voice" aria-label="Stop voice input" disabled>🛑</button>
-        <label>
-            <input type="checkbox" id="enable-tts" aria-label="Enable Text-to-Speech"> Enable TTS
-        </label>
-        <label for="voice-select">Choose voice:</label>
-        <select id="voice-select" aria-label="Select voice">
-            <option value="nova">Nova</option>
-            <option value="echo">Echo</option>
-            <!-- Add more voice options as needed -->
-        </select>
-        <label for="language-select">Choose language:</label>
-        <select id="language-select" aria-label="Select language">
-            <optgroup label="Top Languages">
+<main id="chat-container" role="main">
+    <section id="chat-box" aria-live="polite" aria-atomic="true"></section>
+    <section id="input-container">
+        <label for="language-select" class="visually-hidden">Choose language:</label>
+        <select id="language-select" aria-label="Choose language">
+            <optgroup label="Core Languages">
                 <option value="ca-ES">Català</option>
                 <option value="es-ES">Español</option>
                 <option value="en-US">English (Inglés)</option>
@@ -61,7 +139,6 @@
                 <option value="da-DK">Dansk (Danés)</option>
                 <option value="et-EE">Eesti (Estonio)</option>
                 <option value="fi-FI">Suomi (Finlandés)</option>
-                <option value="gl-ES">Galego (Gallego)</option>
                 <option value="ka-GE">ქართული (Georgiano)</option>
                 <option value="el-GR">Ελληνικά (Griego)</option>
                 <option value="gu-IN">ગુજરાતી (Gujarati)</option>
@@ -103,8 +180,32 @@
                 <option value="zu-ZA">isiZulu (Zulú)</option>
             </optgroup>
         </select>
-    </div>
+        <label for="user-input" class="visually-hidden">Type a message</label>
+        <input type="text" id="user-input" placeholder="Type a message..." aria-label="Type a message">
+        <button id="send-button" aria-label="Send message">
+            <i class="ph ph-arrow-circle-right"></i>
+        </button>
+        <button id="start-voice" aria-label="Start voice input">
+            <i class="ph ph-microphone" style="color: orange"></i>
+        </button>
+        <button id="stop-voice" aria-label="Stop voice input" disabled>
+            <i class="ph ph-microphone-slash" style="color: red"></i>
+        </button>
+        <hr>
+        <label>
+            <input type="checkbox" id="enable-tts" aria-label="Enable Text-to-Speech"> Enable TTS
+        </label>
+        <label for="voice-select">Choose voice:</label>
+        <select id="voice-select" aria-label="Select voice">
+            <option value="alloy">Alloy</option>
+            <option value="echo">Echo</option>
+            <option value="fable">Fable</option>
+            <option value="onyx">Onyx</option>
+            <option value="nova">Nova</option>
+            <option value="shimmer">Shimmer</option>
+        </select>
+    </section>
     <div id="loading-indicator" aria-live="assertive" aria-busy="true" style="display: none;">Loading...</div>
-</div>
+</main>
 </body>
 </html>

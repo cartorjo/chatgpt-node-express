@@ -39,19 +39,25 @@ document.addEventListener('DOMContentLoaded', () => {
         chatBox.scrollTop = chatBox.scrollHeight;
     };
 
-    const showLoading = () => {
-        loadingIndicator.style.display = 'block';
+    const toggleLoadingIndicator = (isLoading) => {
+        loadingIndicator.style.display = isLoading ? 'block' : 'none';
     };
 
-    const hideLoading = () => {
-        loadingIndicator.style.display = 'none';
+    const handleResponse = async (response) => {
+        if (!response.ok) throw new Error('Network response was not ok');
+        const data = await response.json();
+        appendMessage(data.reply, 'bot');
+        if (enableTTSCheckbox.checked && data.audioUrl) {
+            createAudioCard(data.audioUrl);
+        }
     };
 
     const sendMessage = async (message) => {
         if (!message.trim()) return;
+
         appendMessage(message, 'user');
         userInput.value = '';
-        showLoading();
+        toggleLoadingIndicator(true);
 
         try {
             const response = await fetch('/api/chat', {
@@ -66,68 +72,63 @@ document.addEventListener('DOMContentLoaded', () => {
                     language: languageSelect.value
                 })
             });
-
-            if (!response.ok) throw new Error('Network response was not ok');
-            const data = await response.json();
-            appendMessage(data.reply, 'bot');
-
-            if (enableTTSCheckbox.checked && data.audioUrl) {
-                createAudioCard(data.audioUrl);
-            }
+            await handleResponse(response);
         } catch (error) {
             console.error('Error:', error);
             appendMessage('An error occurred. Please try again later.', 'bot');
         } finally {
-            hideLoading();
+            toggleLoadingIndicator(false);
         }
     };
 
-    sendButton.addEventListener('click', () => {
-        sendMessage(userInput.value);
-    });
+    const setupEventListeners = () => {
+        sendButton.addEventListener('click', () => sendMessage(userInput.value));
 
-    userInput.addEventListener('keypress', (event) => {
-        if (event.key === 'Enter') {
-            sendMessage(userInput.value);
-        }
-    });
+        userInput.addEventListener('keypress', (event) => {
+            if (event.key === 'Enter') {
+                sendMessage(userInput.value);
+            }
+        });
 
-    if (recognition) {
-        startVoiceButton.addEventListener('click', () => {
-            recognition.start();
+        if (recognition) {
+            startVoiceButton.addEventListener('click', () => {
+                recognition.start();
+                startVoiceButton.disabled = true;
+                stopVoiceButton.disabled = false;
+            });
+
+            stopVoiceButton.addEventListener('click', () => {
+                recognition.stop();
+                startVoiceButton.disabled = false;
+                stopVoiceButton.disabled = true;
+            });
+
+            recognition.onresult = (event) => {
+                const transcript = event.results[0][0].transcript;
+                userInput.value = transcript;
+                sendMessage(transcript);
+            };
+
+            recognition.onerror = (event) => {
+                console.error('Speech recognition error', event);
+                startVoiceButton.disabled = false;
+                stopVoiceButton.disabled = true;
+            };
+
+            recognition.onend = () => {
+                startVoiceButton.disabled = false;
+                stopVoiceButton.disabled = true;
+            };
+
+            languageSelect.addEventListener('change', () => {
+                recognition.lang = languageSelect.value;
+            });
+        } else {
             startVoiceButton.disabled = true;
-            stopVoiceButton.disabled = false;
-        });
-
-        stopVoiceButton.addEventListener('click', () => {
-            recognition.stop();
-            startVoiceButton.disabled = false;
             stopVoiceButton.disabled = true;
-        });
+            console.error('Speech recognition not supported in this browser.');
+        }
+    };
 
-        recognition.onresult = (event) => {
-            const transcript = event.results[0][0].transcript;
-            userInput.value = transcript;
-            sendMessage(transcript);
-        };
-
-        recognition.onerror = (event) => {
-            console.error('Speech recognition error', event);
-            startVoiceButton.disabled = false;
-            stopVoiceButton.disabled = true;
-        };
-
-        recognition.onend = () => {
-            startVoiceButton.disabled = false;
-            stopVoiceButton.disabled = true;
-        };
-
-        languageSelect.addEventListener('change', () => {
-            recognition.lang = languageSelect.value;
-        });
-    } else {
-        startVoiceButton.disabled = true;
-        stopVoiceButton.disabled = true;
-        console.error('Speech recognition not supported in this browser.');
-    }
+    setupEventListeners();
 });
