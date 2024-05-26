@@ -4,7 +4,7 @@ import path from 'path';
 import fs from 'fs';
 
 export const chatController = async (req: Request, res: Response, next: NextFunction) => {
-    const { message, enableTTS, voice = 'nova', language = 'en-US' } = req.body;
+    const { message, enableTTS, voice = 'nova', language = 'ca-ES' } = req.body;
 
     try {
         const completion = await openai.chat.completions.create({
@@ -26,7 +26,7 @@ export const chatController = async (req: Request, res: Response, next: NextFunc
             });
 
             const audioFileName = `speech-${Date.now()}.mp3`;
-            const audioFilePath = path.resolve(__dirname, '../../public', audioFileName);
+            const audioFilePath = path.resolve(__dirname, '../public', audioFileName);
             const buffer = Buffer.from(await ttsResponse.arrayBuffer());
             await fs.promises.writeFile(audioFilePath, buffer);
 

@@ -18,7 +18,7 @@ const path_1 = __importDefault(require("path"));
 const fs_1 = __importDefault(require("fs"));
 const chatController = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     var _a, _b, _c, _d, _e;
-    const { message, enableTTS, voice = 'nova', language = 'en-US' } = req.body;
+    const { message, enableTTS, voice = 'nova', language = 'ca-ES' } = req.body;
     try {
         const completion = yield openaiConfig_1.default.chat.completions.create({
             model: 'gpt-4',
@@ -36,7 +36,7 @@ const chatController = (req, res, next) => __awaiter(void 0, void 0, void 0, fun
                 speed: 1.0,
             });
             const audioFileName = `speech-${Date.now()}.mp3`;
-            const audioFilePath = path_1.default.resolve(__dirname, '../../public', audioFileName);
+            const audioFilePath = path_1.default.resolve(__dirname, '../public', audioFileName);
             const buffer = Buffer.from(yield ttsResponse.arrayBuffer());
             yield fs_1.default.promises.writeFile(audioFilePath, buffer);
             res.json({ reply: botReply, audioUrl: `/${audioFileName}` });

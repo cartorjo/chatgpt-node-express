@@ -9,11 +9,10 @@ document.addEventListener('DOMContentLoaded', () => {
     const languageSelect = document.getElementById('language-select');
     const loadingIndicator = document.getElementById('loading-indicator');
 
-    let recognition;
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
+    let recognition = SpeechRecognition ? new SpeechRecognition() : null;
 
-    if (SpeechRecognition) {
-        recognition = new SpeechRecognition();
+    if (recognition) {
         recognition.continuous = false;
         recognition.interimResults = false;
         recognition.lang = languageSelect.value;
@@ -35,14 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         audioElement.src = audioUrl;
         audioElement.controls = true;
 
-        const playButton = document.createElement('button');
-        playButton.innerText = 'Play';
-        playButton.addEventListener('click', () => {
-            audioElement.play();
-        });
-
         audioCard.appendChild(audioElement);
-        audioCard.appendChild(playButton);
         chatBox.appendChild(audioCard);
         chatBox.scrollTop = chatBox.scrollHeight;
     };
@@ -56,9 +48,9 @@ document.addEventListener('DOMContentLoaded', () => {
     };
 
     const sendMessage = async (message) => {
+        if (!message.trim()) return;
         appendMessage(message, 'user');
         userInput.value = '';
-
         showLoading();
 
         try {
@@ -77,7 +69,6 @@ document.addEventListener('DOMContentLoaded', () => {
 
             if (!response.ok) throw new Error('Network response was not ok');
             const data = await response.json();
-            hideLoading();
             appendMessage(data.reply, 'bot');
 
             if (enableTTSCheckbox.checked && data.audioUrl) {
@@ -85,8 +76,9 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         } catch (error) {
             console.error('Error:', error);
-            hideLoading();
             appendMessage('An error occurred. Please try again later.', 'bot');
+        } finally {
+            hideLoading();
         }
     };
 
@@ -129,16 +121,13 @@ document.addEventListener('DOMContentLoaded', () => {
             startVoiceButton.disabled = false;
             stopVoiceButton.disabled = true;
         };
+
+        languageSelect.addEventListener('change', () => {
+            recognition.lang = languageSelect.value;
+        });
     } else {
         startVoiceButton.disabled = true;
         stopVoiceButton.disabled = true;
         console.error('Speech recognition not supported in this browser.');
     }
-
-    // Update recognition language when languageSelect changes
-    languageSelect.addEventListener('change', () => {
-        if (recognition) {
-            recognition.lang = languageSelect.value;
-        }
-    });
 });
