@@ -4,7 +4,9 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chat Bot</title>
+    <!-- Link to external CSS for styling -->
     <link rel="stylesheet" href="/css/styles.css">
+    <!-- Internal styles for layout and appearance -->
     <style>
         body {
             display: flex;
@@ -42,15 +44,20 @@
             border: 0;
         }
     </style>
-    <script src="//unpkg.com/@phosphor-icons/web"></script>
-    <script defer src="/scripts.js"></script>
+    <!-- Deferred loading of icons and custom scripts for better performance -->
+    <script src="//unpkg.com/@phosphor-icons/web" defer></script>
+    <script src="/scripts.js" defer></script>
 </head>
 <body>
-<main id="chat-container" role="main">
+<!-- Main content container -->
+<main id="chat-container">
+    <!-- Chat box where messages will be displayed -->
     <section id="chat-box" aria-live="polite" aria-atomic="true"></section>
+    <!-- Input container for language selection, message input, and voice controls -->
     <section id="input-container">
         <label for="language-select" class="visually-hidden">Choose language:</label>
         <select id="language-select" aria-label="Choose language">
+            <!-- Core Languages optgroup -->
             <optgroup label="Core Languages">
                 <option value="ca-ES">Català</option>
                 <option value="es-ES">Español</option>
@@ -62,6 +69,7 @@
                 <option value="ru-RU">Русский (Ruso)</option>
                 <option value="zh-CN">中文 (Chino)</option>
                 <option value="ar-SA">العربية (Árabe)</option>
+                <option value="ar-MA">(Árabe marroquí) الهجة مغربية</option>
                 <option value="nl-NL">Nederlands (Neerlandés)</option>
                 <option value="uk-UA">Українська (Ucraniano)</option>
                 <option value="ja-JP">日本語 (Japonés)</option>
@@ -74,6 +82,7 @@
                 <option value="th-TH">ไทย (Tailandés)</option>
                 <option value="fa-IR">فارسی (Persa)</option>
             </optgroup>
+            <!-- Other Languages optgroup -->
             <optgroup label="Other Languages">
                 <option value="am-ET">አማርኛ (Amárico)</option>
                 <option value="az-AZ">Azərbaycan (Azerí)</option>
@@ -121,27 +130,31 @@
                 <option value="tl-PH">Tagalog (Tagalo)</option>
                 <option value="ur-PK">اردو (Urdu)</option>
                 <option value="uz-UZ">Oʻzbek (Uzbeko)</option>
-                <option value="cy-GB">Cymraeg (Galés)</option>
                 <option value="yo-NG">Yorùbá (Yoruba)</option>
                 <option value="zu-ZA">isiZulu (Zulú)</option>
             </optgroup>
         </select>
+        <!-- Message input field -->
         <label for="user-input" class="visually-hidden">Type a message</label>
         <input type="text" id="user-input" placeholder="Type a message..." aria-label="Type a message">
+        <!-- Send button -->
         <button id="send-button" aria-label="Send message">
             <i class="ph ph-arrow-circle-right"></i>
         </button>
+        <!-- Start voice input button -->
         <button id="start-voice" aria-label="Start voice input">
             <i class="ph ph-microphone" style="color: orange"></i>
         </button>
+        <!-- Stop voice input button -->
         <button id="stop-voice" aria-label="Stop voice input" disabled>
             <i class="ph ph-microphone-slash" style="color: red"></i>
         </button>
+        <!-- Text-to-Speech toggle and voice selection -->
         <hr>
         <label>
             <input type="checkbox" id="enable-tts" aria-label="Enable Text-to-Speech"> Enable TTS
         </label>
-        <label for="voice-select">Choose voice:</label>
+        <label for="voice-select" class="visually-hidden">Choose voice:</label>
         <select id="voice-select" aria-label="Select voice">
             <option value="alloy">Alloy</option>
             <option value="echo">Echo</option>
@@ -151,7 +164,8 @@
             <option value="shimmer">Shimmer</option>
         </select>
     </section>
-    <div id="loading-indicator" aria-live="assertive" aria-busy="true" style="display: block;">Loading...</div>
+    <!-- Loading indicator, hidden by default -->
+    <div id="loading-indicator" aria-live="assertive" aria-busy="true" style="display: none;">Loading...</div>
 </main>
 </body>
 </html>

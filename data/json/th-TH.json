@@ -1,0 +1,108 @@
+{
+  "qa": [
+    {
+      "question": "Què és T-mobilitat i quins avantatges ofereix?",
+      "answer": "T-mobilitat és el nou sistema de bitlletatge i validació del transport públic que permet viatjar amb tecnologia sense contacte, integrant diversos components tecnològics. Els avantatges inclouen un procés de validació més ràpid i àgil, la possibilitat d’accedir al transport mitjançant dispositius com el telèfon mòbil, una targeta de transport versàtil que permet incorporar diversos títols simultàniament, major seguretat amb recuperació de títols en cas de pèrdua o robatori, millores en el procés d’adquisició de títols per a usuaris amb dret a bonificació, i una diversitat de canals per gestionar els suports i digitalització del servei."
+    },
+    {
+      "question": "Quina és la informació general sobre el suport de plàstic sintètic (PVC) de T-mobilitat?",
+      "answer": "El suport de plàstic sintètic (PVC) és una targeta física duradora que permet carregar diversos títols de transport. És ideal per a ús freqüent, ja que és robusta i resistent, i es pot reemplaçar en cas de danys."
+    },
+    {
+      "question": "Quina és la informació general sobre el suport de cartró de T-mobilitat?",
+      "answer": "El suport de cartró és una targeta física lleugera i menys duradora que el plàstic sintètic (PVC), dissenyada per a usos temporals o menys freqüents. És fàcilment reemplaçable en cas de deteriorament."
+    },
+    {
+      "question": "Quina és la informació general sobre el suport mòbil de T-mobilitat?",
+      "answer": "El suport mòbil permet als usuaris utilitzar el seu telèfon intel·ligent com a títol de transport, amb càrrega i recàrrega de títols a través de l’aplicació TMB, oferint una opció convenient i sense contacte."
+    },
+    {
+      "question": "Quina informació hi ha sobre la T-16 de T-mobilitat?",
+      "answer": "La T-16 és un títol de transport destinat a menors de 16 anys que permet viatjar de manera gratuïta o amb descompte en el transport públic. Requereix registre i documentació acreditativa de l’edat del menor."
+    },
+    {
+      "question": "Com es pot donar d’alta un client adult a T-mobilitat?",
+      "answer": "Per donar d’alta un client adult, cal registrar-se al lloc web de T-mobilitat o a través de l’aplicació TMB, proporcionar les dades personals necessàries, i seguir les instruccions per obtenir el suport desitjat. El procés inclou la verificació de la identitat i la selecció del tipus de suport que es vol utilitzar."
+    },
+    {
+      "question": "Com es pot donar d’alta un client menor a T-mobilitat?",
+      "answer": "Els clients menors poden ser registrats per un tutor legal. El procés implica proporcionar informació sobre el menor i seguir els passos per a la creació del compte i l’obtenció del suport adequat. Cal aportar documentació que acrediti la relació amb el menor, així com les dades personals del menor."
+    },
+    {
+      "question": "Com es pot donar d’alta un perfil bonificat a T-mobilitat?",
+      "answer": "Els perfils bonificats, com els estudiants, persones amb discapacitat o altres col·lectius que tinguin dret a descomptes, han de proporcionar la documentació necessària per verificar la seva elegibilitat. Un cop verificats, aquests usuaris poden gaudir de tarifes reduïdes i altres avantatges."
+    },
+    {
+      "question": "Com es pot desvincular un menor de T-mobilitat?",
+      "answer": "Per desvincular un menor de T-mobilitat, el tutor legal ha de contactar amb el servei d’atenció al client de T-mobilitat i sol·licitar la desvinculació, proporcionant la informació necessària per verificar la identitat del menor i del tutor. Això inclou detalls com el número de suport i les dades personals."
+    },
+    {
+      "question": "Com es poden modificar les dades personals a T-mobilitat?",
+      "answer": "Les dades personals es poden modificar a través del lloc web de T-mobilitat o l’aplicació TMB. Els usuaris han d’accedir a la secció de configuració del compte, on poden actualitzar la informació necessària, com ara l’adreça de correu electrònic, el número de telèfon i altres dades personals."
+    },
+    {
+      "question": "Com es poden gestionar les notificacions de T-mobilitat?",
+      "answer": "Les notificacions es poden gestionar a través del lloc web de T-mobilitat o l’aplicació TMB. Els usuaris poden configurar les preferències de notificació en el seu compte, seleccionant quins tipus de notificacions volen rebre i com volen ser notificats (correu electrònic, SMS, etc.)."
+    },
+    {
+      "question": "Com es pot donar de baixa un client de T-mobilitat?",
+      "answer": "Per donar de baixa un client de T-mobilitat, cal contactar amb el servei d’atenció al client i sol·licitar la baixa. Els usuaris han de proporcionar les dades personals i qualsevol altra informació requerida per verificar la identitat i completar el procés de baixa."
+    },
+    {
+      "question": "Com es pot sol·licitar una factura de T-mobilitat?",
+      "answer": "Les factures es poden sol·licitar a través del lloc web de T-mobilitat o l’aplicació TMB, accedint a la secció de facturació i despeses. Els usuaris han de proporcionar els detalls de les transaccions per a les quals necessiten la factura i seguir les instruccions per descarregar-la o rebre-la per correu electrònic."
+    },
+    {
+      "question": "Com es pot adquirir un suport de cartró per a T-mobilitat?",
+      "answer": "Es pot adquirir en màquines d’auto venda o Punts TMB per 0,50 €. Permet carregar un únic tipus de títol."
+    },
+    {
+      "question": "Com es pot adquirir un suport mòbil per a T-mobilitat?",
+      "answer": "Es pot utilitzar el mòbil com a suport per un pagament únic d’1€. Es requereix un dispositiu Android amb NFC, TMB App, i l’App Cartera electrònica."
+    },
+    {
+      "question": "Com es pot consultar l’estat de la sol·licitud del suport en T-mobilitat?",
+      "answer": "Es pot consultar l’estat de la sol·licitud del suport de plàstic sintètic (PVC) a través de canals presencials, digitals, telefònics, web, i app. Els estats inclouen pendent, executant, verificat, i altres estats de fabricació i entrega."
+    },
+    {
+      "question": "Com es poden carregar i recarregar els suports de T-mobilitat?",
+      "answer": "Els suports es poden carregar i recarregar a través de màquines expenedores de bitllets, el lloc web de T-mobilitat, o l’aplicació TMB, seguint les instruccions proporcionades."
+    },
+    {
+      "question": "Com es pot donar de baixa un suport de T-mobilitat?",
+      "answer": "Els usuaris han de contactar amb el servei d’atenció al client per sol·licitar la baixa del suport, proporcionant les dades personals i el número de suport."
+    },
+    {
+      "question": "Com es pot obtenir o modificar el PIN d’activació de T-mobilitat?",
+      "answer": "Es pot obtenir o modificar a través del lloc web de T-mobilitat o l’aplicació TMB, accedint a la secció de configuració del compte."
+    },
+    {
+      "question": "Com es pot bescanviar un suport de plàstic sintètic (PVC) espatllat de T-mobilitat?",
+      "answer": "Es pot sol·licitar un reemplaçament contactant amb el servei d’atenció al client, proporcionant el número de suport i detalls sobre el problema."
+    },
+    {
+      "question": "Com es pot bescanviar un suport de cartró espatllat de T-mobilitat?",
+      "answer": "Es pot gestionar de manera similar als suports PVC, contactant amb el servei d’atenció al client per obtenir un nou suport, aportant informació detallada sobre el suport espatllat."
+    },
+    {
+      "question": "Com es pot obtenir un duplicat de T-mobilitat per pèrdua o robatori?",
+      "answer": "En cas de pèrdua o robatori, cal informar el servei d’atenció al client de T-mobilitat, que processarà la sol·licitud i emetrà un duplicat del suport. Els usuaris han de proporcionar les dades personals i el número de suport original per completar la sol·licitud."
+    },
+    {
+      "question": "Com es pot consultar la informació del suport de T-mobilitat?",
+      "answer": "La informació del suport es pot consultar a través del lloc web de T-mobilitat o l’aplicació TMB, accedint a la secció del compte i revisant els detalls del suport. Els usuaris poden veure l’estat actual, les càrregues disponibles i altres detalls rellevants."
+    },
+    {
+      "question": "Com es realitza la validació a T-mobilitat?",
+      "answer": "La validació es realitza apropant el suport al lector de validació situat en els punts de control del transport públic. Els usuaris han d’assegurar-se que el suport estigui en bon estat i que el títol estigui correctament carregat per evitar problemes durant la validació."
+    },
+    {
+      "question": "Com es pot bloquejar o desbloquejar un suport de T-mobilitat a petició de l’usuari?",
+      "answer": "Els usuaris poden sol·licitar el bloqueig o desbloqueig del seu suport contactant amb el servei d’atenció al client de T-mobilitat. Han de proporcionar les dades personals i el número de suport per completar la sol·licitud. Això pot ser útil en casos de pèrdua o robatori del suport."
+    },
+    {
+      "question": "Com es pot bloquejar o desbloquejar un suport de T-mobilitat per intervenció?",
+      "answer": "En casos específics, el servei d’atenció al client o el personal de TMB pot bloquejar o desbloquejar un suport per intervenció directa. Els usuaris han de contactar amb el servei d’atenció al client i proporcionar la informació necessària per justificar la intervenció."
+    }
+  ]
+}
