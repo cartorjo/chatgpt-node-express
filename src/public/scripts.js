@@ -10,7 +10,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loadingIndicator = document.getElementById('loading-indicator');
 
     const SpeechRecognition = window.SpeechRecognition || window.webkitSpeechRecognition;
-    let recognition = SpeechRecognition ? new SpeechRecognition() : null;
+    const recognition = SpeechRecognition ? new SpeechRecognition() : null;
 
     if (recognition) {
         recognition.continuous = false;
@@ -111,6 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
             recognition.onerror = (event) => {
                 console.error('Speech recognition error', event);
+                appendMessage('Voice recognition error. Please try again.', 'bot');
                 startVoiceButton.disabled = false;
                 stopVoiceButton.disabled = true;
             };
@@ -127,8 +128,14 @@ document.addEventListener('DOMContentLoaded', () => {
             startVoiceButton.disabled = true;
             stopVoiceButton.disabled = true;
             console.error('Speech recognition not supported in this browser.');
+            appendMessage('Speech recognition not supported in this browser.', 'bot');
         }
     };
+
+    if (!window.fetch) {
+        appendMessage('Your browser does not support fetch API. Please update your browser.', 'bot');
+        return;
+    }
 
     setupEventListeners();
 });

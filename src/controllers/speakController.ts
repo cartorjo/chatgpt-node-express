@@ -1,11 +1,7 @@
 import { Request, Response, NextFunction } from 'express';
 import fs from 'fs';
 import path from 'path';
-import OpenAI from 'openai';
-
-const openai = new OpenAI({
-    apiKey: process.env.OPENAI_API_KEY, // Ensure your API key is set in the environment variables
-});
+import openai from '../config/openaiConfig';
 
 export const speakController = async (req: Request, res: Response, next: NextFunction) => {
     const { text, voice = 'nova', response_format = 'mp3', speed = 1.0 } = req.body;

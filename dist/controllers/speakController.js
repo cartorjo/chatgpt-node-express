@@ -15,15 +15,12 @@ Object.defineProperty(exports, "__esModule", { value: true });
 exports.speakController = void 0;
 const fs_1 = __importDefault(require("fs"));
 const path_1 = __importDefault(require("path"));
-const openai_1 = __importDefault(require("openai"));
-const openai = new openai_1.default({
-    apiKey: process.env.OPENAI_API_KEY, // Ensure your API key is set in the environment variables
-});
+const openaiConfig_1 = __importDefault(require("../config/openaiConfig"));
 const speakController = (req, res, next) => __awaiter(void 0, void 0, void 0, function* () {
     const { text, voice = 'nova', response_format = 'mp3', speed = 1.0 } = req.body;
     try {
         // Create the speech using OpenAI API
-        const response = yield openai.audio.speech.create({
+        const response = yield openaiConfig_1.default.audio.speech.create({
             model: 'tts-1',
             voice: voice,
             input: text,
