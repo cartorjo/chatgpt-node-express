@@ -1,0 +1,120 @@
+{
+  "qa": [
+    {
+      "question": "What is T-mobilitat and what advantages does it offer?",
+      "answer": "T-mobilitat is the new public transport bitlletatge and validation system that enables travel with contactless technology, integrating several technological components. The advantages include a faster and more agile validation process, the possibility of accessing transport using devices such as mobile phones, a versatile transport card that allows several fare options to be incorporated simultaneously, greater security with fare recovery in the event of loss or theft, improvements in the fare acquisition process for users entitled to a discount, and a variety of channels for managing support and digitalisation of the service."
+    },
+    {
+      "question": "What is the general information about T-mobilitat's synthetic plastic support (PVC)?",
+      "answer": "The synthetic plastic (PVC) holder is a durable physical card that allows several transport tickets to be loaded. It is ideal for frequent use, as it is robust and resistant, and can be replaced in case of damage."
+    },
+    {
+      "question": "What is the general information about the T-mobilitat cardboard support?",
+      "answer": "The cardboard backing is a lightweight and less durable physical card than synthetic plastic (PVC), designed for temporary or less frequent use. It is easily replaceable in case of deterioration."
+    },
+    {
+      "question": "What is the general information about the T-mobilitat mobile support?",
+      "answer": "The mobile support allows users to use their smartphone as a transport ticket, with charging and recharging of tickets via the TMB app, offering a convenient and contactless option."
+    },
+    {
+      "question": "What information is there about the T-mobilitat T-16?",
+      "answer": "The T-16 is a transport ticket for children under 16 years of age that allows free or discounted travel on public transport. It requires registration and documentation accrediting the age of the minor."
+    },
+    {
+      "question": "How can an adult customer register with T-mobilitat?",
+      "answer": "To register an adult customer, you must register on the T-mobilitat website or through the TMB application, provide the necessary personal data, and follow the instructions to obtain the desired support. The process includes verification of identity and selection of the type of support to be used."
+    },
+    {
+      "question": "How can a minor client be registered with T-mobilitat?",
+      "answer": "Minor customers can be registered by a legal guardian. The process involves providing information about the minor and following the steps for setting up the account and obtaining the appropriate support. Documentation must be provided to prove the relationship with the minor, as well as the minor's personal details."
+    },
+    {
+      "question": "How can I register a subsidised profile with T-mobilitat?",
+      "answer": "Subsidised profiles, such as students, people with disabilities or other groups entitled to discounts, must provide the necessary documentation to verify their eligibility. Once verified, these users can enjoy reduced rates and other benefits."
+    },
+    {
+      "question": "How can a minor be disconnected from T-mobilitat?",
+      "answer": "To unlink a minor from T-mobilitat, the legal guardian has to contact T-mobilitat customer service and request the unlink, providing the necessary information to verify the identity of the minor and the guardian. This includes details such as support number and personal details."
+    },
+    {
+      "question": "How can personal data to T-mobilitat be modified?",
+      "answer": "Personal data can be modified via the T-mobilitat website or the TMB application. Users need to access the account settings section, where they can update the necessary information, such as email address, phone number and other personal data."
+    },
+    {
+      "question": "How can I manage T-mobilitat notifications?",
+      "answer": "Notifications can be managed through the T-mobilitat website or the TMB app. Users can set up notification preferences in their account, selecting what types of notifications they want to receive and how they want to be notified (email, SMS, etc.)."
+    },
+    {
+      "question": "How can a T-mobilitat customer unsubscribe?",
+      "answer": "To unsubscribe a T-mobilitat customer, you have to contact the customer service department and request cancellation. Users have to provide personal data and any other information required to verify identity and complete the unsubscription process."
+    },
+    {
+      "question": "How can I request an invoice from T-mobilitat?",
+      "answer": "Invoices can be requested via the T-mobilitat website or the TMB app, by accessing the billing and expenses section. Users have to provide the details of the transactions for which they need the invoice and follow the instructions to download or receive it by email."
+    },
+    {
+      "question": "How can a cardboard support for T-mobilitat be purchased?",
+      "answer": "It can be purchased at vending machines or TMB Points for 0.50 €. It allows only one type of ticket to be loaded."
+    },
+    {
+      "question": "How can I buy a mobile support for T-mobilitat?",
+      "answer": "You can use your mobile phone as a support for a one-off payment of €1. An Android device with NFC, TMB App, and the eWallet App are required."
+    },
+    {
+      "question": "How can I check the status of my support application on T-mobilitat?",
+      "answer": "You can check the status of the application for synthetic plastic (PVC) support through face-to-face, digital, telephone, web, and app channels. Statuses include pending, executing, verified, and other manufacturing and delivery statuses."
+    },
+    {
+      "question": "How can T-mobilitat supports be loaded and reloaded?",
+      "answer": "Supports can be loaded and reloaded via ticket vending machines, the T-mobilitat website, or the TMB app, following the instructions provided."
+    },
+    {
+      "question": "How can I cancel a T-mobilitat support?",
+      "answer": "Users have to contact customer service to request cancellation of the support, providing personal details and the support number."
+    },
+    {
+      "question": "How can the T-mobilitat activation PIN be obtained or modified?",
+      "answer": "It can be obtained or modified through the T-mobilitat website or the TMB application, by accessing the account configuration section."
+    },
+    {
+      "question": "How can I exchange a damaged T-mobilitat synthetic plastic (PVC) support?",
+      "answer": "A replacement can be requested by contacting customer service, providing the support number and details about the problem."
+    },
+    {
+      "question": "How can a damaged T-mobilitat cardboard support be exchanged?",
+      "answer": "It can be handled in a similar way to PVC supports, by contacting customer service to obtain a new support, providing detailed information about the damaged support."
+    },
+    {
+      "question": "How can I obtain a duplicate T-mobilitat due to loss or theft?",
+      "answer": "In case of loss or theft, the T-mobilitat customer service must be informed, who will process the request and issue a duplicate of the support. Users have to provide the personal data and the original support number to complete the request."
+    },
+    {
+      "question": "How can the T-mobilitat support information be consulted?",
+      "answer": "The support information can be consulted through the T-mobilitat website or the TMB app, by accessing the account section and reviewing the support details. Users can view the current status, available charges and other relevant details."
+    },
+    {
+      "question": "How is the validation to T-mobilitat performed?",
+      "answer": "Validation is carried out by bringing the support close to the validation reader located at the public transport checkpoints. Users must make sure that the support is in good condition and that the fare option is correctly loaded to avoid problems during validation."
+    },
+    {
+      "question": "How can a T-mobilitat fare option be blocked or unblocked at the user's request?",
+      "answer": "Users can request the blocking or unblocking of their support by contacting T-mobilitat customer service. They have to provide personal data and the support number to complete the request. This can be useful in cases of loss or theft of the support."
+    },
+    {
+      "question": "How can a T-mobilitat support be blocked or unblocked by intervention?",
+      "answer": "In specific cases, the customer service or TMB staff can block or unblock a support by direct intervention. Users have to contact customer services and provide the necessary information to justify the intervention."
+    },
+    {
+      "question": "What is the customer path for obtaining T-mobilitat?",
+      "answer": "The customer path that a user has to follow to get support and be able to manage it is made up of several processes. First, the digital user registration (JoTMBé), which is essential for self-managing the T-mobilitat account and registering digitally. Next, customer registration, which can be done both in person and digitally. Next, profile registration, which is necessary if you are entitled to subsidised securities, only available in face-to-face channels. Finally, the acquisition of a support with an uploaded diploma, which can be done in face-to-face channels or digitally."
+    },
+    {
+      "question": "Where can it be used?",
+      "answer": "You can use the T-mobilitat to travel on all public transport operators in the six Metropolitan Area corridors."
+    },
+    {
+      "question": "What advantages does it have?",
+      "answer": "The validation process is faster and more agile. There is the possibility of accessing transport via new devices such as mobile phones. The transport card is more versatile, as the PVC support will be able to incorporate two different fare options simultaneously and up to two units for each fare option loaded. It also offers a greater degree of security, allowing users who are registered as T-mobilitat customers to recover their fare options in the event of loss or theft. It improves the process of acquiring fare options for users entitled to a discount, since once their entitlement has been accredited and the personalised PVC has been acquired, they can recharge the fare options independently (while their entitlement is valid) and through various channels. There is also a wide range of channels for managing support and digitalisation of the service, allowing the customer to anticipate and manage tickets and/or support through digital channels without the need to go specifically to the automatic machine before accessing transport. Finally, the customer will be able to recharge tickets automatically without having to keep an eye on whether their T-casual has already run out, and receive balance alerts on their mobile phone."
+    }
+  ]
+}
