@@ -1,132 +1,132 @@
 {
   "qa": [
     {
-      "question": "Qué es T-mobilitat y qué ventajas ofrece?",
-      "answer": "T-mobilitat es el nuevo sistema de bitlletatge y validación del transporte público que permite viajar con tecnología sin contacto, integrando varios componentes tecnológicos. Las ventajas incluyen un proceso de validación más rápido y ágil, la posibilidad de acceder al transporte mediante dispositivos como el teléfono móvil, una tarjeta de transporte versátil que permite incorporar varios títulos simultáneamente, mayor seguridad con recuperación de títulos en caso de pérdida o robo, mejoras en el proceso de adquisición de títulos para usuarios con derecho a bonificación, y una diversidad de canales para gestionar los apoyos y digitalización del servicio."
+      "question": "Qué es Te mobilitat y qué ventajas ofrece?",
+      "answer": "Te mobilitat es el nuevo sistema de bitlletatge y validación del transporte público que permite viajar con tecnología sin contacto, integrando varios componentes tecnológicos. Las ventajas incluyen un proceso de validación más rápido y ágil, la posibilidad de acceder al transporte mediante dispositivos como el teléfono móvil, una tarjeta de transporte versátil que permite incorporar varios títulos simultáneamente, mayor seguridad con recuperación de títulos en caso de pérdida o robo, mejoras en el proceso de adquisición de títulos para usuarios con derecho a bonificación, y una diversidad de canales para gestionar los apoyos y digitalización del servicio."
     },
     {
-      "question": "Cuál es la información general sobre el apoyo de plástico sintético (PVC) de T-mobilitat?",
+      "question": "Cuál es la información general sobre el apoyo de plástico sintético (PVC) de Te mobilitat?",
       "answer": "El apoyo de plástico sintético (PVC) es una tarjeta física duradera que permite cargar varios títulos de transporte. Es ideal para uso frecuente, puesto que es robusta y resistente, y se puede reemplazar en caso de daños."
     },
     {
-      "question": "Cuál es la información general sobre el apoyo de cartón de T-mobilitat?",
+      "question": "Cuál es la información general sobre el apoyo de cartón de Te mobilitat?",
       "answer": "El apoyo de cartón es una tarjeta física ligera y menos duradera que el plástico sintético (PVC), diseñada para usos temporales o menos frecuentes. Es fácilmente reemplazable en caso de deterioro."
     },
     {
-      "question": "Cuál es la información general sobre el apoyo móvil de T-mobilitat?",
+      "question": "Cuál es la información general sobre el apoyo móvil de Te mobilitat?",
       "answer": "El apoyo móvil permite a los usuarios utilizar su smartphone como título de transporte, con carga y recarga de títulos a través de la aplicación TMB, ofreciendo una opción conveniente y sin contacto."
     },
     {
-      "question": "Qué información hay sobre la T-16 de T-mobilitat?",
+      "question": "Qué información hay sobre la T-16 de Te mobilitat?",
       "answer": "La T-16 es un título de transporte destinado a menores de 16 años que permite viajar de manera gratuita o con descuento en el transporte público. Requiere registro y documentación acreditativa de la edad del menor."
     },
     {
-      "question": "Cómo se puede dar de alta un cliente adulto a T-mobilitat?",
-      "answer": "Para dar de alta un cliente adulto, hay que registrarse al sitio web de T-mobilitat o a través de la aplicación TMB, proporcionar los datos personales necesarios, y seguir las instrucciones para obtener el apoyo deseado. El proceso incluye la verificación de la identidad y la selección del tipo de apoyo que se quiere utilizar."
+      "question": "Cómo se puede dar de alta un cliente adulto a Te mobilitat?",
+      "answer": "Para dar de alta un cliente adulto, hay que registrarse al sitio web de Te mobilitat o a través de la aplicación TMB, proporcionar los datos personales necesarios, y seguir las instrucciones para obtener el apoyo deseado. El proceso incluye la verificación de la identidad y la selección del tipo de apoyo que se quiere utilizar."
     },
     {
-      "question": "Cómo se puede dar de alta un cliente menor a T-mobilitat?",
+      "question": "Cómo se puede dar de alta un cliente menor a Te mobilitat?",
       "answer": "Los clientes menores pueden ser registrados por un tutor legal. El proceso implica proporcionar información sobre el menor y seguir los pasos para la creación de la cuenta y la obtención del apoyo adecuado. Hay que aportar documentación que acredite la relación con el menor, así como los datos personales del menor."
     },
     {
-      "question": "Cómo se puede dar de alta un perfil bonificado a T-mobilitat?",
+      "question": "Cómo se puede dar de alta un perfil bonificado a Te mobilitat?",
       "answer": "Los perfiles bonificados, como los estudiantes, personas con discapacidad u otros colectivos que tengan derecho a descuentos, tienen que proporcionar la documentación necesaria para verificar su elegibilidad. Una vez verificados, estos usuarios pueden disfrutar de tarifas reducidas y otras ventajas."
     },
     {
-      "question": "Cómo se puede desvincular un menor de T-mobilitat?",
-      "answer": "Para desvincular un menor de T-mobilitat, el tutor legal tiene que contactar con el servicio de atención al cliente de T-mobilitat y solicitar la desvinculación, proporcionando la información necesaria para verificar la identidad del menor y del tutor. Esto incluye detalles como el número de apoyo y los datos personales."
+      "question": "Cómo se puede desvincular un menor de Te mobilitat?",
+      "answer": "Para desvincular un menor de Te mobilitat, el tutor legal tiene que contactar con el servicio de atención al cliente de Te mobilitat y solicitar la desvinculación, proporcionando la información necesaria para verificar la identidad del menor y del tutor. Esto incluye detalles como el número de apoyo y los datos personales."
     },
     {
-      "question": "Cómo se pueden modificar los datos personales a T-mobilitat?",
-      "answer": "Los datos personales se pueden modificar a través del sitio web de T-mobilitat o la aplicación TMB. Los usuarios tienen que acceder a la sección de configuración de la cuenta, donde pueden actualizar la información necesaria, como por ejemplo la dirección de correo electrónico, el número de teléfono y otros datos personales."
+      "question": "Cómo se pueden modificar los datos personales a Te mobilitat?",
+      "answer": "Los datos personales se pueden modificar a través del sitio web de Te mobilitat o la aplicación TMB. Los usuarios tienen que acceder a la sección de configuración de la cuenta, donde pueden actualizar la información necesaria, como por ejemplo la dirección de correo electrónico, el número de teléfono y otros datos personales."
     },
     {
-      "question": "Cómo se pueden gestionar las notificaciones de T-mobilitat?",
-      "answer": "Las notificaciones se pueden gestionar a través del sitio web de T-mobilitat o la aplicación TMB. Los usuarios pueden configurar las preferencias de notificación en su cuenta, seleccionando qué tipos de notificaciones quieren recibir y como quieren ser notificados (correo electrónico, SMS, etc.)."
+      "question": "Cómo se pueden gestionar las notificaciones de Te mobilitat?",
+      "answer": "Las notificaciones se pueden gestionar a través del sitio web de Te mobilitat o la aplicación TMB. Los usuarios pueden configurar las preferencias de notificación en su cuenta, seleccionando qué tipos de notificaciones quieren recibir y como quieren ser notificados (correo electrónico, SMS, etc.)."
     },
     {
-      "question": "Cómo se puede dar de baja un cliente de T-mobilitat?",
-      "answer": "Para dar de baja un cliente de T-mobilitat, hay que contactar con el servicio de atención al cliente y solicitar la baja. Los usuarios tienen que proporcionar los datos personales y cualquier otra información requerida para verificar la identidad y completar el proceso de baja."
+      "question": "Cómo se puede dar de baja un cliente de Te mobilitat?",
+      "answer": "Para dar de baja un cliente de Te mobilitat, hay que contactar con el servicio de atención al cliente y solicitar la baja. Los usuarios tienen que proporcionar los datos personales y cualquier otra información requerida para verificar la identidad y completar el proceso de baja."
     },
     {
-      "question": "Cómo se puede solicitar una factura de T-mobilitat?",
-      "answer": "Las facturas se pueden solicitar a través del sitio web de T-mobilitat o la aplicación TMB, accediendo a la sección de facturación y gastos. Los usuarios tienen que proporcionar los detalles de las transacciones para las cuales necesitan la factura y seguir las instrucciones para descargarla o recibirla por correo electrónico."
+      "question": "Cómo se puede solicitar una factura de Te mobilitat?",
+      "answer": "Las facturas se pueden solicitar a través del sitio web de Te mobilitat o la aplicación TMB, accediendo a la sección de facturación y gastos. Los usuarios tienen que proporcionar los detalles de las transacciones para las cuales necesitan la factura y seguir las instrucciones para descargarla o recibirla por correo electrónico."
     },
     {
-      "question": "Cómo se puede adquirir un apoyo de cartón para T-mobilitat?",
+      "question": "Cómo se puede adquirir un apoyo de cartón para Te mobilitat?",
       "answer": "Se puede adquirir en máquinas de auto venta o Puntos TMB por 0,50 €. Permite cargar un único tipo de título."
     },
     {
-      "question": "Cómo se puede adquirir un apoyo móvil para T-mobilitat?",
+      "question": "Cómo se puede adquirir un apoyo móvil para Te mobilitat?",
       "answer": "Se puede utilizar el móvil como apoyo por un pago único de 1€. Se requiere un dispositivo Android con NFC, TMB App, y la App Cartera electrónica."
     },
     {
-      "question": "Cómo se puede consultar el estado de la solicitud del apoyo en T-mobilitat?",
+      "question": "Cómo se puede consultar el estado de la solicitud del apoyo en Te mobilitat?",
       "answer": "Se puede consultar el estado de la solicitud del apoyo de plástico sintético (PVC) a través de canales presenciales, digitales, telefónicos, web, y app. Los estados incluyen pendiente, ejecutando, verificado, y otros estados de fabricación y entrega."
     },
     {
-      "question": "Cómo se pueden cargar y recargar los apoyos de T-mobilitat?",
-      "answer": "Los apoyos se pueden cargar y recargar a través de máquinas expendedoras de billetes, el sitio web de T-mobilitat, o la aplicación TMB, siguiendo las instrucciones proporcionadas."
+      "question": "Cómo se pueden cargar y recargar los apoyos de Te mobilitat?",
+      "answer": "Los apoyos se pueden cargar y recargar a través de máquinas expendedoras de billetes, el sitio web de Te mobilitat, o la aplicación TMB, siguiendo las instrucciones proporcionadas."
     },
     {
-      "question": "Cómo se puede dar de baja un apoyo de T-mobilitat?",
+      "question": "Cómo se puede dar de baja un apoyo de Te mobilitat?",
       "answer": "Los usuarios tienen que contactar con el servicio de atención al cliente para solicitar la baja del apoyo, proporcionando los datos personales y el número de apoyo."
     },
     {
-      "question": "Cómo se puede obtener o modificar el PIN de activación de T-mobilitat?",
-      "answer": "Se puede obtener o modificar a través del sitio web de T-mobilitat o la aplicación TMB, accediendo a la sección de configuración de la cuenta."
+      "question": "Cómo se puede obtener o modificar el PIN de activación de Te mobilitat?",
+      "answer": "Se puede obtener o modificar a través del sitio web de Te mobilitat o la aplicación TMB, accediendo a la sección de configuración de la cuenta."
     },
     {
-      "question": "Cómo se puede intercambiar un apoyo de plástico sintético (PVC) estropeado de T-mobilitat?",
+      "question": "Cómo se puede intercambiar un apoyo de plástico sintético (PVC) estropeado de Te mobilitat?",
       "answer": "Se puede solicitar un reemplazo contactando con el servicio de atención al cliente, proporcionando el número de apoyo y detalles sobre el problema."
     },
     {
-      "question": "Cómo se puede intercambiar un apoyo de cartón estropeado de T-mobilitat?",
+      "question": "Cómo se puede intercambiar un apoyo de cartón estropeado de Te mobilitat?",
       "answer": "Se puede gestionar de manera similar a los apoyos PVC, contactando con el servicio de atención al cliente para obtener un nuevo apoyo, aportando información detallada sobre el apoyo estropeado."
     },
     {
-      "question": "Cómo se puede obtener un duplicado de T-mobilitat por pérdida o robo?",
-      "answer": "En caso de pérdida o robo, hay que informar el servicio de atención al cliente de T-mobilitat, que procesará la solicitud y emitirá un duplicado del apoyo. Los usuarios tienen que proporcionar los datos personales y el número de apoyo original para completar la solicitud."
+      "question": "Cómo se puede obtener un duplicado de Te mobilitat por pérdida o robo?",
+      "answer": "En caso de pérdida o robo, hay que informar el servicio de atención al cliente de Te mobilitat, que procesará la solicitud y emitirá un duplicado del apoyo. Los usuarios tienen que proporcionar los datos personales y el número de apoyo original para completar la solicitud."
     },
     {
-      "question": "Cómo se puede consultar la información del apoyo de T-mobilitat?",
-      "answer": "La información del apoyo se puede consultar a través del sitio web de T-mobilitat o la aplicación TMB, accediendo a la sección de la cuenta y revisando los detalles del apoyo. Los usuarios pueden ver el estado actual, las cargas disponibles y otros detalles relevantes."
+      "question": "Cómo se puede consultar la información del apoyo de Te mobilitat?",
+      "answer": "La información del apoyo se puede consultar a través del sitio web de Te mobilitat o la aplicación TMB, accediendo a la sección de la cuenta y revisando los detalles del apoyo. Los usuarios pueden ver el estado actual, las cargas disponibles y otros detalles relevantes."
     },
     {
-      "question": "Cómo se realiza la validación a T-mobilitat?",
+      "question": "Cómo se realiza la validación a Te mobilitat?",
       "answer": "La validación se realiza acercando el apoyo al lector de validación situado en los puntos de control del transporte público. Los usuarios tienen que asegurarse que el apoyo esté en buen estado y que el título esté correctamente cargado para evitar problemas durante la validación."
     },
     {
-      "question": "Cómo se puede bloquear o desbloquear un apoyo de T-mobilitat a petición del usuario?",
-      "answer": "Los usuarios pueden solicitar el bloqueo o desbloqueo de su apoyo contactando con el servicio de atención al cliente de T-mobilitat. Tienen que proporcionar los datos personales y el número de apoyo para completar la solicitud. Esto puede ser útil en casos de pérdida o robo del apoyo."
+      "question": "Cómo se puede bloquear o desbloquear un apoyo de Te mobilitat a petición del usuario?",
+      "answer": "Los usuarios pueden solicitar el bloqueo o desbloqueo de su apoyo contactando con el servicio de atención al cliente de Te mobilitat. Tienen que proporcionar los datos personales y el número de apoyo para completar la solicitud. Esto puede ser útil en casos de pérdida o robo del apoyo."
     },
     {
-      "question": "Cómo se puede bloquear o desbloquear un apoyo de T-mobilitat por intervención?",
+      "question": "Cómo se puede bloquear o desbloquear un apoyo de Te mobilitat por intervención?",
       "answer": "En casos específicos, el servicio de atención al cliente o el personal de TMB puede bloquear o desbloquear un apoyo por intervención directa. Los usuarios tienen que contactar con el servicio de atención al cliente y proporcionar la información necesaria para justificar la intervención."
     },
     {
       "question": "Qué se",
-      "answer": "T-mobilitat es el nuevo sistema de bitlletatge y validación del transporte público que te permite viajar con tecnología sin contacto. Integra un conjunto de componentes tecnológicos que van desde los sistemas de información centrales hasta los equipos de campo (como las validadores y las máquinas auto-expendedoras)."
+      "answer": "Te mobilitat es el nuevo sistema de bitlletatge y validación del transporte público que te permite viajar con tecnología sin contacto. Integra un conjunto de componentes tecnológicos que van desde los sistemas de información centrales hasta los equipos de campo (como las validadores y las máquinas auto-expendedoras)."
     },
     {
-      "question": "Quién es el responsable del proyecto T-mobilitat?",
-      "answer": "El responsable del proyecto T-mobilitat es ATM (con la colaboración de CON), por delegación del Departamento de la Vicepresidencia y de Políticas Digitales y Territorio de la Generalitat de Cataluña. ATM es una entidad pública formada por la Generalitat de Cataluña, el Ayuntamiento de Barcelona y el Área Metropolitana de Barcelona. CON es una entidad pública formada por la Generalitat de Catalinya, el Ayuntamiento de Barcelona, la Diputación de Barcelona y la ATM."
+      "question": "Quién es el responsable del proyecto Te mobilitat?",
+      "answer": "El responsable del proyecto Te mobilitat es ATM (con la colaboración de CON), por delegación del Departamento de la Vicepresidencia y de Políticas Digitales y Territorio de la Generalitat de Cataluña. ATM es una entidad pública formada por la Generalitat de Cataluña, el Ayuntamiento de Barcelona y el Área Metropolitana de Barcelona. CON es una entidad pública formada por la Generalitat de Catalinya, el Ayuntamiento de Barcelona, la Diputación de Barcelona y la ATM."
     },
     {
-      "question": "Qué tiene que hacer el cliente para obtener la T-mobilitat?",
-      "answer": "La trayectoria de cliente que tendrá que seguir un usuario para llegar a tener su apoyo y poder gestionarlo está formada por varios procesos. Primero, el alta de usuario digital (JoTMBé), imprescindible para autogestionar la cuenta T-mobilitat y darse de alta digitalmente. Después, el alta de cliente, que se puede hacer tanto en canales presenciales como de forma digital. A continuación, el alta de perfil, necesaria en caso de tener derecho a títulos bonificados, solo disponible en canales presenciales. Finalmente, la adquisición de un apoyo con un título cargado, que se puede realizar en canales presenciales o de forma digital."
+      "question": "Qué tiene que hacer el cliente para obtener la Te mobilitat?",
+      "answer": "La trayectoria de cliente que tendrá que seguir un usuario para llegar a tener su apoyo y poder gestionarlo está formada por varios procesos. Primero, el alta de usuario digital (JoTMBé), imprescindible para autogestionar la cuenta Te mobilitat y darse de alta digitalmente. Después, el alta de cliente, que se puede hacer tanto en canales presenciales como de forma digital. A continuación, el alta de perfil, necesaria en caso de tener derecho a títulos bonificados, solo disponible en canales presenciales. Finalmente, la adquisición de un apoyo con un título cargado, que se puede realizar en canales presenciales o de forma digital."
     },
     {
       "question": "Donde se puede usar?",
-      "answer": "Puedes usar la T-mobilitat para desplazarte en todos los operadores de transporte públicos de las seis coronas del Área Metropolitana."
+      "answer": "Puedes usar la Te mobilitat para desplazarte en todos los operadores de transporte públicos de las seis coronas del Área Metropolitana."
     },
     {
       "question": "Qué ventajas tiene",
-      "answer": "El proceso de validación es más rápido y ágil. Hay la posibilidad de acceder al transporte mediante nuevos dispositivos como el teléfono móvil. La tarjeta de transporte es más versátil, puesto que el apoyo PVC podrá incorporar dos títulos diferentes de manera simultánea y hasta dos unidades por cada uno de los títulos cargados. Además, ofrece un mayor grado de seguridad, permitiendo a los usuarios dados de alta como cliente de la T-mobilitat recuperar los títulos en caso de pérdida o robo del apoyo. Mejora el proceso de adquisición de títulos por los usuarios con derecho a bonificación, puesto que una vez acreditada su derecho y adquirido el PVC personalizado, podrán recargar los títulos de forma autónoma (mientras su derecho sea vigente) y a través de varios canales. También hay un amplio abanico de canales para gestionar los apoyos y la digitalización del servicio, permitiendo al cliente anticiparse y gestionar los títulos y/o apoyos a través de los canales digitales sin necesidad de acudir expresamente a la máquina automática antes de acceder al transporte. Finalmente, el cliente podrá recargar títulos de manera automática sin tener que estar pendiente si su T-casual ya se ha agotado, y recibir alertas de saldo en su teléfono móvil."
+      "answer": "El proceso de validación es más rápido y ágil. Hay la posibilidad de acceder al transporte mediante nuevos dispositivos como el teléfono móvil. La tarjeta de transporte es más versátil, puesto que el apoyo PVC podrá incorporar dos títulos diferentes de manera simultánea y hasta dos unidades por cada uno de los títulos cargados. Además, ofrece un mayor grado de seguridad, permitiendo a los usuarios dados de alta como cliente de la Te mobilitat recuperar los títulos en caso de pérdida o robo del apoyo. Mejora el proceso de adquisición de títulos por los usuarios con derecho a bonificación, puesto que una vez acreditada su derecho y adquirido el PVC personalizado, podrán recargar los títulos de forma autónoma (mientras su derecho sea vigente) y a través de varios canales. También hay un amplio abanico de canales para gestionar los apoyos y la digitalización del servicio, permitiendo al cliente anticiparse y gestionar los títulos y/o apoyos a través de los canales digitales sin necesidad de acudir expresamente a la máquina automática antes de acceder al transporte. Finalmente, el cliente podrá recargar títulos de manera automática sin tener que estar pendiente si su T-casual ya se ha agotado, y recibir alertas de saldo en su teléfono móvil."
     },
     {
       "question": "Qué es el Alta de cliente adulto",
-      "answer": "EL alta de cliente consiste al registrar a un usuario como cliente del sistema T-mobilitat. El usuario podrá disfrutar de todas las funcionalidades a las que para poder acceder se tiene que estar registrado como cliente."
+      "answer": "EL alta de cliente consiste al registrar a un usuario como cliente del sistema Te mobilitat. El usuario podrá disfrutar de todas las funcionalidades a las que para poder acceder se tiene que estar registrado como cliente."
     },
     {
       "question": "Qué es obligatorio para el cliente para hacer el alta?",
@@ -161,7 +161,7 @@
       "answer": "Puede hacer la modificación de datos en un Punto o a través de su espacio personal del web o app, si está vinculado a JoTMBé."
     },
     {
-      "question": "Qué pasa si el cliente se da de baja de T-mobilitat?",
+      "question": "Qué pasa si el cliente se da de baja de Te mobilitat?",
       "answer": "Su cuenta desaparece, y si quiere volver a ser un cliente registrado, tendrá que volver a darse de alta."
     },
     {
@@ -178,7 +178,7 @@
     },
     {
       "question": "Qué tiene que hacer el agente para dar de alta al cliente presencialmente?",
-      "answer": "Para dar de alta a un cliente presencialmente, el agente tiene que seguir un proceso diferente según si el cliente está dado de alta a JoTMBé y/o es cliente T-mobilitat. Para determinar esto, el agente tiene que hacer una búsqueda por correo electrónico (para ver si es cliente TMB y/o cliente T-mobilitat) y por documento de identidad en caso de que se facilite un correo diferente. Es importante rellenar el campo del correo electrónico para futuras gestiones. Si el cliente está registrado a T-mobilitat y es cliente TMB, no se hace ninguna acción adicional, solo se lo informa de la situación. Si no es cliente TMB, pero está registrado a T-mobilitat y tiene correo electrónico y acceso a internet, se lo da de alta como cliente JoTMBé heredando los datos de la ficha de T-mobilitat. Si no tiene correo electrónico y/o acceso a internet, se lo da de alta como cliente TMB, y posteriormente el cliente tendrá que vincular su cuenta T-mobilitat y JoTMBé usando el correo informado. Si el cliente no está registrado a T-mobilitat y es cliente TMB, se lo da de alta a T-mobilitat a través de la herramienta Clientes Backoffice JoTMBé, y si informa de su cuenta JoTMBé, se vinculará la T-mobilitat a su cuenta JoTMBé. Si no es cliente TMB, pero informa del correo electrónico y tiene acceso a internet, se lo da de alta al JoTMBé y como cliente T-mobilitat a la vez, a través de la herramienta Clientes Backoffice JoTMBé. Si no informa del correo electrónico o no tiene acceso a internet, se lo da de alta a través de la misma herramienta, pero el cliente se tendrá que vincular a JoTMBé posteriormente. Al acabar el alta, el agente informará y explicará al cliente que también puede hacer este trámite a través del web o la app para hacer las diferentes gestiones."
+      "answer": "Para dar de alta a un cliente presencialmente, el agente tiene que seguir un proceso diferente según si el cliente está dado de alta a JoTMBé y/o es cliente Te mobilitat. Para determinar esto, el agente tiene que hacer una búsqueda por correo electrónico (para ver si es cliente TMB y/o cliente Te mobilitat) y por documento de identidad en caso de que se facilite un correo diferente. Es importante rellenar el campo del correo electrónico para futuras gestiones. Si el cliente está registrado a Te mobilitat y es cliente TMB, no se hace ninguna acción adicional, solo se lo informa de la situación. Si no es cliente TMB, pero está registrado a Te mobilitat y tiene correo electrónico y acceso a internet, se lo da de alta como cliente JoTMBé heredando los datos de la ficha de Te mobilitat. Si no tiene correo electrónico y/o acceso a internet, se lo da de alta como cliente TMB, y posteriormente el cliente tendrá que vincular su cuenta Te mobilitat y JoTMBé usando el correo informado. Si el cliente no está registrado a Te mobilitat y es cliente TMB, se lo da de alta a Te mobilitat a través de la herramienta Clientes Backoffice JoTMBé, y si informa de su cuenta JoTMBé, se vinculará la Te mobilitat a su cuenta JoTMBé. Si no es cliente TMB, pero informa del correo electrónico y tiene acceso a internet, se lo da de alta al JoTMBé y como cliente Te mobilitat a la vez, a través de la herramienta Clientes Backoffice JoTMBé. Si no informa del correo electrónico o no tiene acceso a internet, se lo da de alta a través de la misma herramienta, pero el cliente se tendrá que vincular a JoTMBé posteriormente. Al acabar el alta, el agente informará y explicará al cliente que también puede hacer este trámite a través del web o la app para hacer las diferentes gestiones."
     },
     {
       "question": "Qué tiene que hacer el agente para atender una consulta digital o telefónica?",
@@ -210,11 +210,11 @@
     },
     {
       "question": "Donde se tiene que dar de alta?",
-      "answer": "En el web: https://tmb.cat/ca/tarifes-metro-bus-barcelona/t-mobilitat/com-funciona/alta"
+      "answer": "En el web: https://tmb.cat/ca/tarifes-metro-bus-barcelona/Te mobilitat/com-funciona/alta"
     },
     {
       "question": "Qué pasos tiene que seguir el cliente para hacer el alta?",
-      "answer": "1. Tiene que iniciar sesión al JoTMBé y acceder a 'Quiero darme de alta'. 2. Rellenar el formulario y, en el supuesto de que no autorice el uso de PICA, adjuntar una imagen del documento de identidad con el que el cliente se ha dado de alta. 3. Si el cliente no ha autorizado el uso de PICA, la ATM (o un agente con acceso a TPW Agente) verifica los datos y ejecuta el alta. 4. Una vez aprobada el alta, la cuenta de T-mobilitat y el del JoTMBé se vinculan automáticamente."
+      "answer": "1. Tiene que iniciar sesión al JoTMBé y acceder a 'Quiero darme de alta'. 2. Rellenar el formulario y, en el supuesto de que no autorice el uso de PICA, adjuntar una imagen del documento de identidad con el que el cliente se ha dado de alta. 3. Si el cliente no ha autorizado el uso de PICA, la ATM (o un agente con acceso a TPW Agente) verifica los datos y ejecuta el alta. 4. Una vez aprobada el alta, la cuenta de Te mobilitat y el del JoTMBé se vinculan automáticamente."
     },
     {
       "question": "Alta cliente menor: Qué es?",
@@ -262,15 +262,15 @@
     },
     {
       "question": "Por qué canales se puede dar de alta un menor?",
-      "answer": "Para dar de alta un menor en el sistema T-mobilitat, hay varios canales disponibles. EL alta presencial es posible, pero requiere una cita previa. Los canales digital y telefónico no permiten realizar el alta, pero sí proporcionan información sobre el trámite. Finalmente, el alta es posible a través de los canales web y app."
+      "answer": "Para dar de alta un menor en el sistema Te mobilitat, hay varios canales disponibles. EL alta presencial es posible, pero requiere una cita previa. Los canales digital y telefónico no permiten realizar el alta, pero sí proporcionan información sobre el trámite. Finalmente, el alta es posible a través de los canales web y app."
     },
     {
       "question": "Para qué apoyos es obligatoria el alta de un menor?",
       "answer": "Por la tarjeta personalizada PVC. Los clientes menores de edad no pueden tener apoyo móvil."
     },
     {
-      "question": "T-mobilitat:Para qué títulos es obligatoria el alta?",
-      "answer": "Aplica en todos los títulos actualmente disponibles en T-mobilitat."
+      "question": "Te mobilitat:Para qué títulos es obligatoria el alta?",
+      "answer": "Aplica en todos los títulos actualmente disponibles en Te mobilitat."
     },
     {
       "question": "Puede un cliente dar de alta a un tercero?",
@@ -281,7 +281,7 @@
       "answer": "Quioscos TMB y Puntos TMB"
     },
     {
-      "question": "T-mobilitat:Qué es obligatorio para el cliente para hacer el alta de un menor presencialmente?",
+      "question": "Te mobilitat:Qué es obligatorio para el cliente para hacer el alta de un menor presencialmente?",
       "answer": "Es obligatorio pedir cita previa. El cliente gestor tiene que aportar el DNI, NIE, documento de identidad europeo o de la Unión Europea, o pasaporte original y vigente. También es necesario el DNI, NIE, documento de identidad europeo o de la Unión Europea, o pasaporte original y vigente del menor, si tiene. Además, se tiene que aportar el libro de familia, certificado de tutela o documento legal que acredite la vinculación. Todos los documentos tienen que ser originales y vigentes. No es necesario que el menor esté presente. En el caso de las personas transexuales, se prevé la posibilidad de contener el nombre y apellidos de acuerdo con la tarjeta sanitaria individual, acompañada de la preceptiva certificación de la administración competente en materia LGTBI, acreditando que su tarjeta sanitaria corresponde al DNI, NIE, documento de identidad europeo o de la Unión Europea, o pasaporte original."
     },
     {
@@ -298,7 +298,7 @@
     },
     {
       "question": "Qué es obligatorio para el cliente para hacer el alta del cliente menor de edad vía web/App?",
-      "answer": "1. El cliente gestor tiene que tener una cuenta T-mobilitat vinculado a JoTMBé. Tiene que iniciar la sesión en el web de TMB. Si el cliente lo hace a través de TMB App, tiene que acceder a TMB App > T-mobilitat > Tarjeta > Solicitarla.\n2. El cliente tiene que acceder en el apartado Área personal > Cuenta T-mobilitat > Personas a cargo > Alta menor de edad.\n3. El gestor tiene que seleccionar definir la relación con el menor e introducir el número de documento del cliente gestionado. Posteriormente, rellenar el resto de datos personales.\n4. Tiene que adjuntar una fotografía del documento de identidad del menor y del certificado que acredite la vinculación.\n5. Una vez introducidas los datos, se genera una solicitud de alta de cliente menor que tiene que ser verificada por un agente de atención.\n6. Una vez aprobada el alta, el cliente gestor podrá gestionar la cuenta del cliente gestionado a través de su cuenta JoTMBé."
+      "answer": "1. El cliente gestor tiene que tener una cuenta Te mobilitat vinculado a JoTMBé. Tiene que iniciar la sesión en el web de TMB. Si el cliente lo hace a través de TMB App, tiene que acceder a TMB App > Te mobilitat > Tarjeta > Solicitarla.\n2. El cliente tiene que acceder en el apartado Área personal > Cuenta Te mobilitat > Personas a cargo > Alta menor de edad.\n3. El gestor tiene que seleccionar definir la relación con el menor e introducir el número de documento del cliente gestionado. Posteriormente, rellenar el resto de datos personales.\n4. Tiene que adjuntar una fotografía del documento de identidad del menor y del certificado que acredite la vinculación.\n5. Una vez introducidas los datos, se genera una solicitud de alta de cliente menor que tiene que ser verificada por un agente de atención.\n6. Una vez aprobada el alta, el cliente gestor podrá gestionar la cuenta del cliente gestionado a través de su cuenta JoTMBé."
     },
     {
       "question": "EL alta de cliente menor de edad vía web/App se puede hacer a través de PICA?",
@@ -322,7 +322,7 @@
     },
     {
       "question": "Por qué canales se puede el cliente hacer el alta del perfil bonificado?",
-      "answer": "Para hacer el alta del perfil, el cliente puede utilizar varios canales. El proceso se puede hacer de manera presencial con cita previa. También se puede hacer a través del canal web/app. No se permite hacer el alta del perfil a través de los canales digital y telefónico. Si el cliente ya está dado de alta al sistema T-mobilitat, puede ir a un quiosco o un punto sin cita previa."
+      "answer": "Para hacer el alta del perfil, el cliente puede utilizar varios canales. El proceso se puede hacer de manera presencial con cita previa. También se puede hacer a través del canal web/app. No se permite hacer el alta del perfil a través de los canales digital y telefónico. Si el cliente ya está dado de alta al sistema Te mobilitat, puede ir a un quiosco o un punto sin cita previa."
     },
     {
       "question": "Para qué apoyos es obligatoria el alta del perfil bonificado?",
@@ -350,7 +350,7 @@
     },
     {
       "question": "Qué es obligatorio para el cliente para hacer el alta de perfil bonificado presencialmente?",
-      "answer": "Solo hace falta cita previa si todavía no es cliente de T-mobilitat.\nEstar dado de alta como cliente.\nAportar el DNI, NIE, documento de identidad europeo, o pasaporte. Original y vigente.\nAportar el carné FM/FN. En el caso de FM/FN otras comunidades, hará falta que el carné tenga un código de verificación (CSV) y aportar el sitio web desde donde se puede verificar la autenticidad del carné.\nNO son válidas las solicitudes de carné bonificado, o los carnés bonificados de Andorra ni cabe otro país."
+      "answer": "Solo hace falta cita previa si todavía no es cliente de Te mobilitat.\nEstar dado de alta como cliente.\nAportar el DNI, NIE, documento de identidad europeo, o pasaporte. Original y vigente.\nAportar el carné FM/FN. En el caso de FM/FN otras comunidades, hará falta que el carné tenga un código de verificación (CSV) y aportar el sitio web desde donde se puede verificar la autenticidad del carné.\nNO son válidas las solicitudes de carné bonificado, o los carnés bonificados de Andorra ni cabe otro país."
     },
     {
       "question": "Qué herramientas tienen que utilizar los agentes para dar de alta de perfil a un cliente?",
@@ -370,15 +370,15 @@
     },
     {
       "question": "Cómo funciona la Migración 'automática' por aquellos que ya tienen el perfil FM/FN a nuestra base de datos de JoTMBé",
-      "answer": "Se los enviaría un correo invitándolos a hacerse de T-mobilitat y migrar los perfiles bonificados que tienen. Para hacerlo tienen que clicar en el enlace del correo bajo login de JoTMBé. Este enlace sirve para tramitar el alta/vinculación a T-mobilitat (en caso de necesidad) y pedir la autorización para migrar los perfiles bonificados. El agente de atención enviará al cliente el enlace para tramitar automáticamente la migración del perfil bonificado."
+      "answer": "Se los enviaría un correo invitándolos a hacerse de Te mobilitat y migrar los perfiles bonificados que tienen. Para hacerlo tienen que clicar en el enlace del correo bajo login de JoTMBé. Este enlace sirve para tramitar el alta/vinculación a Te mobilitat (en caso de necesidad) y pedir la autorización para migrar los perfiles bonificados. El agente de atención enviará al cliente el enlace para tramitar automáticamente la migración del perfil bonificado."
     },
     {
       "question": "Cómo puede hacer, el usuario, este trámite a través de su espacio personal a la web/App?",
-      "answer": "1. El usuario, dado de alta a T-mobilitat y vinculado a JoTMBé, tiene que acceder en su espacio personal a través de:\n2. Web de TMB: Iniciar sesión > Área personal > Cuenta T-mobilitat > Cuenta T-mobilitat > Perfiles T-mobilitat > Añadir perfil.\n3. TMB App: Iniciar sesión > T-mobilitat > Tarjeta > Solicitar > Iniciar sesión > Área personal > Cuenta T-mobilitat > Perfiles T-mobilitat > Añadir perfil.\n4. El cliente tiene que seleccionar el tipo de perfil que le corresponde: 'general' o 'especial'.\n5. Tiene que escoger si autoriza el uso de PICA (alta inmediata del perfil) o prefiere continuar con verificación manual (no es inmediato, porque tiene que ser revisada por un agente).\n6. Independientemente de si el cliente autoriza PICA o no, en ambos casos tiene que seleccionar el tipo de documento (familia numerosa o monoparental) e introducir el número del libro o carné bonificado (sin barras separadoras ni espacios).\n7. Una vez introducidas estos datos, si el cliente no autoriza PICA, tendrá que adjuntar el documento que lo acredite. En este caso, el alta tendrá que ser verificada por un agente de atención con acceso a TPW Agente.\n8. En ambos casos, una vez se verifique el alta, se grabará automáticamente la vigencia del perfil.\n9. Últimamente, el cliente tendrá que vincular el perfil al apoyo personalizado. El usuario tiene que volver a la pantalla inicial de su espacio personal. En el apartado Apoyos T-mobilitat > Ver detalle de apoyo, debajo de los títulos, encontrará el botón 'Añadir perfil bonificado' para vincularlo en su apoyo PVC. Pasados unos 60 minutos, el usuario tiene que hacer interactuar su apoyo con un CCTIU (lector de las validadores o máquinas de autoventa, o hacer doble lectura con su dispositivo, si es Android con NFC)."
+      "answer": "1. El usuario, dado de alta a Te mobilitat y vinculado a JoTMBé, tiene que acceder en su espacio personal a través de:\n2. Web de TMB: Iniciar sesión > Área personal > Cuenta Te mobilitat > Cuenta Te mobilitat > Perfiles Te mobilitat > Añadir perfil.\n3. TMB App: Iniciar sesión > Te mobilitat > Tarjeta > Solicitar > Iniciar sesión > Área personal > Cuenta Te mobilitat > Perfiles Te mobilitat > Añadir perfil.\n4. El cliente tiene que seleccionar el tipo de perfil que le corresponde: 'general' o 'especial'.\n5. Tiene que escoger si autoriza el uso de PICA (alta inmediata del perfil) o prefiere continuar con verificación manual (no es inmediato, porque tiene que ser revisada por un agente).\n6. Independientemente de si el cliente autoriza PICA o no, en ambos casos tiene que seleccionar el tipo de documento (familia numerosa o monoparental) e introducir el número del libro o carné bonificado (sin barras separadoras ni espacios).\n7. Una vez introducidas estos datos, si el cliente no autoriza PICA, tendrá que adjuntar el documento que lo acredite. En este caso, el alta tendrá que ser verificada por un agente de atención con acceso a TPW Agente.\n8. En ambos casos, una vez se verifique el alta, se grabará automáticamente la vigencia del perfil.\n9. Últimamente, el cliente tendrá que vincular el perfil al apoyo personalizado. El usuario tiene que volver a la pantalla inicial de su espacio personal. En el apartado Apoyos Te mobilitat > Ver detalle de apoyo, debajo de los títulos, encontrará el botón 'Añadir perfil bonificado' para vincularlo en su apoyo PVC. Pasados unos 60 minutos, el usuario tiene que hacer interactuar su apoyo con un CCTIU (lector de las validadores o máquinas de autoventa, o hacer doble lectura con su dispositivo, si es Android con NFC)."
     },
     {
       "question": "Casuísticas del proceso según el estado de los usuarios",
-      "answer": "- Usuarios dados de alta a T-mobilitat y con vinculación al usuario JoTMBé. -> En el flujo se los pedirá aceptar la migración del perfil bonificado a T-mobilitat. Si ya tenían los perfiles a T-mobilitat, no se hará nada. Si aceptan, se los migrará el perfil.\n- Usuarios JoTMBé que no tienen vinculación con T-mobilitat. Este flujo, tendrá 2 subvariants:\n - Usuarios dados de alta a T-mobilitat. Se los pedirá validar la vinculación entre cuentas JoTMBé y T-mobilitat y también aceptar la migración del perfil bonificado a T-mobilitat. Si ya tenían los perfiles a T-mobilitat, no se le migrarán. Si aceptan, se los migrará el perfil.\n - Usuarios que no están dados de alta a T-mobilitat. Se los pedirá que 'validen' su fecha de nacimiento, que acepten las condiciones de T-mobilitat, que acepten la migración de los perfiles JoTMBé a T-mobilitat. Si aceptan, se los creará un usuario T-mobilitat (sin necesidad que lo valide un agente), y a posteriori se los migrará el perfil. Nota: cómo les pedimos que 'validen', esperemos que los usuarios introduzcan la fecha de nacimiento correcta. El proceso comprobará que sea la de un adulto, si no, no se dejará continuar con el flujo.\n- Usuarios con carné FM/FN sin fecha fin de vigencia, por circunstancias personales especiales. Revisada la documentación por parte del agente de atención, este dará una vigencia provisional al perfil del cliente (la misma validez que el título adquirido). El agente de atención lo comunicará a Backoffice (suportoae@tmb.cat), quien derivará el caso a ATM para realizar las comprobaciones oportunas. Con la resolución de ATM, se podrá actualizar el perfil FM/FN del cliente (y vincularlo a la tarjeta), cuando este haya finalizado el título que tiene vigente. Previamente, el cliente tendrá que haber avisado cuando se le agote el título."
+      "answer": "- Usuarios dados de alta a Te mobilitat y con vinculación al usuario JoTMBé. -> En el flujo se los pedirá aceptar la migración del perfil bonificado a Te mobilitat. Si ya tenían los perfiles a Te mobilitat, no se hará nada. Si aceptan, se los migrará el perfil.\n- Usuarios JoTMBé que no tienen vinculación con Te mobilitat. Este flujo, tendrá 2 subvariants:\n - Usuarios dados de alta a Te mobilitat. Se los pedirá validar la vinculación entre cuentas JoTMBé y Te mobilitat y también aceptar la migración del perfil bonificado a Te mobilitat. Si ya tenían los perfiles a Te mobilitat, no se le migrarán. Si aceptan, se los migrará el perfil.\n - Usuarios que no están dados de alta a Te mobilitat. Se los pedirá que 'validen' su fecha de nacimiento, que acepten las condiciones de Te mobilitat, que acepten la migración de los perfiles JoTMBé a Te mobilitat. Si aceptan, se los creará un usuario Te mobilitat (sin necesidad que lo valide un agente), y a posteriori se los migrará el perfil. Nota: cómo les pedimos que 'validen', esperemos que los usuarios introduzcan la fecha de nacimiento correcta. El proceso comprobará que sea la de un adulto, si no, no se dejará continuar con el flujo.\n- Usuarios con carné FM/FN sin fecha fin de vigencia, por circunstancias personales especiales. Revisada la documentación por parte del agente de atención, este dará una vigencia provisional al perfil del cliente (la misma validez que el título adquirido). El agente de atención lo comunicará a Backoffice (suportoae@tmb.cat), quien derivará el caso a ATM para realizar las comprobaciones oportunas. Con la resolución de ATM, se podrá actualizar el perfil FM/FN del cliente (y vincularlo a la tarjeta), cuando este haya finalizado el título que tiene vigente. Previamente, el cliente tendrá que haber avisado cuando se le agote el título."
     },
     {
       "question": "Qué es la desvinculación de menores?",
@@ -398,7 +398,7 @@
     },
     {
       "question": "El cliente puede realizar la desvinculación del cliente menor de edad?",
-      "answer": "Sí. El cliente gestor tiene que acceder, a través del web de TMB, a su espacio personal > Cuenta T-mobilitat > Personas a Cargo > Detalle de cliente vinculado > Desvincular."
+      "answer": "Sí. El cliente gestor tiene que acceder, a través del web de TMB, a su espacio personal > Cuenta Te mobilitat > Personas a Cargo > Detalle de cliente vinculado > Desvincular."
     },
     {
       "question": "Qué es obligatorio para desvincular un cliente vinculado?",
@@ -414,11 +414,11 @@
     },
     {
       "question": "Una vez el cliente se ha desvinculado, se pueden modificar los datos personales?",
-      "answer": "Sí. Las puede realizar tanto el Agente de Atención como el cliente en autogestión.\n- El Agente de Atención puede modificar los datos personales accediendo a la ficha del cliente que se ha desvinculado, a través de TPW Agente.\n- El cliente puede modificar los datos personales en autogestión, a pesar de que previamente tiene que vincular T-mobilitat con JoTMBé."
+      "answer": "Sí. Las puede realizar tanto el Agente de Atención como el cliente en autogestión.\n- El Agente de Atención puede modificar los datos personales accediendo a la ficha del cliente que se ha desvinculado, a través de TPW Agente.\n- El cliente puede modificar los datos personales en autogestión, a pesar de que previamente tiene que vincular Te mobilitat con JoTMBé."
     },
     {
       "question": "Cómo se puede vincular a JoTMBé un usuario desvinculado del cliente gestor?",
-      "answer": "Como los usuarios vinculados son clientes gestionados por un gestor, es el gestor el que está vinculado a JoTMBé. Cuando un cliente se desvincula, tiene que iniciar el proceso para vincularse con JoTMBé:\n- Tiene que crearse una cuenta JoTMBé, acceder, y llenar el formulario de alta o registro para vincularse a T-mobilitat.\n- Como este usuario JoTMBé quiere vincularse con una cuenta T-mobilitat, cuando el sistema detecta que a T-mobilitat hay un usuario con sus datos, se envía un correo electrónico para confirmar la vinculación al mail que ha registrado a la cuenta T-mobilitat del cliente.\n- Si una vez desvinculada del gestor, no se ha modificado el correo electrónico, el mail de confirmación llegará al que hubiera previamente a su desvinculación, el del gestor. Será el gestor quien, desde su correo, tendrá que polsar en el enlace que aparece a su correo electrónico.\n- Una vez vinculada, este usuario tendrá que acceder en su área personal de JoTMBé, 'Cuenta T-mobilitat', 'Datos personales', y modificar el correo electrónico que figura a la sección 'Datos adicionales'. Con este cambio, el correo electrónico para recibir notificaciones será el que él ha modificado. Si en el momento en que el Agente de Atención lo desvincula de su gestor le modifica el correo electrónico, cuando el cliente quiera vincular T-mobilitat y JoTMBé, el mail de confirmación de la vinculación lo recibirá al que él ha informado."
+      "answer": "Como los usuarios vinculados son clientes gestionados por un gestor, es el gestor el que está vinculado a JoTMBé. Cuando un cliente se desvincula, tiene que iniciar el proceso para vincularse con JoTMBé:\n- Tiene que crearse una cuenta JoTMBé, acceder, y llenar el formulario de alta o registro para vincularse a Te mobilitat.\n- Como este usuario JoTMBé quiere vincularse con una cuenta Te mobilitat, cuando el sistema detecta que a Te mobilitat hay un usuario con sus datos, se envía un correo electrónico para confirmar la vinculación al mail que ha registrado a la cuenta Te mobilitat del cliente.\n- Si una vez desvinculada del gestor, no se ha modificado el correo electrónico, el mail de confirmación llegará al que hubiera previamente a su desvinculación, el del gestor. Será el gestor quien, desde su correo, tendrá que polsar en el enlace que aparece a su correo electrónico.\n- Una vez vinculada, este usuario tendrá que acceder en su área personal de JoTMBé, 'Cuenta Te mobilitat', 'Datos personales', y modificar el correo electrónico que figura a la sección 'Datos adicionales'. Con este cambio, el correo electrónico para recibir notificaciones será el que él ha modificado. Si en el momento en que el Agente de Atención lo desvincula de su gestor le modifica el correo electrónico, cuando el cliente quiera vincular Te mobilitat y JoTMBé, el mail de confirmación de la vinculación lo recibirá al que él ha informado."
     },
     {
       "question": "Qué diferencia hay en el trámite de desvinculación entre el presencial y el resto de canales?",
@@ -450,11 +450,11 @@
     },
     {
       "question": "Cuántas tarjetas de cartón se pueden tener?",
-      "answer": "Como el apoyo cartón no se puede registrar a la cuenta de un cliente a T-mobilitat, no hay limitación. Los usuarios pueden comprar tantos como consideren o requieran."
+      "answer": "Como el apoyo cartón no se puede registrar a la cuenta de un cliente a Te mobilitat, no hay limitación. Los usuarios pueden comprar tantos como consideren o requieran."
     },
     {
       "question": "Para qué títulos es obligatorio comprar un apoyo cartón?",
-      "answer": "A partir del 28 noviembre 2023, se dejará de vender el magnético por la T-usual, T-casual, T-familiar o T-grupo. Por lo tanto, será obligatorio por aquellos usuarios que no sean clientes de T-mobilitat y quieran hacer uso del transporte público, o que a pesar de ser clientes de T-mobilitat (y tener tarjeta personalizada o apoyo virtual), quieren adquirir otro de estos títulos."
+      "answer": "A partir del 28 noviembre 2023, se dejará de vender el magnético por la T-usual, T-casual, T-familiar o T-grupo. Por lo tanto, será obligatorio por aquellos usuarios que no sean clientes de Te mobilitat y quieran hacer uso del transporte público, o que a pesar de ser clientes de Te mobilitat (y tener tarjeta personalizada o apoyo virtual), quieren adquirir otro de estos títulos."
     },
     {
       "question": "Se puede devolver un apoyo cartón?",
@@ -466,7 +466,7 @@
     },
     {
       "question": "Puede un cliente menor de edad adquirir un apoyo cartón?",
-      "answer": "Sí, por qué es indiferente si es o no cliente de T-mobilitat. Solo se requiere hacer el abono a las máquinas de autoventa."
+      "answer": "Sí, por qué es indiferente si es o no cliente de Te mobilitat. Solo se requiere hacer el abono a las máquinas de autoventa."
     },
     {
       "question": "Trámite a las estaciones: Donde se puede comprar un apoyo cartón a las estaciones?",
@@ -478,7 +478,7 @@
     },
     {
       "question": "Qué tiene que hacer un usuario para adquirir un apoyo cartón?",
-      "answer": "1. A la DA, seleccionar el título que desea. Puede hacerlo de dos maneras:\n- Opción 1: selección del título a la pantalla inicial.\n- Opción 2: polsar el icono 'Compra Tarjeta T-mobilitat' y selecciona el título en esta pantalla.\n2. Al usuario se le describe la diferencia entre el apoyo cartón y la tarjeta personalizada.\n3. Seleccionar número de zonas del título escogido.\n4. Si el título es una T-usual, tiene que introducir el número de su documento de identidad, sin letras.\n5. Seleccionar cantidad de apoyos.\n- Cartón anónimo (T-casual, T-familiar, T-grupo): está permitido adquirir hasta un máximo de 5 unidades en una misma compra (5 apoyos con un título cargado cada uno). Se tendrá que pagar cada apoyo y estos serán réplicas los unos de los otros (en una compra múltiple no se puede escoger títulos o zonificaciones diferentes). Cada uno de los apoyos son recargables.\n- Cartón T-usual: no está permitido comprar más de un apoyo a la vez durante el mismo proceso de venta. A la pantalla aparece la posibilidad de escoger la cantidad, pero no se puede seleccionar más de uno.\n6. Completado el pago (con efectivo o tarjeta bancaria), se emite el apoyo cartón con la carga ya instanciada."
+      "answer": "1. A la DA, seleccionar el título que desea. Puede hacerlo de dos maneras:\n- Opción 1: selección del título a la pantalla inicial.\n- Opción 2: polsar el icono 'Compra Tarjeta Te mobilitat' y selecciona el título en esta pantalla.\n2. Al usuario se le describe la diferencia entre el apoyo cartón y la tarjeta personalizada.\n3. Seleccionar número de zonas del título escogido.\n4. Si el título es una T-usual, tiene que introducir el número de su documento de identidad, sin letras.\n5. Seleccionar cantidad de apoyos.\n- Cartón anónimo (T-casual, T-familiar, T-grupo): está permitido adquirir hasta un máximo de 5 unidades en una misma compra (5 apoyos con un título cargado cada uno). Se tendrá que pagar cada apoyo y estos serán réplicas los unos de los otros (en una compra múltiple no se puede escoger títulos o zonificaciones diferentes). Cada uno de los apoyos son recargables.\n- Cartón T-usual: no está permitido comprar más de un apoyo a la vez durante el mismo proceso de venta. A la pantalla aparece la posibilidad de escoger la cantidad, pero no se puede seleccionar más de uno.\n6. Completado el pago (con efectivo o tarjeta bancaria), se emite el apoyo cartón con la carga ya instanciada."
     },
     {
       "question": "Cómo aparece el documento de identidad en los cartones T-usual?",
@@ -494,11 +494,11 @@
     },
     {
       "question": "Qué herramientas tienen que utilizar los agentes para vender un apoyo cartón?",
-      "answer": "PEC T-mobilitat."
+      "answer": "PEC Te mobilitat."
     },
     {
       "question": "Qué tiene que hacer el agente para vender un apoyo PVC al cliente?",
-      "answer": "1. El agente de atención tiene que iniciar su sesión en el programa PEC, y seleccionar la opción 'Emisión'.\n2. Una vez escogida el título, si este está disponible en formado cartón, al agente le aparecerá una ventana donde tendrá que escoger el tipo de apoyo: 'Preta' o Tarjeta T-mobilitat'. 'Preta' es el nombre que recibe el apoyo cartón en el PEC (el nombre se deriva de apoyo cartón precortado).\n3. Independientemente del título seleccionado (T-usual, T-casual, T-familiar o T-grupo), en el PEC no hay que introducir ninguna información personal por la emisión del apoyo.\n4. Cuando se clica sobre el botón 'Continuar', aparece el cuadro 'Motivo de emisión' para escoger el tipo de emisión:\n - 'Emisión por primera solicitud'. La emisión se tiene que pagar pasando primero por la carretilla.\n - 'Emisión por incidencia'. La emisión del apoyo no pasa la carretilla.\n5. Al pulsar el botón 'Aceptar', aparece la ventana 'Resumen emisión'. En caso de emisión por incidencia, el precio total del título y el apoyo será 0 €.\n6. A la ventana 'Resumen emisión', tiene que clicar 'Aceptar':\n - En caso de emisión por primera solicitud, aparece una ventana emergente informante que se tiene que hacer clic a la carretilla para proceder al pago.\n - En caso de emisión por incidencia, se emite directamente el apoyo y continúa el procedimiento.\n7. Si se selecciona la opción de hacer el pago con tarjeta, se cobrará con el datàfon de T-mobilitat de Puntos. En el caso de hacer el ingreso en efectivo, el importe se cobrará en mano y se abrirá una pantalla donde se introduce la entrega y muestra el cambio.\n8. Después de hacer el pago, sea en metálico o con tarjeta, aparece un mensaje informando que el apoyo que se emitirá es tarjeta cartón. El agente tiene que coger una tarjeta de cartón vacía y guardarla sobre el lector de apoyos del PEC. Este proceso solo requiere una única lectura al lector de apoyos.\n9. En el supuesto de que el cartón sea una T-usual, el agente o usuario tendrá que escribir a mano el número del documento de identidad.\n10. Antes de hacer entrega de la tarjeta al cliente, tiene que comprobar que la tarjeta se ha emitido correctamente. A la pantalla inicial del PEC, tendrá que acceder a la ventana 'Iniciar lectura' para comprobar que la información que contiene el apoyo es la que corresponde.\n11. Una vez librada la tarjeta, el agente tiene que explicar cómo se pueden comprar títulos,así como los beneficios de la autogestión."
+      "answer": "1. El agente de atención tiene que iniciar su sesión en el programa PEC, y seleccionar la opción 'Emisión'.\n2. Una vez escogida el título, si este está disponible en formado cartón, al agente le aparecerá una ventana donde tendrá que escoger el tipo de apoyo: 'Preta' o Tarjeta Te mobilitat'. 'Preta' es el nombre que recibe el apoyo cartón en el PEC (el nombre se deriva de apoyo cartón precortado).\n3. Independientemente del título seleccionado (T-usual, T-casual, T-familiar o T-grupo), en el PEC no hay que introducir ninguna información personal por la emisión del apoyo.\n4. Cuando se clica sobre el botón 'Continuar', aparece el cuadro 'Motivo de emisión' para escoger el tipo de emisión:\n - 'Emisión por primera solicitud'. La emisión se tiene que pagar pasando primero por la carretilla.\n - 'Emisión por incidencia'. La emisión del apoyo no pasa la carretilla.\n5. Al pulsar el botón 'Aceptar', aparece la ventana 'Resumen emisión'. En caso de emisión por incidencia, el precio total del título y el apoyo será 0 €.\n6. A la ventana 'Resumen emisión', tiene que clicar 'Aceptar':\n - En caso de emisión por primera solicitud, aparece una ventana emergente informante que se tiene que hacer clic a la carretilla para proceder al pago.\n - En caso de emisión por incidencia, se emite directamente el apoyo y continúa el procedimiento.\n7. Si se selecciona la opción de hacer el pago con tarjeta, se cobrará con el datàfon de Te mobilitat de Puntos. En el caso de hacer el ingreso en efectivo, el importe se cobrará en mano y se abrirá una pantalla donde se introduce la entrega y muestra el cambio.\n8. Después de hacer el pago, sea en metálico o con tarjeta, aparece un mensaje informando que el apoyo que se emitirá es tarjeta cartón. El agente tiene que coger una tarjeta de cartón vacía y guardarla sobre el lector de apoyos del PEC. Este proceso solo requiere una única lectura al lector de apoyos.\n9. En el supuesto de que el cartón sea una T-usual, el agente o usuario tendrá que escribir a mano el número del documento de identidad.\n10. Antes de hacer entrega de la tarjeta al cliente, tiene que comprobar que la tarjeta se ha emitido correctamente. A la pantalla inicial del PEC, tendrá que acceder a la ventana 'Iniciar lectura' para comprobar que la información que contiene el apoyo es la que corresponde.\n11. Una vez librada la tarjeta, el agente tiene que explicar cómo se pueden comprar títulos,así como los beneficios de la autogestión."
     },
     {
       "question": "T-mobiilitat: Qué tiene que hacer el agente para atender la consulta de forma digital o telefónica:?",
@@ -506,7 +506,7 @@
     },
     {
       "question": "Qué es la Adquisición apoyo móvil?",
-      "answer": "La adquisición de apoyo móvil consiste en el pago único de la suscripción para tener derecho a usar el móvil como apoyo de T-mobilitat."
+      "answer": "La adquisición de apoyo móvil consiste en el pago único de la suscripción para tener derecho a usar el móvil como apoyo de Te mobilitat."
     },
     {
       "question": "Cuál es el precio del apoyo móvil?",
@@ -526,7 +526,7 @@
     },
     {
       "question": "Qué se tiene que hacer para obtener el apoyo móvil?",
-      "answer": "1. Descargar TMB App.\n2. Estar registrado a JoTMBé, y tener vinculadas T-mobilitat y JoTMBé.\n3. Acceder a TMB App/ T-mobilitat/ 'Móvil'.\n4. Polsar sobre 'Activa tu apoyo móvil'. En este proceso, se descargará la cartera electrónica, y el usuario tendrá que hacer el pago de 1 euro antes de cargar un título de viaje.\n5. Cargar el título de viaje que el usuario desee usar."
+      "answer": "1. Descargar TMB App.\n2. Estar registrado a JoTMBé, y tener vinculadas Te mobilitat y JoTMBé.\n3. Acceder a TMB App/ Te mobilitat/ 'Móvil'.\n4. Polsar sobre 'Activa tu apoyo móvil'. En este proceso, se descargará la cartera electrónica, y el usuario tendrá que hacer el pago de 1 euro antes de cargar un título de viaje.\n5. Cargar el título de viaje que el usuario desee usar."
     },
     {
       "question": "Cuántos títulos puede contener el apoyo móvil?",
@@ -534,7 +534,7 @@
     },
     {
       "question": "Un usuario tiene que pagar la suscripción si desinstala e instala la Cartera electrónica, en el mismo u otro dispositivo?",
-      "answer": "No. El pago del 1€ se realiza solo una vez, y está asociado al alta de cliente T-mobilitat. Si el usuario desinstala e instala la App Cartera electrónica, bien en el mismo dispositivo, bien en otro, no tiene que volver ha pagar. Solo tiene que volver a pagar si da de baja su cuenta de cliente T-mobilitat, se da nuevamente de alta y quiere usar (de nuevo) el apoyo virtual."
+      "answer": "No. El pago del 1€ se realiza solo una vez, y está asociado al alta de cliente Te mobilitat. Si el usuario desinstala e instala la App Cartera electrónica, bien en el mismo dispositivo, bien en otro, no tiene que volver ha pagar. Solo tiene que volver a pagar si da de baja su cuenta de cliente Te mobilitat, se da nuevamente de alta y quiere usar (de nuevo) el apoyo virtual."
     },
     {
       "question": "Qué tiene que hacer el agente para atender la consulta de forma digital o telefónica?",
@@ -578,11 +578,11 @@
     },
     {
       "question": "Qué pasa si no llega el apoyo en el tiempo establecido?",
-      "answer": "En el supuesto de que el apoyo no llegue, ver el artículo 'T-mobilitat incidencia en la recepción del apoyo PVC'."
+      "answer": "En el supuesto de que el apoyo no llegue, ver el artículo 'Te mobilitat incidencia en la recepción del apoyo PVC'."
     },
     {
       "question": "Qué pasa si el usuario ha registrado una dirección errónea?",
-      "answer": "Cómo ha estado responsabilidad del cliente, el cliente tiene que volver a pagar el coste del apoyo. Tendrá que dirigirse a un Punto TMB para obtener un duplicado de su tarjeta T-mobilitat. Esta acción implica el pago, solo, del coste de la tarjeta personalizada (4,50 €). Si lo hace en autogestión, tendrá que dar de baja el apoyo en su área personal de JoTMBé, y volver a iniciar el proceso. Esta acción implica volver a pagar el título, en el supuesto de que hubiera comprado uno. Ver el artículo 'Incidencia en la recepción del apoyo'."
+      "answer": "Cómo ha estado responsabilidad del cliente, el cliente tiene que volver a pagar el coste del apoyo. Tendrá que dirigirse a un Punto TMB para obtener un duplicado de su tarjeta Te mobilitat. Esta acción implica el pago, solo, del coste de la tarjeta personalizada (4,50 €). Si lo hace en autogestión, tendrá que dar de baja el apoyo en su área personal de JoTMBé, y volver a iniciar el proceso. Esta acción implica volver a pagar el título, en el supuesto de que hubiera comprado uno. Ver el artículo 'Incidencia en la recepción del apoyo'."
     },
     {
       "question": "Qué pasa si el apoyo no llega en el tiempo establecido y el cliente compra un apoyo en otro operador?",
@@ -622,11 +622,11 @@
     },
     {
       "question": "Qué tiene que hacer el cliente para ver el estado de su solicitud a travès de la web o App?",
-      "answer": "Si lo hace a través de la web de TMB:\n1. El cliente accede al tmb.cat y se loggueja a su cuenta JoTMBé.\n2. El usuario accede a la sección Cuenta T-mobilitat > Mis solicitudes, y selecciona la opción 'de apoyo'.\n3. El sistema muestra por pantalla la información en lo referente a las solicitudes de apoyo asociadas a la ficha del cliente en cuestión.\n\nSi lo hace a través de TMB App:\n1. El cliente inicia la sesión de JoTMBé a TMB App.\n2. En el apartado T-mobilitat > Tarjetas, tiene que clicar sobre 'Solicitarla'.\n3. En la página web que se abrirá dentro TMB App, tendrá que iniciar nuevamente su sesión de JoTMBé.\n4. A la sección Cuenta T-mobilitat > Mis solicitudes, y selecciona la opción 'de apoyos'."
+      "answer": "Si lo hace a través de la web de TMB:\n1. El cliente accede al tmb.cat y se loggueja a su cuenta JoTMBé.\n2. El usuario accede a la sección Cuenta Te mobilitat > Mis solicitudes, y selecciona la opción 'de apoyo'.\n3. El sistema muestra por pantalla la información en lo referente a las solicitudes de apoyo asociadas a la ficha del cliente en cuestión.\n\nSi lo hace a través de TMB App:\n1. El cliente inicia la sesión de JoTMBé a TMB App.\n2. En el apartado Te mobilitat > Tarjetas, tiene que clicar sobre 'Solicitarla'.\n3. En la página web que se abrirá dentro TMB App, tendrá que iniciar nuevamente su sesión de JoTMBé.\n4. A la sección Cuenta Te mobilitat > Mis solicitudes, y selecciona la opción 'de apoyos'."
     },
     {
       "question": "Qué es la T-16?",
-      "answer": "Título personalizado en formado T-mobilitat para niños/se desde los 4 años y hasta el 31 de diciembre del año en que cumplen 16 años. Permite hacer un número ilimitado de viajes en todos los modos de transporte dentro de la zona tarifaria donde reside el menor."
+      "answer": "Título personalizado en formado Te mobilitat para niños/se desde los 4 años y hasta el 31 de diciembre del año en que cumplen 16 años. Permite hacer un número ilimitado de viajes en todos los modos de transporte dentro de la zona tarifaria donde reside el menor."
     },
     {
       "question": "Qué características tiene la T-16?",
@@ -650,11 +650,11 @@
     },
     {
       "question": "Cómo se pide la T-16?",
-      "answer": "La pueden pedir los clientes gestores al que están vinculados los usuarios menores de edad (padre, madre o tutor legal):\n- Por Internet: en el web T-16.cat, web de FGC y en el web de TMB. La compra genera una solicitud de tarjeta que el cliente recibe en el domicilio indicado en unos 5-10 días hábiles.\n- Presencialmente: en el Centro de atención e información T-mobilitat (CAI). El cliente gestor tiene que llevar la documentación requerida y los agente de atención le hacen entrega de la tarjeta, previo pago de su coste. Hay que pedir cita previa. TMB no gestiona apoyos T-16 a Puntos y Quioscos."
+      "answer": "La pueden pedir los clientes gestores al que están vinculados los usuarios menores de edad (padre, madre o tutor legal):\n- Por Internet: en el web T-16.cat, web de FGC y en el web de TMB. La compra genera una solicitud de tarjeta que el cliente recibe en el domicilio indicado en unos 5-10 días hábiles.\n- Presencialmente: en el Centro de atención e información Te mobilitat (CAI). El cliente gestor tiene que llevar la documentación requerida y los agente de atención le hacen entrega de la tarjeta, previo pago de su coste. Hay que pedir cita previa. TMB no gestiona apoyos T-16 a Puntos y Quioscos."
     },
     {
       "question": "Cómo se puede hacer el pedido de una tarjeta T-16 desde el web de TMB?",
-      "answer": "El cliente gestor tiene que acceder en su espacio personal de JoTMBé a través del web de TMB. En el apartado 'Cuenta T-mobilitat', sección 'Apoyos T-mobilitat', tiene que polsar 'Solicita apoyo T-mobilitat'. El usuario tiene que seleccionar el cliente gestionado, y seleccionar el título T-16, y las zonas de validación (solo zona 1). A continuación, tiene que especificar la dirección de envío y hacer el pago."
+      "answer": "El cliente gestor tiene que acceder en su espacio personal de JoTMBé a través del web de TMB. En el apartado 'Cuenta Te mobilitat', sección 'Apoyos Te mobilitat', tiene que polsar 'Solicita apoyo Te mobilitat'. El usuario tiene que seleccionar el cliente gestionado, y seleccionar el título T-16, y las zonas de validación (solo zona 1). A continuación, tiene que especificar la dirección de envío y hacer el pago."
     },
     {
       "question": "Cómo se hace el envío de la T-16?",
@@ -666,7 +666,7 @@
     },
     {
       "question": "Qué hago si no he recibido la T-16 en el plazo establecido?",
-      "answer": "Si hay algún problema y la tarjeta no llega en 10 días hábiles, se tiene que contactar con el CAI a través de sus canales de atención. Si el cliente ha hecho el pedido del apoyo al través de TMB y nos contacta, el agente de atención puede hacer un envío adicional (emisión por incidencia) a través de TPW. En el supuesto de que no haya recibido en el tiempo indicado este segundo envío, o prefiera obtenerla en el momento, tendrá que ir a las oficinas del CAI. Los agentes de atención informarán al Coordinador/a de T-mobilitat para que informen al CAI que los derivaremos un cliente."
+      "answer": "Si hay algún problema y la tarjeta no llega en 10 días hábiles, se tiene que contactar con el CAI a través de sus canales de atención. Si el cliente ha hecho el pedido del apoyo al través de TMB y nos contacta, el agente de atención puede hacer un envío adicional (emisión por incidencia) a través de TPW. En el supuesto de que no haya recibido en el tiempo indicado este segundo envío, o prefiera obtenerla en el momento, tendrá que ir a las oficinas del CAI. Los agentes de atención informarán al Coordinador/a de Te mobilitat para que informen al CAI que los derivaremos un cliente."
     },
     {
       "question": "Donde se puede usar la T-16?",
@@ -678,11 +678,11 @@
     },
     {
       "question": "Qué se tiene que hacer si no funciona la T-16?",
-      "answer": "En el supuesto de que el apoyo deje de funcionar por causas ajenas al usuario (no ha hecho un mal uso del apoyo), un agente de atención facilitará un canje en formato TSC cartón de 30 días. El agente tiene que acceder al menú interno de la máquina de auto venta, apartado 'Canjes T-mobilitat', e introducir el número de la tarjeta T-mobilitat defectuosa. Se emitirá una tarjeta en formado cartón TSC, que dejará de funcionar en el jefe de 30 días, y dará de baja el apoyo original. Los agentes de atención tienen que retirar el apoyo defectuoso al cliente y enviarlo por valija interna, a la oficina administrativa del CCM, en un sobre naranja indicando T-16, Oficina canjes/ La Sagrera (C/Josep Estivill, 47), que los hará llegar al CAI, indicando el motivo. Desde el CAI se gestionará el envío de un nuevo apoyo al usuario. Esta operativa solo aplica a tarjetas T-16 de zona 1. Al bus, el conductor facilitará un viaje gratuito para después el usuario ir a una estación de metro porque le hagan el canje provisional de 30 días. El canje que se envía al domicilio será gratuito, a condición de que lo CAI compruebe que, efectivamente, la tarjeta ha dejado de funcionar por causas ajenas al usuario y el apoyo esté en garantía. En caso de que el apoyo no se encuentre en garantía o lo haya malogrado el usuario, habrá que pagar los 4,5 euros del apoyo. En este caso, los usuarios no tienen derecho a ningún canje provisional, y los agentes de atención no retirarán el apoyo. Tendrán que informar que tienen que ponerse en contacto con CAI-ATM para adquirir otro apoyo."
+      "answer": "En el supuesto de que el apoyo deje de funcionar por causas ajenas al usuario (no ha hecho un mal uso del apoyo), un agente de atención facilitará un canje en formato TSC cartón de 30 días. El agente tiene que acceder al menú interno de la máquina de auto venta, apartado 'Canjes Te mobilitat', e introducir el número de la tarjeta Te mobilitat defectuosa. Se emitirá una tarjeta en formado cartón TSC, que dejará de funcionar en el jefe de 30 días, y dará de baja el apoyo original. Los agentes de atención tienen que retirar el apoyo defectuoso al cliente y enviarlo por valija interna, a la oficina administrativa del CCM, en un sobre naranja indicando T-16, Oficina canjes/ La Sagrera (C/Josep Estivill, 47), que los hará llegar al CAI, indicando el motivo. Desde el CAI se gestionará el envío de un nuevo apoyo al usuario. Esta operativa solo aplica a tarjetas T-16 de zona 1. Al bus, el conductor facilitará un viaje gratuito para después el usuario ir a una estación de metro porque le hagan el canje provisional de 30 días. El canje que se envía al domicilio será gratuito, a condición de que lo CAI compruebe que, efectivamente, la tarjeta ha dejado de funcionar por causas ajenas al usuario y el apoyo esté en garantía. En caso de que el apoyo no se encuentre en garantía o lo haya malogrado el usuario, habrá que pagar los 4,5 euros del apoyo. En este caso, los usuarios no tienen derecho a ningún canje provisional, y los agentes de atención no retirarán el apoyo. Tendrán que informar que tienen que ponerse en contacto con CAI-ATM para adquirir otro apoyo."
     },
     {
-      "question": "Qué tengo que hacer si pierdo o me roban la tarjeta T-mobilitat con la T-16? Pedir un duplicado tendrá un coste? Y en caso de robo?",
-      "answer": "Si se pierde o roban la tarjeta T-mobilitat con la T-16, la persona adulta a cargo tendrá que darla de baja y pedir un nuevo apoyo a través del web de TMB. Se tendrá que pagar el precio del nuevo apoyo (4,5€). También puede hacer estas gestiones a través de los canales de comunicación del CAI-ATM."
+      "question": "Qué tengo que hacer si pierdo o me roban la tarjeta Te mobilitat con la T-16? Pedir un duplicado tendrá un coste? Y en caso de robo?",
+      "answer": "Si se pierde o roban la tarjeta Te mobilitat con la T-16, la persona adulta a cargo tendrá que darla de baja y pedir un nuevo apoyo a través del web de TMB. Se tendrá que pagar el precio del nuevo apoyo (4,5€). También puede hacer estas gestiones a través de los canales de comunicación del CAI-ATM."
     },
     {
       "question": "El o la menor puede realizar gestiones sobre el título T-16?",
@@ -693,7 +693,7 @@
       "answer": "No, el o la menor solo puede tener un título T-16 en una sola tarjeta."
     },
     {
-      "question": "La T-16 se puede cargar solo en la Tarjeta T-mobilitat? No se puede utilizar en el móvil, como otros títulos de la T-mobilitat?",
+      "question": "La T-16 se puede cargar solo en la Tarjeta Te mobilitat? No se puede utilizar en el móvil, como otros títulos de la Te mobilitat?",
       "answer": "La T-16 se puede usar únicamente y exclusiva con la tarjeta personalizada."
     },
     {
@@ -706,19 +706,19 @@
     },
     {
       "question": "Qué se tiene que hacer cuando el/la menor ya no tenga derecho a la T-16 por edad?",
-      "answer": "El título T-16 caducará automáticamente y el apoyo se desactivará el 31 de diciembre del año en que la persona haga 16 años. Después, hará falta que solicite un apoyo T-mobilitat genérico, si no tiene, y cargue otro título que le convenga (T-joven, T-casual...)."
+      "answer": "El título T-16 caducará automáticamente y el apoyo se desactivará el 31 de diciembre del año en que la persona haga 16 años. Después, hará falta que solicite un apoyo Te mobilitat genérico, si no tiene, y cargue otro título que le convenga (T-joven, T-casual...)."
     },
     {
-      "question": "Puede uno o una menor tener un apoyo T-mobilitat T-16 y un apoyo T-mobilitat general?",
+      "question": "Puede uno o una menor tener un apoyo Te mobilitat T-16 y un apoyo Te mobilitat general?",
       "answer": "Sí, puede tener dos apoyos PVC.\n- El apoyo de la T-16 (que solo puede contener el título T-16), para viajar por su zona de validación.\n- Un segundo apoyo PVC, donde podrá cargar el resto de títulos, para viajar por el resto de zonas de validación."
     },
     {
-      "question": "Con la T-mobilitat, la T-16 se continuará renovando cada 2 o 3 años de forma automática y gratuita? Tendrá fecha de caducidad?",
-      "answer": "Con la T-mobilitat no habrá que llevar a cabo renovaciones periódicas y la misma tarjeta servirá, si no se pierde o se estropea, hasta el 31 de diciembre del año en que la persona haga 16 años. La nueva tarjeta tiene una garantía de 3 años. Si sufriera algún problema fuera de la fecha de garantía, habrá que volver a pagar los 4,5 euros que costa."
+      "question": "Con la Te mobilitat, la T-16 se continuará renovando cada 2 o 3 años de forma automática y gratuita? Tendrá fecha de caducidad?",
+      "answer": "Con la Te mobilitat no habrá que llevar a cabo renovaciones periódicas y la misma tarjeta servirá, si no se pierde o se estropea, hasta el 31 de diciembre del año en que la persona haga 16 años. La nueva tarjeta tiene una garantía de 3 años. Si sufriera algún problema fuera de la fecha de garantía, habrá que volver a pagar los 4,5 euros que costa."
     },
     {
-      "question": "Qué sueño los canales de atención de la T-16 en formado T-mobilitat?",
-      "answer": "- Canals de TMB:\n - Teléfono de TMB 900 701 149: los 365 días del año, de 08h a 21h.\n - WhatsApp 607 684 087: días laborables de 07 a 20h.\n- Canals de ATM-CAI:\n - Teléfono: 900 928 900: los 365 días del año, de 7 a 23 h.\n - Twitter: @T_mobilitat: de lunes a jueves, de 8 a 17 h; viernes, de 8 a 15 h.\n - Telegram: T-mobilitat Atención: de lunes a jueves, de 8 a 17 h; viernes, de 8 a 15 h.\n - www.t-mobilitat.cat/t-16\n - Centro de atención e información avenida de la Granvia, 16-20: de lunes a viernes, de 8 a 20 h. Sábados, domingos y festivos, de 9 a 14 h."
+      "question": "Qué sueño los canales de atención de la T-16 en formado Te mobilitat?",
+      "answer": "- Canals de TMB:\n - Teléfono de TMB 900 701 149: los 365 días del año, de 08h a 21h.\n - WhatsApp 607 684 087: días laborables de 07 a 20h.\n- Canals de ATM-CAI:\n - Teléfono: 900 928 900: los 365 días del año, de 7 a 23 h.\n - Twitter: @T_mobilitat: de lunes a jueves, de 8 a 17 h; viernes, de 8 a 15 h.\n - Telegram: Te mobilitat Atención: de lunes a jueves, de 8 a 17 h; viernes, de 8 a 15 h.\n - www.Te mobilitat.cat/t-16\n - Centro de atención e información avenida de la Granvia, 16-20: de lunes a viernes, de 8 a 20 h. Sábados, domingos y festivos, de 9 a 14 h."
     },
     {
       "question": "Qué es el apoyo PVC?",
@@ -726,7 +726,7 @@
     },
     {
       "question": "Cómo es el apoyo PVC?",
-      "answer": "El apoyo tiene las dimensiones de una tarjeta de crédito y contiene un chip y una antena. Está hecho de material plástico, y está personalizado a nombre del usuario. Esto significa que el apoyo lleva imprimido el nombre y apellidos del usuario a su superficie y que este usuario es un cliente identificado a los sistemas informáticos centrales de la T-mobilitat."
+      "answer": "El apoyo tiene las dimensiones de una tarjeta de crédito y contiene un chip y una antena. Está hecho de material plástico, y está personalizado a nombre del usuario. Esto significa que el apoyo lleva imprimido el nombre y apellidos del usuario a su superficie y que este usuario es un cliente identificado a los sistemas informáticos centrales de la Te mobilitat."
     },
     {
       "question": "Cuál es el precio del apoyo PVC?",
@@ -750,7 +750,7 @@
     },
     {
       "question": "Cuál es el periodo de garantía del apoyo PVC?",
-      "answer": "Según el artículo 16 de las Condiciones de utilización de los apoyos sin contacto de la T-mobilitat (Diario Oficial de la Generalitat de Cataluña, no 9069, de 29 diciembre 2023), la garantía de una tarjeta personalizada PVC es de 3 años, a contar desde el momento de la emisión."
+      "answer": "Según el artículo 16 de las Condiciones de utilización de los apoyos sin contacto de la Te mobilitat (Diario Oficial de la Generalitat de Cataluña, no 9069, de 29 diciembre 2023), la garantía de una tarjeta personalizada PVC es de 3 años, a contar desde el momento de la emisión."
     },
     {
       "question": "Qué aporta la garantía del apoyo PVC?",
@@ -774,7 +774,7 @@
     },
     {
       "question": "Qué títulos puede contener el apoyo PVC?",
-      "answer": "A los apoyos de PVC se puede cargar cualquier título disponible por T-mobilitat. Los apoyos PVC, son el único tipo de apoyo donde se pueden cargar los títulos integrados personales y los bonificados."
+      "answer": "A los apoyos de PVC se puede cargar cualquier título disponible por Te mobilitat. Los apoyos PVC, son el único tipo de apoyo donde se pueden cargar los títulos integrados personales y los bonificados."
     },
     {
       "question": "Cuántos títulos puede contener el apoyo PVC?",
@@ -810,7 +810,7 @@
     },
     {
       "question": "Qué pasa si no llega el apoyo en el tiempo establecido?",
-      "answer": "En el supuesto de que el apoyo no llegue, ver el artículo 'T-mobilitat incidencia en la recepción del apoyo PVC'."
+      "answer": "En el supuesto de que el apoyo no llegue, ver el artículo 'Te mobilitat incidencia en la recepción del apoyo PVC'."
     },
     {
       "question": "Qué se tiene que hacer si los datos grabados al apoyo PVC no su correctos?",
@@ -829,12 +829,12 @@
       "answer": "El apoyo tiene las dimensiones de una tarjeta de crédito, con un chip y una antena, y hecho de material cartón. El apoyo cartón no se personaliza con el nombre y apellido del usuario, por lo tanto, es anónimo."
     },
     {
-      "question": "Si el apoyo cartón es anónimo, hay que estar dado de alta a T-mobilitat?",
-      "answer": "No. Para adquirir con un cartón TSC no hay que estar dado de alta a T-mobilitat."
+      "question": "Si el apoyo cartón es anónimo, hay que estar dado de alta a Te mobilitat?",
+      "answer": "No. Para adquirir con un cartón TSC no hay que estar dado de alta a Te mobilitat."
     },
     {
-      "question": "Si una persona está dada de alta a T-mobilitat, puede vincular o registrar el cartón a su cuenta de cliente?",
-      "answer": "No. El cartón no se podrá vincular a ninguna cuenta, a pesar de que el usuario sea cliente de T-mobilitat."
+      "question": "Si una persona está dada de alta a Te mobilitat, puede vincular o registrar el cartón a su cuenta de cliente?",
+      "answer": "No. El cartón no se podrá vincular a ninguna cuenta, a pesar de que el usuario sea cliente de Te mobilitat."
     },
     {
       "question": "Qué significa que un apoyo cartón no se pueda registrar?",
@@ -890,11 +890,11 @@
     },
     {
       "question": "Quién puede comprar el apoyo cartón?",
-      "answer": "Cualquier usuario que compre un título que únicamente esté disponible en formado cartón, esté o no registrado a T-mobilitat."
+      "answer": "Cualquier usuario que compre un título que únicamente esté disponible en formado cartón, esté o no registrado a Te mobilitat."
     },
     {
       "question": "Quién puede usar el apoyo cartón?",
-      "answer": "Cualquier usuario que compre un título que únicamente esté disponible en formado cartón, esté o no registrado a T-mobilitat."
+      "answer": "Cualquier usuario que compre un título que únicamente esté disponible en formado cartón, esté o no registrado a Te mobilitat."
     },
     {
       "question": "Se puede devolver el apoyo cartón?",
@@ -914,11 +914,11 @@
     },
     {
       "question": "Qué pasa si se pierde o lo roban el apoyo cartón?",
-      "answer": "Como el apoyo no se puede registrar a ninguna cuenta de cliente, el título no se puede recuperar. Por lo tanto, el cliente tendrá que adquirir nuevamente un nuevo apoyo cartón y un nuevo título. Si todavía no es cliente T-mobilitat, puede darse de alta y adquirir una tarjeta personalizada."
+      "answer": "Como el apoyo no se puede registrar a ninguna cuenta de cliente, el título no se puede recuperar. Por lo tanto, el cliente tendrá que adquirir nuevamente un nuevo apoyo cartón y un nuevo título. Si todavía no es cliente Te mobilitat, puede darse de alta y adquirir una tarjeta personalizada."
     },
     {
       "question": "Qué se tiene que hacer para obtener el apoyo móvil?",
-      "answer": "1. Tener descargadas la TMB App y la app Cartera electrónica.\n2. Estar registrado al JoTMBé.\n3. Ser cliente T-mobilitat."
+      "answer": "1. Tener descargadas la TMB App y la app Cartera electrónica.\n2. Estar registrado al JoTMBé.\n3. Ser cliente Te mobilitat."
     },
     {
       "question": "Se puede tener el apoyo móvil en cualquier móvil?",
@@ -926,15 +926,15 @@
     },
     {
       "question": "Cuál es el precio del apoyo móvil?",
-      "answer": "Tiene un precio de 1€, que se paga antes de cargar el primer título. Este pago es único. A pesar de que el cliente desinstale la aplicación, no volverá a hacer el pago. Solo en el supuesto de que el cliente dé de baja su cuenta de cliente T-mobilitat y posteriormente se dé de alta nuevamente tendrá que abonar el pago."
+      "answer": "Tiene un precio de 1€, que se paga antes de cargar el primer título. Este pago es único. A pesar de que el cliente desinstale la aplicación, no volverá a hacer el pago. Solo en el supuesto de que el cliente dé de baja su cuenta de cliente Te mobilitat y posteriormente se dé de alta nuevamente tendrá que abonar el pago."
     },
     {
       "question": "Qué títulos puede contener el apoyo móvil?",
-      "answer": "A los apoyos móviles se puede cargar cualquier título disponible por T-mobilitat, a excepción de la T-16."
+      "answer": "A los apoyos móviles se puede cargar cualquier título disponible por Te mobilitat, a excepción de la T-16."
     },
     {
       "question": "Cuántos títulos puede contener el apoyo móvil?",
-      "answer": "Actualmente, todos los apoyos T-mobilitat (PVC, móvil y cartón) solo pueden contener un único tipo de título, con sus dos contenedores de recarga."
+      "answer": "Actualmente, todos los apoyos Te mobilitat (PVC, móvil y cartón) solo pueden contener un único tipo de título, con sus dos contenedores de recarga."
     },
     {
       "question": "Qué caducidad tiene el apoyo móvil?",
@@ -950,7 +950,7 @@
     },
     {
       "question": "Qué pasa con el apoyo móvil si se cambia de móvil o se pierde?",
-      "answer": "En caso de cambiar de móvil o de perderlo, el cliente tendrá que iniciar sesión a JoTMBé y descargarse TMB App y App Cartera electrónica en el nuevo móvil. Una vez iniciada la sesión en el nuevo móvil el cliente tendrá que vincular la cartera electrónica (la aplicación fuerza este proceso cuando se accede en el apartado T-mobilitat >Móvil), y seguir los pasos que indique la aplicación, y ya podrá acceder a su apoyo y títulos virtuales y, de manera automática, se cerrará la sesión en el móvil antiguo."
+      "answer": "En caso de cambiar de móvil o de perderlo, el cliente tendrá que iniciar sesión a JoTMBé y descargarse TMB App y App Cartera electrónica en el nuevo móvil. Una vez iniciada la sesión en el nuevo móvil el cliente tendrá que vincular la cartera electrónica (la aplicación fuerza este proceso cuando se accede en el apartado Te mobilitat >Móvil), y seguir los pasos que indique la aplicación, y ya podrá acceder a su apoyo y títulos virtuales y, de manera automática, se cerrará la sesión en el móvil antiguo."
     },
     {
       "question": "Cómo se valida el apoyo móvil?",
@@ -1058,7 +1058,7 @@
     },
     {
       "question": "Donde se puede activar el apoyo del PIN de activación?",
-      "answer": "El usuario puede activar el apoyo a:\nCanals\n- Presencial: Si\n- Digital: Si\n- Telefónico: Si\n- Web: Si\n- App: Si\n- DA: Si\nSolo a Puntos TMB, no a Quioscos\n\n- Máquinas de autoventa: el apoyo se tiene que acercar dos veces al lector, e introducir el PIN recibido.\n- TMB App: no pide PIN si el cliente inicia su sesión JoTMBé vinculada a T-mobilitat.\n- Punto TMB: hay que llevar el documento de identidad original y vigente."
+      "answer": "El usuario puede activar el apoyo a:\nCanals\n- Presencial: Si\n- Digital: Si\n- Telefónico: Si\n- Web: Si\n- App: Si\n- DA: Si\nSolo a Puntos TMB, no a Quioscos\n\n- Máquinas de autoventa: el apoyo se tiene que acercar dos veces al lector, e introducir el PIN recibido.\n- TMB App: no pide PIN si el cliente inicia su sesión JoTMBé vinculada a Te mobilitat.\n- Punto TMB: hay que llevar el documento de identidad original y vigente."
     },
     {
       "question": "El PIN siempre es el mismo?",
@@ -1070,15 +1070,15 @@
     },
     {
       "question": "Consulta canal telefónico y digital, qué tiene que hacer el agente para atender la consulta respecto al PIN de activación?",
-      "answer": "● Indicar al cliente que tiene que acercar su tarjeta con TMB App. Una vez hecha la primera lectura, tiene que realizar una segunda lectura, polsant sobre “Activar la tarjeta T-mobilitat”. Aparecerá un código numérico (PIN), hasta que el usuario acerque su tarjeta al lector NFC. En el supuesto de que fallara esta opción, el usuario puede activar su tarjeta a una máquina de auto venta, introduciendo el PIN de activación que muestra la suya TMB App antes de hacer la segunda lectura.\n● En el supuesto de que fallara esta opción, el agente (telefónico o digital) tiene que de enviar el PIN a través de TPW Agente. Tiene que comprobar la identidad del cliente (se tiene que solicitar el documento de identidad, nombre y apellido y fecha de nacimiento). El agente accede a la ficha de cliente de TPW Agente. En el apartado “Apoyos”, aparecerá la tarjeta del usuario. Al contenedor del apoyo, aparece la opción “Enviar PIN de activación”. El usuario recibirá un correo electrónico (siempre que tenga activadas las notificaciones). A la máquina de auto venta, tiene que acercar la tarjeta al lector e introducir el número PIN recibido. Después, el usuario tiene que volver a acercar para concluir la activación del apoyo.\n● En el supuesto de que fallara esta opción, el agente tiene que indicar al usuario que puede obtener el PIN de activación accediendo en su espacio personal de TMB web (siempre que esté vinculado a JoTMBé). Aquí el usuario no puede activar el PIN, pero sí obtenerlo, para activarlo a una máquina de auto venta. El usuario accede en el apartado “Apoyos”; selecciona “Como activar”. El PIN se mostrará a la pantalla y se lo ofrece enviarlo por Mail. A la máquina de auto venta, tiene que acercar la tarjeta al lector e introducir el número PIN recibido. Después, el usuario tiene que volver a acercar para concluir la activación del apoyo.\n● En el supuesto de que fallara esta opción, el agente tiene que redirigir el usuario a un Punto TMB habilidad por T-mobilitat."
+      "answer": "● Indicar al cliente que tiene que acercar su tarjeta con TMB App. Una vez hecha la primera lectura, tiene que realizar una segunda lectura, polsant sobre “Activar la tarjeta Te mobilitat”. Aparecerá un código numérico (PIN), hasta que el usuario acerque su tarjeta al lector NFC. En el supuesto de que fallara esta opción, el usuario puede activar su tarjeta a una máquina de auto venta, introduciendo el PIN de activación que muestra la suya TMB App antes de hacer la segunda lectura.\n● En el supuesto de que fallara esta opción, el agente (telefónico o digital) tiene que de enviar el PIN a través de TPW Agente. Tiene que comprobar la identidad del cliente (se tiene que solicitar el documento de identidad, nombre y apellido y fecha de nacimiento). El agente accede a la ficha de cliente de TPW Agente. En el apartado “Apoyos”, aparecerá la tarjeta del usuario. Al contenedor del apoyo, aparece la opción “Enviar PIN de activación”. El usuario recibirá un correo electrónico (siempre que tenga activadas las notificaciones). A la máquina de auto venta, tiene que acercar la tarjeta al lector e introducir el número PIN recibido. Después, el usuario tiene que volver a acercar para concluir la activación del apoyo.\n● En el supuesto de que fallara esta opción, el agente tiene que indicar al usuario que puede obtener el PIN de activación accediendo en su espacio personal de TMB web (siempre que esté vinculado a JoTMBé). Aquí el usuario no puede activar el PIN, pero sí obtenerlo, para activarlo a una máquina de auto venta. El usuario accede en el apartado “Apoyos”; selecciona “Como activar”. El PIN se mostrará a la pantalla y se lo ofrece enviarlo por Mail. A la máquina de auto venta, tiene que acercar la tarjeta al lector e introducir el número PIN recibido. Después, el usuario tiene que volver a acercar para concluir la activación del apoyo.\n● En el supuesto de que fallara esta opción, el agente tiene que redirigir el usuario a un Punto TMB habilidad por Te mobilitat."
     },
     {
       "question": "Consulta canal presencial, qué tiene que hacer el agente para atender la consulta respecto al PIN de activación?",
-      "answer": "● El agente solicita el documento de identidad con el fin de identificarlo, para ejecutar la activación.\n● El agente accede a la información del apoyo. Se comprueba que el estado de apoyo es “no activado”. Selecciona la opción “Activar apoyo. Aparecerá una ventana emergente para confirmar la operación. Tiene que pulsar “sí” para activarlo.\n● El agente tiene que acercar la tarjeta T-mobilitat al cCTIU (cenicero). Si el apoyo es el mismo que el leído anteriormente, se ejecutará la activación. En el supuesto de que la activación se lleve a cabo correctamente, aparecerá una ventana emergente mostrando el resultado.\n● En el supuesto de que fallara esta opción, el sistema informará del error. Se tiene que volver a la pantalla de detalle de apoyo. Para obtener información del error, tiene que consultar el apartado “aislamiento de errores >> Mensajes” informando del resultado de los procesos."
+      "answer": "● El agente solicita el documento de identidad con el fin de identificarlo, para ejecutar la activación.\n● El agente accede a la información del apoyo. Se comprueba que el estado de apoyo es “no activado”. Selecciona la opción “Activar apoyo. Aparecerá una ventana emergente para confirmar la operación. Tiene que pulsar “sí” para activarlo.\n● El agente tiene que acercar la tarjeta Te mobilitat al cCTIU (cenicero). Si el apoyo es el mismo que el leído anteriormente, se ejecutará la activación. En el supuesto de que la activación se lleve a cabo correctamente, aparecerá una ventana emergente mostrando el resultado.\n● En el supuesto de que fallara esta opción, el sistema informará del error. Se tiene que volver a la pantalla de detalle de apoyo. Para obtener información del error, tiene que consultar el apartado “aislamiento de errores >> Mensajes” informando del resultado de los procesos."
     },
     {
       "question": "Consulta Backoffice/ QRS, qué tiene que hacer el agente para atender la consulta respecto al PIN de Activación?",
-      "answer": "El agente de Backoffice, si hace falta, puede seguir el mismo procedimiento que los canales telefónico y digital.\niño el caso que un usuario no haya podido activar su tarjeta en su punto, agotadas las opciones anteriores, tiene que contactar con ATM para dar a conocer la incidencia y obtener una respuesta que la solucione.\niño caso necesario, puede derivar el cliente a un Punto para realizar una emisión por incidencia de nueva tarjeta. Las tarjetas emitidas en su punto ya se entregan activadas. El agente tiene que reseñar al excel “Control Incidencias T-mobilitat” el número de ticket de Zendesk, nombre y apellidos, correo electrónico, operativa a realizar y breve resumen de la incidencia."
+      "answer": "El agente de Backoffice, si hace falta, puede seguir el mismo procedimiento que los canales telefónico y digital.\niño el caso que un usuario no haya podido activar su tarjeta en su punto, agotadas las opciones anteriores, tiene que contactar con ATM para dar a conocer la incidencia y obtener una respuesta que la solucione.\niño caso necesario, puede derivar el cliente a un Punto para realizar una emisión por incidencia de nueva tarjeta. Las tarjetas emitidas en su punto ya se entregan activadas. El agente tiene que reseñar al excel “Control Incidencias Te mobilitat” el número de ticket de Zendesk, nombre y apellidos, correo electrónico, operativa a realizar y breve resumen de la incidencia."
     },
     {
       "question": "canje de un apoyo PVC estropeado, qué es?",
@@ -1162,7 +1162,7 @@
     },
     {
       "question": "Qué tiene que hacer el agente de estación para hacer un canje provisional?",
-      "answer": "1. El agente pedirá el apoyo defectuoso al usuario, y hará una primera revisión visual para comprobar que el apoyo no está malogrado por causas imputables al usuario.\n2. En el supuesto de que el apoyo esté defectuoso, el AAC accederá al menú de explotación de la Máquina de Auto Venta, selecciona \"Operativa de canje\" y posteriormente \"Canje de apoyos T-mobilitat\".\n3. A la pantalla que le aparezca, la AAC tiene que introducir el número del apoyo, sin las dos letras y pulsar \"Aceptar\".\n4. Si el apoyo se encuentra en garantía y el canje se puede realizar, en la pantalla aparecerá la información completa del apoyo original (número del apoyo, título, zonas, vigencia). Esta información no es editable. El AAC solo puede aceptar o cancelar la operativa. Si el apoyo no estuviera en garantía o el canje no se pudiera realizar, aparecerá un mensaje a la pantalla informando \"Apoyo no encontrado o no válido\", \"Fuera de garantía\", \"Apoyo anulado\" o \"Apoyo no disponible por emisión\".\n5. En el caso de continuar con la operativa, aparecerá un mensaje a la pantalla, \"Ejecutando operación\", mientras se emite el canje TSC en formado cartón, el apoyo original se da de baja, y se imprimen los recibos de canje.\n6. El canje en formado cartón tendrá una validez máxima de 30 días. En este caso, el AAC tendrá que informar de esto al usuario, y que tiene que ir a un Punto TMB para obtener el duplicado o canje definitivo en formado tarjeta personalizada (tendrá que llevar la tarjeta defectuosa y el canje provisional). Esta operativa mujer de baja el apoyo PVC original automáticamente.\n7. La operativa de canje generará dos recibos de comprobación. El AAC tiene que guardar uno al sobre de rechazo correspondiente, sin el apoyo defectuoso (solo retirará los apoyos T-16, y otro que se lo queda él mismo."
+      "answer": "1. El agente pedirá el apoyo defectuoso al usuario, y hará una primera revisión visual para comprobar que el apoyo no está malogrado por causas imputables al usuario.\n2. En el supuesto de que el apoyo esté defectuoso, el AAC accederá al menú de explotación de la Máquina de Auto Venta, selecciona \"Operativa de canje\" y posteriormente \"Canje de apoyos Te mobilitat\".\n3. A la pantalla que le aparezca, la AAC tiene que introducir el número del apoyo, sin las dos letras y pulsar \"Aceptar\".\n4. Si el apoyo se encuentra en garantía y el canje se puede realizar, en la pantalla aparecerá la información completa del apoyo original (número del apoyo, título, zonas, vigencia). Esta información no es editable. El AAC solo puede aceptar o cancelar la operativa. Si el apoyo no estuviera en garantía o el canje no se pudiera realizar, aparecerá un mensaje a la pantalla informando \"Apoyo no encontrado o no válido\", \"Fuera de garantía\", \"Apoyo anulado\" o \"Apoyo no disponible por emisión\".\n5. En el caso de continuar con la operativa, aparecerá un mensaje a la pantalla, \"Ejecutando operación\", mientras se emite el canje TSC en formado cartón, el apoyo original se da de baja, y se imprimen los recibos de canje.\n6. El canje en formado cartón tendrá una validez máxima de 30 días. En este caso, el AAC tendrá que informar de esto al usuario, y que tiene que ir a un Punto TMB para obtener el duplicado o canje definitivo en formado tarjeta personalizada (tendrá que llevar la tarjeta defectuosa y el canje provisional). Esta operativa mujer de baja el apoyo PVC original automáticamente.\n7. La operativa de canje generará dos recibos de comprobación. El AAC tiene que guardar uno al sobre de rechazo correspondiente, sin el apoyo defectuoso (solo retirará los apoyos T-16, y otro que se lo queda él mismo."
     },
     {
       "question": "Cómo sabe la DA como tiene que hacer el canje a las estaciones?",
@@ -1250,7 +1250,7 @@
     },
     {
       "question": "Qué tiene que hacer el Agente de estación para hacer un canje del apoyo cartón a la Red de metro?",
-      "answer": "1. El agente pedirá el apoyo defectuoso al usuario, y hará una primera revisión para comprobar que el apoyo no está malogrado por causas imputables al usuario.\n2. En el supuesto de que el apoyo esté defectuoso, el AAC accederá al menú de explotación, selecciona 'Operativa de canje' y posteriormente 'Canje de apoyos T-mobilitat'.\n3. A la pantalla que le aparezca, la AAC tiene que introducir el número del apoyo, sin las dos letras y pulsar 'Aceptar'.\n - Si el apoyo no estuviera en garantía o el canje no se pudiera realizar, aparecerá un mensaje a la pantalla informando 'Apoyo no encontrado o no válido', 'Fuera de garantía', 'Apoyo anulado' o 'Apoyo no disponible por emisión'.\n - Si el apoyo se encuentra en garantía y el canje se puede realizar, en la pantalla aparecerá la información completa del apoyo original (número del apoyo, título, zonas, vigencia). Esta información no es editable. El AAC solo puede aceptar o cancelar la operativa.\n4. En el caso de continuar con la operativa, aparecerá un mensaje a la pantalla, 'Ejecutando operación', mientras se emite el canje TSC en formado cartón, el apoyo original se da de baja.\n5. La operativa de canje generará dos recibos de comprobación. El AAC tiene que guardar uno al sobre de rechazo correspondiente, sin el apoyo defectuoso (solo retirará los apoyos T-16, porque se tienen que enviar al CAI), y otro que se lo queda él mismo."
+      "answer": "1. El agente pedirá el apoyo defectuoso al usuario, y hará una primera revisión para comprobar que el apoyo no está malogrado por causas imputables al usuario.\n2. En el supuesto de que el apoyo esté defectuoso, el AAC accederá al menú de explotación, selecciona 'Operativa de canje' y posteriormente 'Canje de apoyos Te mobilitat'.\n3. A la pantalla que le aparezca, la AAC tiene que introducir el número del apoyo, sin las dos letras y pulsar 'Aceptar'.\n - Si el apoyo no estuviera en garantía o el canje no se pudiera realizar, aparecerá un mensaje a la pantalla informando 'Apoyo no encontrado o no válido', 'Fuera de garantía', 'Apoyo anulado' o 'Apoyo no disponible por emisión'.\n - Si el apoyo se encuentra en garantía y el canje se puede realizar, en la pantalla aparecerá la información completa del apoyo original (número del apoyo, título, zonas, vigencia). Esta información no es editable. El AAC solo puede aceptar o cancelar la operativa.\n4. En el caso de continuar con la operativa, aparecerá un mensaje a la pantalla, 'Ejecutando operación', mientras se emite el canje TSC en formado cartón, el apoyo original se da de baja.\n5. La operativa de canje generará dos recibos de comprobación. El AAC tiene que guardar uno al sobre de rechazo correspondiente, sin el apoyo defectuoso (solo retirará los apoyos T-16, porque se tienen que enviar al CAI), y otro que se lo queda él mismo."
     },
     {
       "question": "Donde se puede pedir un canje gratuito o duplicado de apoyo cartón a los Puntos TMB?",
@@ -1282,7 +1282,7 @@
     },
     {
       "question": "Qué tiene que hacer el usuario para pedir un duplicado por pérdida o robo?",
-      "answer": "En el caso de la tarjeta personalizada, se recomienda bloquear el apoyo. Si más tarde se encontrara, se podrá desbloquear. En el supuesto de que no se encuentre, tiene que pedir un duplicado en un punto presencial. Este proceso dará de baja el apoyo original.\nEls menores de edad también pueden pedir el duplicado de su tarjeta personalizada (no T-16), a pesar de que no esté presente el cliente gestor, ni que lleve ninguna autorización. Solo hace falta que lleve su propio documento de identidad, original y vigente, si se acerque a un Punto TMB, sin cita previa.\niño el caso del apoyo virtual, el usuario tiene que descargar las aplicaciones Cartera electrónica y TMB App en el nuevo dispositivo móvil Android con NFC. A TMB App, el cliente tiene que iniciar la sesión de JoTMBé, y en el apartado T-mobilitat > Móvil, polsar sobre 'Vincular una nueva cartera electrónica'. Esta acción migrará la cartera electrónica (y los títulos) al nuevo dispositivo."
+      "answer": "En el caso de la tarjeta personalizada, se recomienda bloquear el apoyo. Si más tarde se encontrara, se podrá desbloquear. En el supuesto de que no se encuentre, tiene que pedir un duplicado en un punto presencial. Este proceso dará de baja el apoyo original.\nEls menores de edad también pueden pedir el duplicado de su tarjeta personalizada (no T-16), a pesar de que no esté presente el cliente gestor, ni que lleve ninguna autorización. Solo hace falta que lleve su propio documento de identidad, original y vigente, si se acerque a un Punto TMB, sin cita previa.\niño el caso del apoyo virtual, el usuario tiene que descargar las aplicaciones Cartera electrónica y TMB App en el nuevo dispositivo móvil Android con NFC. A TMB App, el cliente tiene que iniciar la sesión de JoTMBé, y en el apartado Te mobilitat > Móvil, polsar sobre 'Vincular una nueva cartera electrónica'. Esta acción migrará la cartera electrónica (y los títulos) al nuevo dispositivo."
     },
     {
       "question": "Si se encuentra la tarjeta o apoyo, se puede devolver el duplicado creado por caso de pérdida o robo?",
@@ -1406,7 +1406,7 @@
     },
     {
       "question": "Qué proceso tiene que seguir el usuario para hacer la carga y recarga al apoyo móvil con NFC?",
-      "answer": "1. El usuario tiene que iniciar sesión JoTMBé a la TMB App.\n2. En el apartado T-mobilitat, Móvil, tiene que pulsar Carga o recarga, en función de la necesidad del usuario.\n3. Una vez hecha el pago, el usuario tiene que volver a TMB App. No se requiere ninguna acción adicional."
+      "answer": "1. El usuario tiene que iniciar sesión JoTMBé a la TMB App.\n2. En el apartado Te mobilitat, Móvil, tiene que pulsar Carga o recarga, en función de la necesidad del usuario.\n3. Una vez hecha el pago, el usuario tiene que volver a TMB App. No se requiere ninguna acción adicional."
     },
     {
       "question": "Cuáles son los requisitos para poder cargar y recargar títulos a las tarjetas personalizada y anónima con NFC?",
@@ -1414,7 +1414,7 @@
     },
     {
       "question": "Qué proceso tiene que seguir el usuario para hacer la carga y recarga a las tarjetas personalizada y anónima con NFC?",
-      "answer": "1. El usuario tiene que iniciar sesión JoTMBé a la TMB App.\n2. En el apartado T-mobilitat, Tarjeta, el usuario tiene que pulsar 'Iniciar lectura' y acercar el apoyo al móvil.\n3. Una vez se visualiza la información del apoyo, el usuario tiene que seleccionar carga o recarga, en función de las necesidades.\n4. Hecho el pago, el usuario tiene que volver a TMB App y hacer una nueva lectura del apoyo, sin pulsar ningún botón de 'Iniciar lectura'."
+      "answer": "1. El usuario tiene que iniciar sesión JoTMBé a la TMB App.\n2. En el apartado Te mobilitat, Tarjeta, el usuario tiene que pulsar 'Iniciar lectura' y acercar el apoyo al móvil.\n3. Una vez se visualiza la información del apoyo, el usuario tiene que seleccionar carga o recarga, en función de las necesidades.\n4. Hecho el pago, el usuario tiene que volver a TMB App y hacer una nueva lectura del apoyo, sin pulsar ningún botón de 'Iniciar lectura'."
     },
     {
       "question": "Se pueden hacer cargas o recargas de títulos en dispositivos móviles sin NFC?",
@@ -1461,16 +1461,16 @@
       "answer": "En el supuesto de que haya pasado los tiempo establecido, el usuario tiene que hacer una reclamación mediante el formulario web y aportar el máximo de datos posibles."
     },
     {
-      "question": "Qué podemos hacer si un cliente pide la devolución para cargar otro título que solo está disponible en T-mobilitat, teniendo en cuenta que la devolución y extracción pueden tardar un tiempo?",
-      "answer": "Cuando un cliente pida la devolución del título cargado a su apoyo PVC, y manifieste que quiere comprar otro que solo está disponible en formado T-mobilitat, por ejemplo la T-joven, los canales de atención derivarán al cliente a un Punto TMB para extraer el título. Así podrá cargar aquel que solo está disponible por T-mobilitat:\n- El agente de atención informará al cliente que tiene que ir a un Punto TMB para hacer la extracción del título y cargar aquel que solo está disponible en versión T-mobilitat.\n- Este mismo agente de atención informará a Puntos de la operativa, mediante la Excel Control incidencias T-mobilitat que se encuentra al Sharepoint de Puntos.\n- Si el cliente todavía no ha presentado ninguno QRS, el agente de Punto la redactará y la hará llegar a la Oficina de Back Office. Si el cliente ya hubiera presentado una QRS, el agente de atención tendrá que acceder al ticket de Zendesk e informar que se ha extraído el título y cargado el nuez, mediante una nota interna."
+      "question": "Qué podemos hacer si un cliente pide la devolución para cargar otro título que solo está disponible en Te mobilitat, teniendo en cuenta que la devolución y extracción pueden tardar un tiempo?",
+      "answer": "Cuando un cliente pida la devolución del título cargado a su apoyo PVC, y manifieste que quiere comprar otro que solo está disponible en formado Te mobilitat, por ejemplo la T-joven, los canales de atención derivarán al cliente a un Punto TMB para extraer el título. Así podrá cargar aquel que solo está disponible por Te mobilitat:\n- El agente de atención informará al cliente que tiene que ir a un Punto TMB para hacer la extracción del título y cargar aquel que solo está disponible en versión Te mobilitat.\n- Este mismo agente de atención informará a Puntos de la operativa, mediante la Excel Control incidencias Te mobilitat que se encuentra al Sharepoint de Puntos.\n- Si el cliente todavía no ha presentado ninguno QRS, el agente de Punto la redactará y la hará llegar a la Oficina de Back Office. Si el cliente ya hubiera presentado una QRS, el agente de atención tendrá que acceder al ticket de Zendesk e informar que se ha extraído el título y cargado el nuez, mediante una nota interna."
     },
     {
       "question": "Cómo se hacen las devoluciones de títulos comprados presencialmente?",
-      "answer": "Títulos sin validar. Comprados a Quioscos y Puntos. Dentro de las primeras 24h:\n- Devolución a través del datàfon en Puntos/ Quioscos. El cliente tiene que aportar el recibo de la compra, al tarjeta T-mobilitat, y la tarjeta bancaria con la que hizo el pago. En el caso de que el cliente haya pagado en efectivo a Puntos, el reembolso será en efectivo.\n- El Agente usará el programa TMB Commerce.\n- Extracción del título a través del PEC (previa lectura del apoyo PVC o cartón en el PEC).\n\nTítols sin validar. Comprados a DA. Dentro de las primeras 24h:\n- Cliente hace reclamación para recibir la devolución a través de transferencia bancaria.\n- La extracción del título de un apoyo PVC la realiza Billetatge, en diferido. Si el cliente está a punto, la extracción se puede hacer desde el PEC.\n- Los títulos de apoyo cartón únicamente se pueden extraer a través del PEC. Billetatge no lo puede hacer con sus herramientas en diferido.\n\nTítols sin validar. Fuera de las primeras 24h:\n- No se pueden hacer devoluciones de títulos fuera de las primeras 24 horas, excepto en el caso de incidencias en la instanciació del título."
+      "answer": "Títulos sin validar. Comprados a Quioscos y Puntos. Dentro de las primeras 24h:\n- Devolución a través del datàfon en Puntos/ Quioscos. El cliente tiene que aportar el recibo de la compra, al tarjeta Te mobilitat, y la tarjeta bancaria con la que hizo el pago. En el caso de que el cliente haya pagado en efectivo a Puntos, el reembolso será en efectivo.\n- El Agente usará el programa TMB Commerce.\n- Extracción del título a través del PEC (previa lectura del apoyo PVC o cartón en el PEC).\n\nTítols sin validar. Comprados a DA. Dentro de las primeras 24h:\n- Cliente hace reclamación para recibir la devolución a través de transferencia bancaria.\n- La extracción del título de un apoyo PVC la realiza Billetatge, en diferido. Si el cliente está a punto, la extracción se puede hacer desde el PEC.\n- Los títulos de apoyo cartón únicamente se pueden extraer a través del PEC. Billetatge no lo puede hacer con sus herramientas en diferido.\n\nTítols sin validar. Fuera de las primeras 24h:\n- No se pueden hacer devoluciones de títulos fuera de las primeras 24 horas, excepto en el caso de incidencias en la instanciació del título."
     },
     {
       "question": "Cómo se hacen las devoluciones de títulos comprados en línea, ya sean en apoyo PVC, cartón o virtual?",
-      "answer": "Títulos sin validar. Dentro de las primeras 24h:\n- El usuario tendrá que realizar unareclamació. El equipo de Backoffice se encargará de informar de la devolución y extracción del título con Billetatge. Si la compra es de un apoyo cartón, la extracción del título solo se puede hacer presencialmente a un Punto, a través del PEC. Se informará a Puntos a través del Excel de incidencias de Puntos.\n\nTítols sin validar. Fuera de las primeras 24h:\n- No se pueden hacer devoluciones de títulos fuera de las primeras 24 horas, excepto en el caso de incidencias en la instanciació del título.\n- Se puede hacer canje del título en formado cartón, si no está validado, para permitir que el usuario cargue otro título al apoyo T-mobilitat. La extracción del título se hará a través del PEC (PVC y cartón) o en diferido (PVC ii apoyo virtual).\n\nTítols validados:\n- No se pueden hacer devoluciones de títulos fuera de las primeras 24 horas, excepto en el caso de incidencias en la instanciació del título.\n- Se puede hacer canje del título en formato magnético, para permitir que el usuario cargue otro título al apoyo T-mobilitat. La extracción del título se hará a través del PEC (PVC y cartón) o en diferido (PVC ii apoyo virtual)."
+      "answer": "Títulos sin validar. Dentro de las primeras 24h:\n- El usuario tendrá que realizar unareclamació. El equipo de Backoffice se encargará de informar de la devolución y extracción del título con Billetatge. Si la compra es de un apoyo cartón, la extracción del título solo se puede hacer presencialmente a un Punto, a través del PEC. Se informará a Puntos a través del Excel de incidencias de Puntos.\n\nTítols sin validar. Fuera de las primeras 24h:\n- No se pueden hacer devoluciones de títulos fuera de las primeras 24 horas, excepto en el caso de incidencias en la instanciació del título.\n- Se puede hacer canje del título en formado cartón, si no está validado, para permitir que el usuario cargue otro título al apoyo Te mobilitat. La extracción del título se hará a través del PEC (PVC y cartón) o en diferido (PVC ii apoyo virtual).\n\nTítols validados:\n- No se pueden hacer devoluciones de títulos fuera de las primeras 24 horas, excepto en el caso de incidencias en la instanciació del título.\n- Se puede hacer canje del título en formato magnético, para permitir que el usuario cargue otro título al apoyo Te mobilitat. La extracción del título se hará a través del PEC (PVC y cartón) o en diferido (PVC ii apoyo virtual)."
     },
     {
       "question": "Donde se puede pedir una devolución de un título presencialmente?",
@@ -1490,7 +1490,7 @@
     },
     {
       "question": "Cuál es el procedimiento que tiene que seguir el agente para hacer el reembolso al cliente?",
-      "answer": "1. Una vez hecha la comprobación anterior (punto 5 del procedimiento de extracción de título), se procederá a devolver el importe con datàfon.\n2. Al datàfon, buscaremos la opción Gestiones/ Operaciones/ Devolución. Una vez dentro de la pantalla de devolución, pedirá la introducción del importe a devolver. Seguidamente, se tendrá que introducir el número de operación (este número aparece al recibo de la compra que tiene que aportar el cliente. En el supuesto de que no lo aporte, será necesario que haga una reclamación).\n3. Realizados los pasos anteriores, el usuario tendrá que acercar la tarjeta bancaria/ móvil /reloj (con la que realizó la compra de aquel título) al datàfon. Como Puntos se puede hacer el pago en efectivo, en caso de devolución, el agente de atención tendrá que extraer el dinero del cajón de la cashless de T-mobilitat.\n4. Devolución realizada. El agente tendrá que dar al cliente una copia del recibo de devolución."
+      "answer": "1. Una vez hecha la comprobación anterior (punto 5 del procedimiento de extracción de título), se procederá a devolver el importe con datàfon.\n2. Al datàfon, buscaremos la opción Gestiones/ Operaciones/ Devolución. Una vez dentro de la pantalla de devolución, pedirá la introducción del importe a devolver. Seguidamente, se tendrá que introducir el número de operación (este número aparece al recibo de la compra que tiene que aportar el cliente. En el supuesto de que no lo aporte, será necesario que haga una reclamación).\n3. Realizados los pasos anteriores, el usuario tendrá que acercar la tarjeta bancaria/ móvil /reloj (con la que realizó la compra de aquel título) al datàfon. Como Puntos se puede hacer el pago en efectivo, en caso de devolución, el agente de atención tendrá que extraer el dinero del cajón de la cashless de Te mobilitat.\n4. Devolución realizada. El agente tendrá que dar al cliente una copia del recibo de devolución."
     },
     {
       "question": "Qué herramientas tienen que utilizar los agentes telefónicos y digitales para ver el estado de la devolución?",
@@ -1498,7 +1498,7 @@
     },
     {
       "question": "Qué tiene que hacer el agente para gestionar la devolución los agentes telefónics y digitales?",
-      "answer": "Si la compra de título se ha realizado a través de nuestros canales digitales:\n1. Se piden los datos al cliente para identificarlo al TPW.\n2. Verificar a TPW Agente y ECR que el cliente ha efectuado la operación y se le ha cobrado.\n3. Si todo cuadra con la información que nos ha facilitado el cliente y el título no está validado:\n\n- Se pide a Billetatge (nos facilitará los contactos correspondientes) que extraiga y/o devuelva el título objete de la reclamación-devolución. En el Excel Unificado devoluciones, compartido por la OAE y Billetatge, se anota el número del ticket de Zendesk, la fecha de la QRS, la fecha de introducción en la Excel, la orden de venta si es una compra de App o Web (si es una compra a DA o Quiosco, se anota 'sin orden venta, compra a DA [o] Quiosco'), si es T-mobilitat (la Excel aplica a todas las compras en línea, sean o no T-mobilitat), la cantidad a devolver (si solo es extracción, se anota 'Extracción'), el motivo ('Devolución a petición cliente'), el número de apoyo, el código identificador del título y la fecha de la carga. Billetatge hace estas devoluciones y extracciones cada dos días. Canal digital también puede hacer este tipo de extracciones y devoluciones, a pesar de que antes de que las devuelva Billetatge, las tiene que revisar el equipo de Backoffice.\n\nSi la compra de título se ha realizado a través de DA, el agente tiene que derivar al cliente a realizar una QRS.\nSi la compra de título se ha realizado en el canal presencial, se deriva al cliente en el canal presencial."
+      "answer": "Si la compra de título se ha realizado a través de nuestros canales digitales:\n1. Se piden los datos al cliente para identificarlo al TPW.\n2. Verificar a TPW Agente y ECR que el cliente ha efectuado la operación y se le ha cobrado.\n3. Si todo cuadra con la información que nos ha facilitado el cliente y el título no está validado:\n\n- Se pide a Billetatge (nos facilitará los contactos correspondientes) que extraiga y/o devuelva el título objete de la reclamación-devolución. En el Excel Unificado devoluciones, compartido por la OAE y Billetatge, se anota el número del ticket de Zendesk, la fecha de la QRS, la fecha de introducción en la Excel, la orden de venta si es una compra de App o Web (si es una compra a DA o Quiosco, se anota 'sin orden venta, compra a DA [o] Quiosco'), si es Te mobilitat (la Excel aplica a todas las compras en línea, sean o no Te mobilitat), la cantidad a devolver (si solo es extracción, se anota 'Extracción'), el motivo ('Devolución a petición cliente'), el número de apoyo, el código identificador del título y la fecha de la carga. Billetatge hace estas devoluciones y extracciones cada dos días. Canal digital también puede hacer este tipo de extracciones y devoluciones, a pesar de que antes de que las devuelva Billetatge, las tiene que revisar el equipo de Backoffice.\n\nSi la compra de título se ha realizado a través de DA, el agente tiene que derivar al cliente a realizar una QRS.\nSi la compra de título se ha realizado en el canal presencial, se deriva al cliente en el canal presencial."
     },
     {
       "question": "Qué herramientas tienen que utilizar los agentes para devolver un título en el canal QRS?",
@@ -1506,7 +1506,7 @@
     },
     {
       "question": "Qué tiene que hacer el agente de QRS / Backoffice para gestionar la reclamación?",
-      "answer": "1. Se piden los datos al cliente para identificarlo al TPW.\n2. Verificar a TPW Agente que el cliente ha efectuado la operación y se le ha cobrado.\n3. Si todo cuadra con la información que nos ha facilitado el cliente y el título no está validado:\n - Si la compra es a DA o canal presencial, se piden datos bancarios para realizar la transferencia: el cliente tiene que rellenar el formulario de transferencia bancaria que se lo envía (no es necesario la firma y sello de la entidad bancaria). Backoffice envía el informe técnico de la QRS y la hoja de transferencia a Tesorería (nos facilitará los contactos correspondientes) una vez por semana (normalmente, los lunes).\n - Si se tiene que extraer título y/o la compra es por canal Web o App, se pide a Billetatge (nos facilitará los contactos correspondientes) que extraiga y/o devuelva el título objete de la reclamación-devolución. En el Excel Unificado devoluciones, compartido por la OAE y Billetatge, se anota el número del ticket de Zendesk, la fecha de la QRS, la fecha de introducción en la Excel, la orden de venta si es una compra de App o Web (si es una compra a DA o Quiosco, se anota “sin orden venta, compra a DA [o] Quiosco”), si es T-mobilitat (la Excel aplica a todas las compras en línea, sean o no T-mobilitat), la cantidad a devolver (si solo es extracción, se anota “Extracción”), el motivo (“Devolución a petición cliente”), el número de apoyo, el código identificador del título y la fecha de la carga. Billetatge hace estas devoluciones y extracciones cada dos días. Canal digital también puede hacer este tipo de extracciones y devoluciones, a pesar de que antes de que las devuelva Billetatge, las tiene que revisar el equipo de Backoffice.\n En el caso de compra de título por apoyo cartón, se tiene que derivar el cliente a punto para hacer la extracción del título. Esta operativa se tendrá que anotar en la Excel de incidencias de Puntos. Cuando se haya hecho la extracción, el agente de Punto enviará un mail a la unidad de gestión de QRS para proceder con la devolución del importe."
+      "answer": "1. Se piden los datos al cliente para identificarlo al TPW.\n2. Verificar a TPW Agente que el cliente ha efectuado la operación y se le ha cobrado.\n3. Si todo cuadra con la información que nos ha facilitado el cliente y el título no está validado:\n - Si la compra es a DA o canal presencial, se piden datos bancarios para realizar la transferencia: el cliente tiene que rellenar el formulario de transferencia bancaria que se lo envía (no es necesario la firma y sello de la entidad bancaria). Backoffice envía el informe técnico de la QRS y la hoja de transferencia a Tesorería (nos facilitará los contactos correspondientes) una vez por semana (normalmente, los lunes).\n - Si se tiene que extraer título y/o la compra es por canal Web o App, se pide a Billetatge (nos facilitará los contactos correspondientes) que extraiga y/o devuelva el título objete de la reclamación-devolución. En el Excel Unificado devoluciones, compartido por la OAE y Billetatge, se anota el número del ticket de Zendesk, la fecha de la QRS, la fecha de introducción en la Excel, la orden de venta si es una compra de App o Web (si es una compra a DA o Quiosco, se anota “sin orden venta, compra a DA [o] Quiosco”), si es Te mobilitat (la Excel aplica a todas las compras en línea, sean o no Te mobilitat), la cantidad a devolver (si solo es extracción, se anota “Extracción”), el motivo (“Devolución a petición cliente”), el número de apoyo, el código identificador del título y la fecha de la carga. Billetatge hace estas devoluciones y extracciones cada dos días. Canal digital también puede hacer este tipo de extracciones y devoluciones, a pesar de que antes de que las devuelva Billetatge, las tiene que revisar el equipo de Backoffice.\n En el caso de compra de título por apoyo cartón, se tiene que derivar el cliente a punto para hacer la extracción del título. Esta operativa se tendrá que anotar en la Excel de incidencias de Puntos. Cuando se haya hecho la extracción, el agente de Punto enviará un mail a la unidad de gestión de QRS para proceder con la devolución del importe."
     },
     {
       "question": "Qué pasos tiene que seguir el cliente para hacer la devolución?",
@@ -1554,7 +1554,7 @@
     },
     {
       "question": "Qué se necesita para poder tramitar la restitución?",
-      "answer": "- Número de apoyo.\n- Breve explicación (como, lugar, día y hora).\n- Número del documento de identidad del cliente registrado a T-mobilitat."
+      "answer": "- Número de apoyo.\n- Breve explicación (como, lugar, día y hora).\n- Número del documento de identidad del cliente registrado a Te mobilitat."
     },
     {
       "question": "Qué tiene que hacer el agente para hacer la restitución?",
@@ -1586,7 +1586,7 @@
     },
     {
       "question": "Qué tiene que aportar el cliente para acceder a la información de un apoyo?",
-      "answer": "Por canales presenciales, el cliente tiene que aportar el apoyo o documento identificador (DNI / NIE / pasaporte nacional / libro de familia). Por canales digitales y telefónicos, el cliente tiene que aportar el documento identificador, su fecha de nacimiento y el número identificador de su apoyo. Por DA, solo el apoyo. Por web o app sin NFC y app con NFC, el cliente tiene que iniciar la sesión JoTMBé vinculada a T-mobilitat."
+      "answer": "Por canales presenciales, el cliente tiene que aportar el apoyo o documento identificador (DNI / NIE / pasaporte nacional / libro de familia). Por canales digitales y telefónicos, el cliente tiene que aportar el documento identificador, su fecha de nacimiento y el número identificador de su apoyo. Por DA, solo el apoyo. Por web o app sin NFC y app con NFC, el cliente tiene que iniciar la sesión JoTMBé vinculada a Te mobilitat."
     },
     {
       "question": "Qué se tiene que hacer para acceder a la información del apoyo?",
@@ -1594,13 +1594,13 @@
         "Presencial": "El agente realiza la consulta sobre el apoyo directamente con el PEC y podrá consultar los datos grabados al apoyo. Para consultar la garantía y los movimientos tiene que acceder al TPW-Agente, acceder a la ficha de un cliente y desde ella seleccionar el apoyo. Para acabar, tendrá que informar al cliente como se puede hacer el trámite desde la app o web.",
         "Digital y teléfono": "Tiene que acceder al TPW-Agente, acceder a la ficha de un cliente y desde ella seleccionar el apoyo. Para acabar, tendrá que informar al cliente como se puede hacer el trámite desde la app o web.",
         "DA": "Apoyo",
-        "Web o App sin NFC": "Iniciar la sesión JoTMBé vinculada a T-mobilitat",
-        "App con NFC": "Iniciar la sesión JoTMBé vinculada a T-mobilitat. El usuario tiene que aproximar el apoyo PVC al móvil para acceder a su información. La información mostrada será la relativa a los datos grabados al apoyo."
+        "Web o App sin NFC": "Iniciar la sesión JoTMBé vinculada a Te mobilitat",
+        "App con NFC": "Iniciar la sesión JoTMBé vinculada a Te mobilitat. El usuario tiene que aproximar el apoyo PVC al móvil para acceder a su información. La información mostrada será la relativa a los datos grabados al apoyo."
       }
     },
     {
       "question": "Cómo se valida un apoyo?",
-      "answer": "El proceso requiere de acercar todo el que se pueda y mantener fijo el apoyo T-mobilitat sobro al lector de las validadores."
+      "answer": "El proceso requiere de acercar todo el que se pueda y mantener fijo el apoyo Te mobilitat sobro al lector de las validadores."
     },
     {
       "question": "Cómo se sabe si la validación de un apoyo es correcta?",
@@ -1668,7 +1668,7 @@
     },
     {
       "question": "Qué es el bloqueo y desbloqueo de un apoyo a petición del usuario?",
-      "answer": "Es la acción que permite al usuario de T-mobilitat bloquear o desbloquear voluntariamente su apoyo, o un título, de forma que quede inoperativo, o desbloquearlo para que quede operativo de nuevo."
+      "answer": "Es la acción que permite al usuario de Te mobilitat bloquear o desbloquear voluntariamente su apoyo, o un título, de forma que quede inoperativo, o desbloquearlo para que quede operativo de nuevo."
     },
     {
       "question": "De que sirve el bloqueo de un apoyo?",
@@ -1740,11 +1740,11 @@
     },
     {
       "question": "Qué tiene que hacer el cliente para bloquear el apoyo o título a través de la app?",
-      "answer": "1. Un cliente accede a la App a la sección T-mobilitat, clicar a \"solicitarla\", a \"acceder\", a \"ver detalle del apoyo\" y a \"bloquea\".\n2. Desde esta sección podrá acceder a la funcionalidad de bloqueo del apoyo o de un título contenido en este.\nEs tirará mediante una acción diferida. No se bloquea hasta que no interactúa con una validadora, DA o móvil con NFC."
+      "answer": "1. Un cliente accede a la App a la sección Te mobilitat, clicar a \"solicitarla\", a \"acceder\", a \"ver detalle del apoyo\" y a \"bloquea\".\n2. Desde esta sección podrá acceder a la funcionalidad de bloqueo del apoyo o de un título contenido en este.\nEs tirará mediante una acción diferida. No se bloquea hasta que no interactúa con una validadora, DA o móvil con NFC."
     },
     {
       "question": "Qué tiene que hacer el cliente para desbloquear el apoyo o título a través de la app?",
-      "answer": "1. Un cliente accede a la App a la sección T-mobilitat, clicar a \"solicitarla\", a \"acceder\", a \"ver detalle del apoyo\" y a \"desbloquea\".\n2. Desde esta sección podrá acceder a la funcionalidad de desbloqueo del apoyo o de un título contenido en este.\nEs tirará mediante una acción diferida. No se desbloquea hasta que no interactúa con una validadora, DA o móvil con NFC."
+      "answer": "1. Un cliente accede a la App a la sección Te mobilitat, clicar a \"solicitarla\", a \"acceder\", a \"ver detalle del apoyo\" y a \"desbloquea\".\n2. Desde esta sección podrá acceder a la funcionalidad de desbloqueo del apoyo o de un título contenido en este.\nEs tirará mediante una acción diferida. No se desbloquea hasta que no interactúa con una validadora, DA o móvil con NFC."
     },
     {
       "question": "Qué es el bloqueo por intervención de un título?",
@@ -1796,7 +1796,7 @@
     },
     {
       "question": "Donde se pueden presentar alegaciones por el desbloqueo de un título?",
-      "answer": "Aquellos usuarios que estén interesados al volver a hacer uso de su título bloqueado, tendrán que presentar una alegación a través de los canales autorizados:\n- Página web de la ATM (www.atm.cat) > Atención e información > Trámites\n- Canal presencial: puede dirigirse a cualquier de las administraciones públicas disponibles al siguiente enlace.\nTambé puede ponerse en contacto con los canales de atención del CAI https://t-mobilitat.atm.cat/web/t-mobilitat/atencio-i-ajuda"
+      "answer": "Aquellos usuarios que estén interesados al volver a hacer uso de su título bloqueado, tendrán que presentar una alegación a través de los canales autorizados:\n- Página web de la ATM (www.atm.cat) > Atención e información > Trámites\n- Canal presencial: puede dirigirse a cualquier de las administraciones públicas disponibles al siguiente enlace.\nTambé puede ponerse en contacto con los canales de atención del CAI https://Te mobilitat.atm.cat/web/Te mobilitat/atencio-i-ajuda"
     },
     {
       "question": "Qué tiene que figurar en el escrito de alegaciones por el desbloqueo?",
@@ -1931,16 +1931,16 @@
       "answer": "5 años."
     },
     {
-      "question": "Las facturas completas realizadas a través de FIVA se traspasarán al sistema T-mobilitat?",
+      "question": "Las facturas completas realizadas a través de FIVA se traspasarán al sistema Te mobilitat?",
       "answer": "No. No se traspasarán automáticamente. No obstante, si el agente ha marcado las facturas simplificadas que ha traspasado a factura completa, el agente podrá hacer la consulta de estas a FIVA."
     },
     {
       "question": "Trámite Web y App (todavía no disponible) - Descripción operativa cliente. TMB App",
-      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a T-mobilitat, a la suya TMB App.\n2. Tiene que acceder a Historial de compras, en el apartado Compras.\n3. Hay dos formas de solicitar una factura completa:\n 1. Polsant sobre los tres puntos, se abre un desplegable. El usuario tiene que polsar sobre 'Solicitar factura completa.'\n 2. Polsant sobre una de las operaciones, se accede al por menor del título, y abajo aparece el mismo desplegable.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
+      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a Te mobilitat, a la suya TMB App.\n2. Tiene que acceder a Historial de compras, en el apartado Compras.\n3. Hay dos formas de solicitar una factura completa:\n 1. Polsant sobre los tres puntos, se abre un desplegable. El usuario tiene que polsar sobre 'Solicitar factura completa.'\n 2. Polsant sobre una de las operaciones, se accede al por menor del título, y abajo aparece el mismo desplegable.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
     },
     {
       "question": "Descripción operativa cliente. TMB Web",
-      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a T-mobilitat, a TMB Web.\n2. Tiene que polsar sobre el botón 'Accede' del apartado T-mobilitat, y después a 'Historial de compras.'\n3. Al listado de compras realizadas por el usuario, este tiene que polsar sobre la opción 'Solicitar Factura completa', opción que aparece a la derecha.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
+      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a Te mobilitat, a TMB Web.\n2. Tiene que polsar sobre el botón 'Accede' del apartado Te mobilitat, y después a 'Historial de compras.'\n3. Al listado de compras realizadas por el usuario, este tiene que polsar sobre la opción 'Solicitar Factura completa', opción que aparece a la derecha.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
     },
     {
       "question": "Se puede modificar una factura completa a través de TMB App o Web?",
@@ -1956,7 +1956,7 @@
     },
     {
       "question": "Qué tiene que hacer el agente para generar una factura completa?",
-      "answer": "1. Buscar el cliente a TPW a partir del documento de identidad o del número del apoyo. Una vez ha accedido al perfil, tiene que clicar sobre la pestaña 'Facturas completas'.\n2. El agente selecciona 'Generar factura' (de alto a la derecha) y al buscador tiene que establecer unos criterios de búsqueda: número de la factura simplificada, número de apoyo, franja temporal de las facturas simplificadas (límite de 2 meses para hacer la búsqueda). Indicado el criterio de búsqueda, habrá que seleccionar 'Buscar'.\n3. Del listado de facturas simplificadas que aparecen en función de los criterios de búsqueda, el agente tiene que seleccionar aquellas que desee para hacer una factura completa. Una vez seleccionadas (tiene que clicar sobre el recuadro blanco de la derecha), polsarà sobre 'Añadir facturas', bajo a la izquierda. Se tiene que tener en cuenta que:\n - Si una factura simplificada seleccionada tiene una rectificativa asociada, estas también se añadirán.\n - Solo se pueden incorporar facturas simplificadas que todavía no formen parte de otra completa.\n - Si una factura simplificada se ha eliminado de una completa, sí que se podrán incorporar a una nueva factura completa.\n - Solo se pueden hacer facturas completas de productos integrados de ATM, no de compras de no-integradas.\n4. Añadidas las facturas, aparece un recuadro a la parte inferior. Con este ítem, el agente puede eliminar facturas simplificadas seleccionadas por error.\n - Si se quieren incorporar facturas que no estaban incluidas en la primera búsqueda, el agente puede cambiar los parámetros de la búsqueda y añadir de nuevas.\n5. Una vez con todas las facturas simplificadas que se quieren agrupar, el agente tiene que completar los datos del receptor, y que aparecerán a la factura. Finalmente, polsarà sobre 'Crear factura completa', y confirmará la operación.\n - El correo electrónico es un campo editable de los datos del receptor, pero no se imprime a la factura.\n6. Con la factura completa creada (todas empiezan por el número 3), el agente puede enviarla (al correo electrónico de la ficha de cliente T-mobilitat) o descargarla (para imprimirla).\n7. Al generar una factura completa, ya no se podrá trabajar con las facturas simplificadas incorporadas. Se puede consultar a la sección 'Facturas', pero las opciones de descarga o envío estarán deshabilitadas."
+      "answer": "1. Buscar el cliente a TPW a partir del documento de identidad o del número del apoyo. Una vez ha accedido al perfil, tiene que clicar sobre la pestaña 'Facturas completas'.\n2. El agente selecciona 'Generar factura' (de alto a la derecha) y al buscador tiene que establecer unos criterios de búsqueda: número de la factura simplificada, número de apoyo, franja temporal de las facturas simplificadas (límite de 2 meses para hacer la búsqueda). Indicado el criterio de búsqueda, habrá que seleccionar 'Buscar'.\n3. Del listado de facturas simplificadas que aparecen en función de los criterios de búsqueda, el agente tiene que seleccionar aquellas que desee para hacer una factura completa. Una vez seleccionadas (tiene que clicar sobre el recuadro blanco de la derecha), polsarà sobre 'Añadir facturas', bajo a la izquierda. Se tiene que tener en cuenta que:\n - Si una factura simplificada seleccionada tiene una rectificativa asociada, estas también se añadirán.\n - Solo se pueden incorporar facturas simplificadas que todavía no formen parte de otra completa.\n - Si una factura simplificada se ha eliminado de una completa, sí que se podrán incorporar a una nueva factura completa.\n - Solo se pueden hacer facturas completas de productos integrados de ATM, no de compras de no-integradas.\n4. Añadidas las facturas, aparece un recuadro a la parte inferior. Con este ítem, el agente puede eliminar facturas simplificadas seleccionadas por error.\n - Si se quieren incorporar facturas que no estaban incluidas en la primera búsqueda, el agente puede cambiar los parámetros de la búsqueda y añadir de nuevas.\n5. Una vez con todas las facturas simplificadas que se quieren agrupar, el agente tiene que completar los datos del receptor, y que aparecerán a la factura. Finalmente, polsarà sobre 'Crear factura completa', y confirmará la operación.\n - El correo electrónico es un campo editable de los datos del receptor, pero no se imprime a la factura.\n6. Con la factura completa creada (todas empiezan por el número 3), el agente puede enviarla (al correo electrónico de la ficha de cliente Te mobilitat) o descargarla (para imprimirla).\n7. Al generar una factura completa, ya no se podrá trabajar con las facturas simplificadas incorporadas. Se puede consultar a la sección 'Facturas', pero las opciones de descarga o envío estarán deshabilitadas."
     },
     {
       "question": "Cómo se puede consultar una factura completa y generar un duplicado o una copia?",
@@ -1967,16 +1967,16 @@
       "answer": "1. El agente busca, con los mismos parámetros anteriormente descritos, la factura completa que quiere modificar, y la selecciona.\n2. Cuando se abre la factura completa, arriba a la derecha marcará la pestaña 'Rectificación factura completa'.\n3. El proceso es igual al explicado para generar una factura completa. En este caso, se pueden añadir o eliminar facturas, o modificar los datos del receptor.\n - Cuando una factura simplificada está asociada a una factura completa, al realizar una devolución se produce una factura simplificada rectificativa, pero también, automáticamente, una factura completa rectificativa.\n4. Cuando se hayan hecho los cambios oportunos, el agente selecciona 'modificar factura completa', y la que se genere sustituirá el anterior. Las facturas completas rectificativas empiezan por el número 4."
     },
     {
-      "question": "Las facturas completas realizadas a través de FIVA se traspasarán al sistema T-mobilitat?",
+      "question": "Las facturas completas realizadas a través de FIVA se traspasarán al sistema Te mobilitat?",
       "answer": "No. No se traspasarán automáticamente. No obstante, si el agente ha marcado las facturas simplificadas que ha traspasado a factura completa, el agente podrá hacer la consulta de estas a FIVA."
     },
     {
       "question": "Trámite Web y App (todavía no disponible) - Descripción operativa cliente. TMB App",
-      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a T-mobilitat, a la suya TMB App.\n2. Tiene que acceder a Historial de compras, en el apartado Compras.\n3. Hay dos formas de solicitar una factura completa:\n 1. Polsant sobre los tres puntos, se abre un desplegable. El usuario tiene que polsar sobre 'Solicitar factura completa.'\n 2. Polsant sobre una de las operaciones, se accede al por menor del título, y abajo aparece el mismo desplegable.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
+      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a Te mobilitat, a la suya TMB App.\n2. Tiene que acceder a Historial de compras, en el apartado Compras.\n3. Hay dos formas de solicitar una factura completa:\n 1. Polsant sobre los tres puntos, se abre un desplegable. El usuario tiene que polsar sobre 'Solicitar factura completa.'\n 2. Polsant sobre una de las operaciones, se accede al por menor del título, y abajo aparece el mismo desplegable.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
     },
     {
       "question": "Trámite Web y App (todavía no disponible) - Descripción operativa cliente. TMB Web",
-      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a T-mobilitat, a TMB Web.\n2. Tiene que polsar sobre el botón 'Accede' del apartado T-mobilitat, y después a 'Historial de compras'.\n3. Al listado de compras realizadas por el usuario, este tiene que polsar sobre la opción 'Solicitar Factura completa', opción que aparece a la derecha.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
+      "answer": "1. El usuario tiene que iniciar la sesión JoTMBé vinculada a Te mobilitat, a TMB Web.\n2. Tiene que polsar sobre el botón 'Accede' del apartado Te mobilitat, y después a 'Historial de compras'.\n3. Al listado de compras realizadas por el usuario, este tiene que polsar sobre la opción 'Solicitar Factura completa', opción que aparece a la derecha.\n4. Una vez solicitada la factura completa, el usuario tiene que rellenar el formulario con los datos de facturación. Abajo de todo, aparecerá en rojo el botón 'Descargar factura completa' cuando estén todos los campos rellenados.\n5. El usuario recibirá un correo electrónico al vinculado a JoTMBé, donde se lo indica que ya puede descargar su factura."
     },
     {
       "question": "Se puede modificar una factura completa a través de TMB App o Web?",
@@ -1992,7 +1992,7 @@
     },
     {
       "question": "Qué tiene que hacer el agente para generar una factura completa?",
-      "answer": "1. Buscar el cliente a TPW a partir del documento de identidad o del número del apoyo. Una vez ha accedido al perfil, tiene que clicar sobre la pestaña 'Facturas completas'.\n2. El agente selecciona 'Generar factura' (de alto a la derecha) y al buscador tiene que establecer unos criterios de búsqueda: número de la factura simplificada, número de apoyo, franja temporal de las facturas simplificadas (límite de 2 meses para hacer la búsqueda). Indicado el criterio de búsqueda, habrá que seleccionar 'Buscar'.\n3. Del listado de facturas simplificadas que aparecen en función de los criterios de búsqueda, el agente tiene que seleccionar aquellas que desee para hacer una factura completa. Una vez seleccionadas (tiene que clicar sobre el recuadro blanco de la derecha), polsarà sobre 'Añadir facturas', bajo a la izquierda. Se tiene que tener en cuenta que:\n - Si una factura simplificada seleccionada tiene una rectificativa asociada, estas también se añadirán.\n - Solo se pueden incorporar facturas simplificadas que todavía no formen parte de otra completa.\n - Si una factura simplificada se ha eliminado de una completa, sí que se podrán incorporar a una nueva factura completa.\n - Solo se pueden hacer facturas completas de productos integrados de ATM, no de compras de no-integradas.\n4. Añadidas las facturas, aparece un recuadro a la parte inferior. Con este ítem, el agente puede eliminar facturas simplificadas seleccionadas por error.\n - Si se quieren incorporar facturas que no estaban incluidas en la primera búsqueda, el agente puede cambiar los parámetros de la búsqueda y añadir de nuevas.\n5. Una vez con todas las facturas simplificadas que se quieren agrupar, el agente tiene que completar los datos del receptor, y que aparecerán a la factura. Finalmente, polsarà sobre 'Crear factura completa', y confirmará la operación.\n - El correo electrónico es un campo editable de los datos del receptor, pero no se imprime a la factura.\n6. Con la factura completa creada (todas empiezan por el número 3), el agente puede enviarla (al correo electrónico de la ficha de cliente T-mobilitat) o descargarla (para imprimirla).\n7. Al generar una factura completa, ya no se podrá trabajar con las facturas simplificadas incorporadas. Se puede consultar a la sección 'Facturas', pero las opciones de descarga o envío estarán deshabilitadas."
+      "answer": "1. Buscar el cliente a TPW a partir del documento de identidad o del número del apoyo. Una vez ha accedido al perfil, tiene que clicar sobre la pestaña 'Facturas completas'.\n2. El agente selecciona 'Generar factura' (de alto a la derecha) y al buscador tiene que establecer unos criterios de búsqueda: número de la factura simplificada, número de apoyo, franja temporal de las facturas simplificadas (límite de 2 meses para hacer la búsqueda). Indicado el criterio de búsqueda, habrá que seleccionar 'Buscar'.\n3. Del listado de facturas simplificadas que aparecen en función de los criterios de búsqueda, el agente tiene que seleccionar aquellas que desee para hacer una factura completa. Una vez seleccionadas (tiene que clicar sobre el recuadro blanco de la derecha), polsarà sobre 'Añadir facturas', bajo a la izquierda. Se tiene que tener en cuenta que:\n - Si una factura simplificada seleccionada tiene una rectificativa asociada, estas también se añadirán.\n - Solo se pueden incorporar facturas simplificadas que todavía no formen parte de otra completa.\n - Si una factura simplificada se ha eliminado de una completa, sí que se podrán incorporar a una nueva factura completa.\n - Solo se pueden hacer facturas completas de productos integrados de ATM, no de compras de no-integradas.\n4. Añadidas las facturas, aparece un recuadro a la parte inferior. Con este ítem, el agente puede eliminar facturas simplificadas seleccionadas por error.\n - Si se quieren incorporar facturas que no estaban incluidas en la primera búsqueda, el agente puede cambiar los parámetros de la búsqueda y añadir de nuevas.\n5. Una vez con todas las facturas simplificadas que se quieren agrupar, el agente tiene que completar los datos del receptor, y que aparecerán a la factura. Finalmente, polsarà sobre 'Crear factura completa', y confirmará la operación.\n - El correo electrónico es un campo editable de los datos del receptor, pero no se imprime a la factura.\n6. Con la factura completa creada (todas empiezan por el número 3), el agente puede enviarla (al correo electrónico de la ficha de cliente Te mobilitat) o descargarla (para imprimirla).\n7. Al generar una factura completa, ya no se podrá trabajar con las facturas simplificadas incorporadas. Se puede consultar a la sección 'Facturas', pero las opciones de descarga o envío estarán deshabilitadas."
     },
     {
       "question": "Cómo se puede consultar una factura completa y generar un duplicado o una copia?",
@@ -2032,11 +2032,11 @@
     },
     {
       "question": "Qué tiene que hacer el agente para modificar los datos del cliente?",
-      "answer": "El agente a través del TPW-Agente puede modificar los datos de un cliente accediendo a su ficha de cliente mediante la opción de gestión de clientes. Si se quieren cambiar datos clave se tiene que pedir la documentación al cliente. Los datos básicos pueden cambiarse sin ninguna aportación documental.\n1. Tiene que iniciar sesión al JoTMBé.\n2. Introduce los datos obligatorios y escanea el DNI, NIE o pasaporte.\n3. El ATM verifica los datos y ejecuta el alta.\nUn vez aprobada el alta, la cuenta de T-mobilitat y el del JoTMBé se vinculan automáticamente. Al acabar, informará y explicará al cliente que también puede hacer este trámite a través del web o app."
+      "answer": "El agente a través del TPW-Agente puede modificar los datos de un cliente accediendo a su ficha de cliente mediante la opción de gestión de clientes. Si se quieren cambiar datos clave se tiene que pedir la documentación al cliente. Los datos básicos pueden cambiarse sin ninguna aportación documental.\n1. Tiene que iniciar sesión al JoTMBé.\n2. Introduce los datos obligatorios y escanea el DNI, NIE o pasaporte.\n3. El ATM verifica los datos y ejecuta el alta.\nUn vez aprobada el alta, la cuenta de Te mobilitat y el del JoTMBé se vinculan automáticamente. Al acabar, informará y explicará al cliente que también puede hacer este trámite a través del web o app."
     },
     {
       "question": "Qué tiene que hacer el agente en el supuesto de que haya un error en la dirección de correo electrónico?",
-      "answer": "1. Hacer el cambio a TPW Agente del usuario existente con el mail correcto.\n2. Desvincular la cuenta de T-mobilitat de la cuenta Yo TMBé (a través de la app si lo hace el usuario o a través de backoffice.clientes.tmb).\n3. Crear el nuevo usuario en la web con los datos correctos y si no existe crear también usuario Yo TMBé con el mismo mail.\n4. Entrar a la TMB app con los nuevos datos y vincular cuenta de Yo TMBé con Configuración >> Servicios Vinculados >> Cuenta T-mobilitat >> Vincular cuenta."
+      "answer": "1. Hacer el cambio a TPW Agente del usuario existente con el mail correcto.\n2. Desvincular la cuenta de Te mobilitat de la cuenta Yo TMBé (a través de la app si lo hace el usuario o a través de backoffice.clientes.tmb).\n3. Crear el nuevo usuario en la web con los datos correctos y si no existe crear también usuario Yo TMBé con el mismo mail.\n4. Entrar a la TMB app con los nuevos datos y vincular cuenta de Yo TMBé con Configuración >> Servicios Vinculados >> Cuenta Te mobilitat >> Vincular cuenta."
     },
     {
       "question": "Qué tiene que hacer el agente para atender la consulta digital o telefónica?",
@@ -2048,11 +2048,11 @@
     },
     {
       "question": "Qué pasos tiene que seguir el cliente para hacer el alta?",
-      "answer": "1. Tiene que iniciar sesión al JoTMBé.\n2. Accede a Configuración >>Servicios vinculados >>Cuenta T-mobilitat >> Datos Personales.\n3. El cliente introduce los datos en el formulario de modificación y adjunta la digitalización del documento de identificación. Se genera la solicitud de modificación de datos correspondiente.\n4. Posteriormente, un agente de backoffice del CAI accederá al TPW-Agente para obtener las solicitudes de modificación de datos de cliente pendientes de tratar. El agente puede acceder a los datos introducidas por el cliente y verificar si son correctos en base al documento que se ha adjuntado. El agente puede hacer pequeñas modificaciones si son necesarias.\n5. Si el agente del CAI verifica correctamente los datos, procede a ejecutar la modificación de datos de cliente. Si el agente no puede verificar los datos, lo indicará en la solicitud y se enviará un correo electrónico al cliente indicando el problema."
+      "answer": "1. Tiene que iniciar sesión al JoTMBé.\n2. Accede a Configuración >>Servicios vinculados >>Cuenta Te mobilitat >> Datos Personales.\n3. El cliente introduce los datos en el formulario de modificación y adjunta la digitalización del documento de identificación. Se genera la solicitud de modificación de datos correspondiente.\n4. Posteriormente, un agente de backoffice del CAI accederá al TPW-Agente para obtener las solicitudes de modificación de datos de cliente pendientes de tratar. El agente puede acceder a los datos introducidas por el cliente y verificar si son correctos en base al documento que se ha adjuntado. El agente puede hacer pequeñas modificaciones si son necesarias.\n5. Si el agente del CAI verifica correctamente los datos, procede a ejecutar la modificación de datos de cliente. Si el agente no puede verificar los datos, lo indicará en la solicitud y se enviará un correo electrónico al cliente indicando el problema."
     },
     {
       "question": "recepción de notificaciones - Qué son las notificaciones?",
-      "answer": "Son acciones de comunicación que T-mobilitat envía a nivel informativo a sus clientes."
+      "answer": "Son acciones de comunicación que Te mobilitat envía a nivel informativo a sus clientes."
     },
     {
       "question": "recepción de notificaciones - Todos los clientes reciben notificaciones?",
@@ -2108,7 +2108,7 @@
     },
     {
       "question": "incidencia en la recepción del apoyo - Como se puede consultar el estado en que se encuentra la tarjeta?",
-      "answer": "1. El cliente accede en el web de TMB y se logueja a su cuenta JoTMBé.\n2. En el apartado 'Cuenta T-mobilitat', sección 'Solicitudes T-mobilitat', el cliente tiene que seleccionar para quién ha pedido la tarjeta (él mismo o por algunos de sus clientes vinculados), rango temporal, marcar tipo de solicitud 'Solicitud de apoyo T-mobilitat', y polsar 'Filtrar'.\n3. El sistema muestra por pantalla la información en lo referente a las solicitudes de apoyo asociadas a la ficha del cliente en cuestión."
+      "answer": "1. El cliente accede en el web de TMB y se logueja a su cuenta JoTMBé.\n2. En el apartado 'Cuenta Te mobilitat', sección 'Solicitudes Te mobilitat', el cliente tiene que seleccionar para quién ha pedido la tarjeta (él mismo o por algunos de sus clientes vinculados), rango temporal, marcar tipo de solicitud 'Solicitud de apoyo Te mobilitat', y polsar 'Filtrar'.\n3. El sistema muestra por pantalla la información en lo referente a las solicitudes de apoyo asociadas a la ficha del cliente en cuestión."
     },
     {
       "question": "Puede el usuario hacer el seguimiento del envío?",
@@ -2160,7 +2160,7 @@
     },
     {
       "question": "Trámite o consulta presencial - Qué tiene que hacer el agente?",
-      "answer": "● Si el usuario viene derivado otros canales, el agente, antes que nada, tiene que consultar el Excel Control incidencias T-mobilitat, para ver si aparece definida y detallada la operativa.\n ● Si no viene derivado otros canales, tiene que acceder a la ficha del cliente a TPW para hacer las comprobaciones descritas a los apartados anteriores. Si corresponde (también en el supuesto de que venga derivado y aparezca en el Excel Control incidencias T-mobilitat), se sigue la operativa, que se realizará como se describe a continuación:\n o El agente accede al PEC > Emisión, e introduce el número del documento de identidad del cliente.\n o El agente coge un apoyo vacío y no personalizado, y lo guarda durante todo el proceso sobre el cenicero-lector.\n o Tiene que seleccionar el título (si corresponde), y posteriormente, el tipo de apoyo (PVC). En 'Motivo de emisión', tiene que seleccionar 'Emisión por incidencia'.\n o Seleccionado el título y el apoyo, a la pantalla aparece el mensaje que el agente ya puede personalizar el apoyo, introduciendo el apoyo a la sublimadora. El agente tiene que revisar que el nombre y apellido esté vende imprimido. En caso contrario, tendría que volver a introducir el apoyo a la sublimadora.\n o En el supuesto de que se haya imprimido correctamente, se tiene que colocar el apoyo, nuevamente, en el lector, para finalizar la emisión. Esta tarjeta se libra activada.\n ● La emisión por incidencia a través del PEC mujer de baja, automáticamente, el apoyo original. Sin embargo, el agente tendrá que acceder a la ficha del cliente a TPW (> Apoyos) para confirmar que el nuevo apoyo está vinculado, y el original, dado de baja. En caso de que no esté anulado, tiene que darlo de baja."
+      "answer": "● Si el usuario viene derivado otros canales, el agente, antes que nada, tiene que consultar el Excel Control incidencias Te mobilitat, para ver si aparece definida y detallada la operativa.\n ● Si no viene derivado otros canales, tiene que acceder a la ficha del cliente a TPW para hacer las comprobaciones descritas a los apartados anteriores. Si corresponde (también en el supuesto de que venga derivado y aparezca en el Excel Control incidencias Te mobilitat), se sigue la operativa, que se realizará como se describe a continuación:\n o El agente accede al PEC > Emisión, e introduce el número del documento de identidad del cliente.\n o El agente coge un apoyo vacío y no personalizado, y lo guarda durante todo el proceso sobre el cenicero-lector.\n o Tiene que seleccionar el título (si corresponde), y posteriormente, el tipo de apoyo (PVC). En 'Motivo de emisión', tiene que seleccionar 'Emisión por incidencia'.\n o Seleccionado el título y el apoyo, a la pantalla aparece el mensaje que el agente ya puede personalizar el apoyo, introduciendo el apoyo a la sublimadora. El agente tiene que revisar que el nombre y apellido esté vende imprimido. En caso contrario, tendría que volver a introducir el apoyo a la sublimadora.\n o En el supuesto de que se haya imprimido correctamente, se tiene que colocar el apoyo, nuevamente, en el lector, para finalizar la emisión. Esta tarjeta se libra activada.\n ● La emisión por incidencia a través del PEC mujer de baja, automáticamente, el apoyo original. Sin embargo, el agente tendrá que acceder a la ficha del cliente a TPW (> Apoyos) para confirmar que el nuevo apoyo está vinculado, y el original, dado de baja. En caso de que no esté anulado, tiene que darlo de baja."
     },
     {
       "question": "Qué tiene que hacer el agente si el cliente no quiere esperar el tiempo establecido?",
@@ -2168,7 +2168,7 @@
     },
     {
       "question": "Trámite Backoffice / QRS - Qué tiene que hacer el agente?",
-      "answer": "● Identificar el usuario a través del nombre y apellido, número del documento de identificación y la fecha de nacimiento. Comprobar el estado de la solicitud a la sección 'Solicitudes' del TPW Agente.\n ● Si no existe la 'solicitud' de apoyo y no hay pago (a ECR > Cliente T-mobilitat, no hay registro de pago), se informa el cliente que no ha realizado ningún pedido.\n ● Si ha hecho el pago, pero no se ha generado la solicitud de apoyo (a ECR > Cliente T-mobilitat > Orden de venta, no habrá ningún enlace a la solicitud), se tiene que realizar una emisión por incidencia.\n ● Si la solicitud aparece en sido 'ejecutando', hasta el quinto día, se tiene que esperar que la solicitud cambie de estado. Si está más de cinco días, se tiene que reportar a Míriam Dueñas, vía Backoffice (suportoae@tmb.cat) que reinyecte la solicitud (o la cancele, según corresponda).\n ● La solicitud aparece en estado 'verificado', pero el cliente manifiesta que no lo ha recibido. Con el número de solicitud de tarjeta, buscamos en la Excel Informe de Pedidos de Personalización en qué estado de fabricación se encuentra:\n ● En el supuesto de que no hayan pasado 10 días hábiles de la solicitud, se informa el cliente que su tarjeta todavía se encuentra en tráfico.\n ● En el supuesto de que hayan pasado más de 10 días hábiles de la solicitud y el envío sea ordinario:\n 1. Si el cliente manifiesta que no ha recibido el apoyo, el agente accede a TPW Agente > Apoyos y mujer de baja el apoyo que tendría que haber recibido.\n 2. En el mismo apartado de TPW, accede a Nueva solicitud de apoyo. Esta acción generará una nueva solicitud de apoyo, gratuito, que el cliente tendría que recibir en el domicilio. Se rellenan todos los campos, prestando atención en el apartado Datos de solicitud. Se tiene que seleccionar el título y zonas (si corresponde) y el motivo de la solicitud (emisión por incidencia). Se tienen que rellenar también los datos del domicilio para hacer el envío.\n Rellenados todos los campos, polsar sobre 'Crear nueva solicitud'.\n 3. Si el cliente manifiesta que no ha recibido este segundo envío, se informa el cliente que tiene que dirigirse a un Punto TMB, sin cita, para obtener un nuevo apoyo, a través del PEC: emisión por incidencia (gratuito). El agente tendrá que anotar en el Excel Control incidencias T-mobilitat el detalle del usuario derivado (número de ticket de Zendesk, nombre y apellido del usuario, correo electrónico y documento de identidad) y la operativa de manera exacta y detallada:\n 1. OPERATIVA 1: Emisión por incidencia con/ sin título a través del PEC.\n 2. OPERATIVA 2: Dar de baja el apoyo 00XXXXXXXAB a través de TPW.\n 3. INCIDENCIA: Apoyo no recibido.\n 4. Si el cliente compra un nuevo apoyo en otro operador, le devolveremos el dinero del primer apoyo únicamente en el supuesto de que no le haya llegado en el tiempo establecido. El retornament del importe de este apoyo se realizará a través del Excel de devoluciones, gestionado por Sònia Sánchez Campos, para devolver compras desde ECR."
+      "answer": "● Identificar el usuario a través del nombre y apellido, número del documento de identificación y la fecha de nacimiento. Comprobar el estado de la solicitud a la sección 'Solicitudes' del TPW Agente.\n ● Si no existe la 'solicitud' de apoyo y no hay pago (a ECR > Cliente Te mobilitat, no hay registro de pago), se informa el cliente que no ha realizado ningún pedido.\n ● Si ha hecho el pago, pero no se ha generado la solicitud de apoyo (a ECR > Cliente Te mobilitat > Orden de venta, no habrá ningún enlace a la solicitud), se tiene que realizar una emisión por incidencia.\n ● Si la solicitud aparece en sido 'ejecutando', hasta el quinto día, se tiene que esperar que la solicitud cambie de estado. Si está más de cinco días, se tiene que reportar a Míriam Dueñas, vía Backoffice (suportoae@tmb.cat) que reinyecte la solicitud (o la cancele, según corresponda).\n ● La solicitud aparece en estado 'verificado', pero el cliente manifiesta que no lo ha recibido. Con el número de solicitud de tarjeta, buscamos en la Excel Informe de Pedidos de Personalización en qué estado de fabricación se encuentra:\n ● En el supuesto de que no hayan pasado 10 días hábiles de la solicitud, se informa el cliente que su tarjeta todavía se encuentra en tráfico.\n ● En el supuesto de que hayan pasado más de 10 días hábiles de la solicitud y el envío sea ordinario:\n 1. Si el cliente manifiesta que no ha recibido el apoyo, el agente accede a TPW Agente > Apoyos y mujer de baja el apoyo que tendría que haber recibido.\n 2. En el mismo apartado de TPW, accede a Nueva solicitud de apoyo. Esta acción generará una nueva solicitud de apoyo, gratuito, que el cliente tendría que recibir en el domicilio. Se rellenan todos los campos, prestando atención en el apartado Datos de solicitud. Se tiene que seleccionar el título y zonas (si corresponde) y el motivo de la solicitud (emisión por incidencia). Se tienen que rellenar también los datos del domicilio para hacer el envío.\n Rellenados todos los campos, polsar sobre 'Crear nueva solicitud'.\n 3. Si el cliente manifiesta que no ha recibido este segundo envío, se informa el cliente que tiene que dirigirse a un Punto TMB, sin cita, para obtener un nuevo apoyo, a través del PEC: emisión por incidencia (gratuito). El agente tendrá que anotar en el Excel Control incidencias Te mobilitat el detalle del usuario derivado (número de ticket de Zendesk, nombre y apellido del usuario, correo electrónico y documento de identidad) y la operativa de manera exacta y detallada:\n 1. OPERATIVA 1: Emisión por incidencia con/ sin título a través del PEC.\n 2. OPERATIVA 2: Dar de baja el apoyo 00XXXXXXXAB a través de TPW.\n 3. INCIDENCIA: Apoyo no recibido.\n 4. Si el cliente compra un nuevo apoyo en otro operador, le devolveremos el dinero del primer apoyo únicamente en el supuesto de que no le haya llegado en el tiempo establecido. El retornament del importe de este apoyo se realizará a través del Excel de devoluciones, gestionado por Sònia Sánchez Campos, para devolver compras desde ECR."
     },
     {
       "question": "incidencia por apoyo bloqueado - Qué es?",
@@ -2200,11 +2200,11 @@
     },
     {
       "question": "Trámite digital o telefónico - Pueden desbloquear un apoyo o título?",
-      "answer": "Primero, el agente tiene que identificar el cliente, pidiendo número del documento de identidad, fecha de nacimiento y correo electrónico. Una vez identificada el usuario, y la incidencia, el agente puede probar de solicitar el desbloqueo a través de TPW (TPW > Apoyos > Detalle del apoyo).\niño el caso que no sea posible, el agente informará el cliente que tiene que ir a un Punto, sin cita, a que le desbloqueen la tarjeta T-mobilitat a través del PEC.\nL'agente de atención informará de la derivación llenando la Excel Control incidencias T-mobilitat del Sharepoint de Punto. El agente tiene que llenar los siguientes datos:\n- Número de ticket de Zendesk.\n- Nombre y apellido del cliente, según aparece a TPW.\n- Mail.\n- Documento de identidad.\n- Registro detallado de las operativas que tienen que hacer los agentes de Punto y la incidencia que ha generado la derivación."
+      "answer": "Primero, el agente tiene que identificar el cliente, pidiendo número del documento de identidad, fecha de nacimiento y correo electrónico. Una vez identificada el usuario, y la incidencia, el agente puede probar de solicitar el desbloqueo a través de TPW (TPW > Apoyos > Detalle del apoyo).\niño el caso que no sea posible, el agente informará el cliente que tiene que ir a un Punto, sin cita, a que le desbloqueen la tarjeta Te mobilitat a través del PEC.\nL'agente de atención informará de la derivación llenando la Excel Control incidencias Te mobilitat del Sharepoint de Punto. El agente tiene que llenar los siguientes datos:\n- Número de ticket de Zendesk.\n- Nombre y apellido del cliente, según aparece a TPW.\n- Mail.\n- Documento de identidad.\n- Registro detallado de las operativas que tienen que hacer los agentes de Punto y la incidencia que ha generado la derivación."
     },
     {
       "question": "Trámite BackOffice - BackOffice puede desbloquear un apoyo o título?",
-      "answer": "Primero, el agente tiene que identificar el cliente, pidiendo número del documento de identidad, fecha de nacimiento y correo electrónico. Una vez identificada el usuario, y la incidencia, el agente puede probar de solicitar el desbloqueo a través de TPW (TPW > Apoyos > Detalle del apoyo).\niño el caso que no sea posible, el agente informará al cliente que tiene que ir a un Punto, sin cita, a que le desbloqueen la tarjeta T-mobilitat a través del PEC.\nBackoffice puede derivar la incidencia a ZOCO mobilitat para que su equipo técnico verifique el bloqueo y así solicitar el desbloqueo a través del área personal de cliente (TPW Cliente) o de las herramientas de los agentes de atención (TPW Agente)."
+      "answer": "Primero, el agente tiene que identificar el cliente, pidiendo número del documento de identidad, fecha de nacimiento y correo electrónico. Una vez identificada el usuario, y la incidencia, el agente puede probar de solicitar el desbloqueo a través de TPW (TPW > Apoyos > Detalle del apoyo).\niño el caso que no sea posible, el agente informará al cliente que tiene que ir a un Punto, sin cita, a que le desbloqueen la tarjeta Te mobilitat a través del PEC.\nBackoffice puede derivar la incidencia a ZOCO mobilitat para que su equipo técnico verifique el bloqueo y así solicitar el desbloqueo a través del área personal de cliente (TPW Cliente) o de las herramientas de los agentes de atención (TPW Agente)."
     },
     {
       "question": "Trámite web y App - Desbloqueo web",
@@ -2212,7 +2212,7 @@
     },
     {
       "question": "Trámite web y App - Desbloqueo App",
-      "answer": "1. Un cliente accede a TMB App, sección T-mobilitat, clica a \"solicitarla\", a \"accede\", a \"ver detalle del apoyo\" y a \"desbloquea\".\n2. Desde esta sección podrá acceder a la funcionalidad de desbloqueo del apoyo o de un título contenido en este.\nSi no puede solicitar el desbloqueo, el cliente tiene que contactar con los canales de atención de TMB."
+      "answer": "1. Un cliente accede a TMB App, sección Te mobilitat, clica a \"solicitarla\", a \"accede\", a \"ver detalle del apoyo\" y a \"desbloquea\".\n2. Desde esta sección podrá acceder a la funcionalidad de desbloqueo del apoyo o de un título contenido en este.\nSi no puede solicitar el desbloqueo, el cliente tiene que contactar con los canales de atención de TMB."
     },
     {
       "question": "incidencia error en la validación - Qué es?",
@@ -2220,7 +2220,7 @@
     },
     {
       "question": "Incidencia a las validadores",
-      "answer": "En el supuesto de que una de las validadores del bus no funcione, el usuario tiene que probar de validar a otra validadora. Si sigue sin funcionar, el cliente tiene que adquirir un billete de incidencia de buzo.\niño el caso de metro, a una del mismo vestíbulo y si sigue sin funcionar tiene que ir a otro vestíbulo de la misma estación. Si se sigue sin poder validar, el agente de estación librará un billete para poder viajar. El agente tendrá que anotar en el justificante emitido por la DA, donde ha obtenido el billete por el cliente, el número del apoyo T-mobilitat."
+      "answer": "En el supuesto de que una de las validadores del bus no funcione, el usuario tiene que probar de validar a otra validadora. Si sigue sin funcionar, el cliente tiene que adquirir un billete de incidencia de buzo.\niño el caso de metro, a una del mismo vestíbulo y si sigue sin funcionar tiene que ir a otro vestíbulo de la misma estación. Si se sigue sin poder validar, el agente de estación librará un billete para poder viajar. El agente tendrá que anotar en el justificante emitido por la DA, donde ha obtenido el billete por el cliente, el número del apoyo Te mobilitat."
     },
     {
       "question": "Error con el apoyo PVC",
@@ -2280,11 +2280,11 @@
     },
     {
       "question": "Qué tiene que hacer el agente para solucionar la incidencia? (Solución de contingencia)",
-      "answer": "Cuando un cliente se acerca a un Punto por primera vez se lo redirige al hacer una QRS, para que hagan las verificaciones necesarias.\niño caso que el cliente ya venga derivado desde los otros canales se procederá como se indica:\n1. El Agente tendrá que comprobar si el cliente se encuentra dentro del listado del Excel “Control incidencias T-mobilitat” del Sharepoint compartido con Puntos. Buscaremos el cliente por número de ticket de zendesk, nombre y apellido, correo electrónico o número del documento de identidad.\n2. El agente tiene que realizar las operativas que aparecen detalladas, una a una, a la columna Comentarios del Excel. La estructura será:\n - Operativa X. Descripción detallada de la operativa a llevar a cabo. habrá tantas como acciones diferenciadas tiene que hacer el agente de Punto.\n - Incidencia. Breve descripción de la incidencia que hace derivar el cliente.\n3. Finalizado el trámite, se tiene que anotar en el Excel si el cliente se ha llevado (también si no lo hace, marcando “no”) una tarjeta PVC. Se marca la fila correspondiente en color amarillo, para destacar claramente que el cliente ha pasado por Puntos."
+      "answer": "Cuando un cliente se acerca a un Punto por primera vez se lo redirige al hacer una QRS, para que hagan las verificaciones necesarias.\niño caso que el cliente ya venga derivado desde los otros canales se procederá como se indica:\n1. El Agente tendrá que comprobar si el cliente se encuentra dentro del listado del Excel “Control incidencias Te mobilitat” del Sharepoint compartido con Puntos. Buscaremos el cliente por número de ticket de zendesk, nombre y apellido, correo electrónico o número del documento de identidad.\n2. El agente tiene que realizar las operativas que aparecen detalladas, una a una, a la columna Comentarios del Excel. La estructura será:\n - Operativa X. Descripción detallada de la operativa a llevar a cabo. habrá tantas como acciones diferenciadas tiene que hacer el agente de Punto.\n - Incidencia. Breve descripción de la incidencia que hace derivar el cliente.\n3. Finalizado el trámite, se tiene que anotar en el Excel si el cliente se ha llevado (también si no lo hace, marcando “no”) una tarjeta PVC. Se marca la fila correspondiente en color amarillo, para destacar claramente que el cliente ha pasado por Puntos."
     },
     {
       "question": "Canal Digital y Telefónico - Qué tiene que hacer el agente de atención?",
-      "answer": "1. Se informa al cliente que tiene que tener la última actualización de TMB App y de la aplicación Cartera electrónica, así como la NFC activado.\n2. Si el problema se de validación y persiste, el operador lo tiene que recomendar que pruebe de validar de las diferentes maneras conocidas:\n - Móvil bloqueado.\n - Móvil bloqueado con pantalla activada (iluminada).\n - Móvil desbloqueado.\n - Accediendo a TMB App > T-mobilitat > Móvil.\n3. Si el problema persiste, se indica al cliente que tiene que probar de vincular una nueva cartera electrónica.\n - Cerrar sesión de JoTMBé a TMB App.\n - Acceder a Configuración del dispositivo > Aplicaciones > Cartera electrónica, y limpiar todos los datos de navegación y cookies.\n - Reiniciar el dispositivo.\n - Volver a iniciar sesión a TMB App.\n - A TMB App > T-mobilitat > Móvil, polsar sobre “Vincular una nueva cartera electrónica. El usuario tendrá que aceptar todos los errores que le puedan aparecer, hasta finalizar el proceso. Después de unos 10 o 30 minutos con la pantalla “Cargando una nueva cartera electrónica”, el proceso concluye.\n - A la pantalla inicial de TMB App > Configuración > Servicios vinculados > T-mobilitat > Sincronizar tarjeta virtual.\n4. Si el problema persiste, se lo indica que pruebe de desinstalar e instalar nuevamente la cartera electrónica.\n5. Si el problema persiste, el operador tendrá que hacer la comprobación a TPW Agente si el cliente dispone de apoyo PVC, y que el apoyo móvil no le funciona correctamente (no hay validaciones, o son erróneas). Si todo se correcto, se deriva al cliente a un Punto TMB, sin cita previa, para recoger una tarjeta PVC gratuita, en el caso de que no disponga de ella. El agente tendrá que anotar el caso en el Excel 'Control incidencias T-mobilitat' (Sharepoint compartido con Puntos): número de ticket de Zendesk; nombre y apellidos del cliente; correo electrónico; si se ha derivado a punto; número del documento de identidad; y, al apartado comentarios, una a una, y por separado, las operativas exactas que tiene que realizar el agente de Punto, así como una pequeña nota descriptiva de la incidencia.\n - Con título NO validado. El PEC permite instanciar títulos íntegros. El agente tendrá que comunicarlo a Backoffice para que gestione la extracción del título del apoyo virtual.\n - Con título SI validado. El PEC no permite instanciar títulos a medias (cuando el apoyo se emite mediante la operativa 'emisión por incidencia'). Se entrega un PVC vacío al cliente y el título en magnético, en las condiciones en que se encontraba en el momento en que fue atendido. En el supuesto de que el título sea una T-joven, el título ya no se puede entregar en formato magnético:\n - Si la T-joven del apoyo móvil contiene entre 1 y 30 días para validar, se le hará entrega de un PVC gratuito con una T-usual de 6 zonas.\n - Si la T-joven del apoyo móvil contiene entre 31 y 60 días para validar, se le hará entrega de un PVC gratuito con una T-usual de 6 zonas más una T-usual 6 zonas en formato magnético por los días restantes.\n - Si la T-joven del apoyo móvil contiene 61 días o más para validar, se le varano entrega de un PVC gratuito con una T-joven completa."
+      "answer": "1. Se informa al cliente que tiene que tener la última actualización de TMB App y de la aplicación Cartera electrónica, así como la NFC activado.\n2. Si el problema se de validación y persiste, el operador lo tiene que recomendar que pruebe de validar de las diferentes maneras conocidas:\n - Móvil bloqueado.\n - Móvil bloqueado con pantalla activada (iluminada).\n - Móvil desbloqueado.\n - Accediendo a TMB App > Te mobilitat > Móvil.\n3. Si el problema persiste, se indica al cliente que tiene que probar de vincular una nueva cartera electrónica.\n - Cerrar sesión de JoTMBé a TMB App.\n - Acceder a Configuración del dispositivo > Aplicaciones > Cartera electrónica, y limpiar todos los datos de navegación y cookies.\n - Reiniciar el dispositivo.\n - Volver a iniciar sesión a TMB App.\n - A TMB App > Te mobilitat > Móvil, polsar sobre “Vincular una nueva cartera electrónica. El usuario tendrá que aceptar todos los errores que le puedan aparecer, hasta finalizar el proceso. Después de unos 10 o 30 minutos con la pantalla “Cargando una nueva cartera electrónica”, el proceso concluye.\n - A la pantalla inicial de TMB App > Configuración > Servicios vinculados > Te mobilitat > Sincronizar tarjeta virtual.\n4. Si el problema persiste, se lo indica que pruebe de desinstalar e instalar nuevamente la cartera electrónica.\n5. Si el problema persiste, el operador tendrá que hacer la comprobación a TPW Agente si el cliente dispone de apoyo PVC, y que el apoyo móvil no le funciona correctamente (no hay validaciones, o son erróneas). Si todo se correcto, se deriva al cliente a un Punto TMB, sin cita previa, para recoger una tarjeta PVC gratuita, en el caso de que no disponga de ella. El agente tendrá que anotar el caso en el Excel 'Control incidencias Te mobilitat' (Sharepoint compartido con Puntos): número de ticket de Zendesk; nombre y apellidos del cliente; correo electrónico; si se ha derivado a punto; número del documento de identidad; y, al apartado comentarios, una a una, y por separado, las operativas exactas que tiene que realizar el agente de Punto, así como una pequeña nota descriptiva de la incidencia.\n - Con título NO validado. El PEC permite instanciar títulos íntegros. El agente tendrá que comunicarlo a Backoffice para que gestione la extracción del título del apoyo virtual.\n - Con título SI validado. El PEC no permite instanciar títulos a medias (cuando el apoyo se emite mediante la operativa 'emisión por incidencia'). Se entrega un PVC vacío al cliente y el título en magnético, en las condiciones en que se encontraba en el momento en que fue atendido. En el supuesto de que el título sea una T-joven, el título ya no se puede entregar en formato magnético:\n - Si la T-joven del apoyo móvil contiene entre 1 y 30 días para validar, se le hará entrega de un PVC gratuito con una T-usual de 6 zonas.\n - Si la T-joven del apoyo móvil contiene entre 31 y 60 días para validar, se le hará entrega de un PVC gratuito con una T-usual de 6 zonas más una T-usual 6 zonas en formato magnético por los días restantes.\n - Si la T-joven del apoyo móvil contiene 61 días o más para validar, se le varano entrega de un PVC gratuito con una T-joven completa."
     },
     {
       "question": "Incidencia apoyo móvil no funciona - Presencial (no Puntos TMB)",
@@ -2292,7 +2292,7 @@
     },
     {
       "question": "Incidencia apoyo móvil no funciona - QRS/Backoffice",
-      "answer": "Se informa al cliente que tiene que tener la última actualización de TMB App y de la aplicación Cartera electrónica, así como el NFC activado. Si el problema es de validación y persiste, el operador tiene que recomendar que pruebe de validar de las diferentes maneras conocidas: móvil bloqueado, móvil bloqueado con pantalla activada (iluminada), móvil desbloqueado y accediendo a TMB App > T-mobilitat > Móvil. Si el problema persiste, se indica al cliente que pruebe de vincular una nueva cartera electrónica: cerrar sesión de JoTMBé a TMB App, acceder a Configuración del dispositivo > Aplicaciones > Cartera electrónica, y limpiar todos los datos de navegación y galletas, reiniciar el dispositivo, volver a iniciar sesión a TMB App, a TMB App > T-mobilitat > Móvil, pulsar sobre \"Vincular una nueva cartera electrónica\". El usuario tendrá que aceptar todos los errores que le puedan aparecer hasta finalizar el proceso. Después de unos 10 o 30 minutos con la pantalla \"Cargando una nueva cartera electrónica\", el proceso concluye. A la pantalla inicial de TMB App > Configuración > Servicios vinculados > T-mobilitat > Sincronizar tarjeta virtual."
+      "answer": "Se informa al cliente que tiene que tener la última actualización de TMB App y de la aplicación Cartera electrónica, así como el NFC activado. Si el problema es de validación y persiste, el operador tiene que recomendar que pruebe de validar de las diferentes maneras conocidas: móvil bloqueado, móvil bloqueado con pantalla activada (iluminada), móvil desbloqueado y accediendo a TMB App > Te mobilitat > Móvil. Si el problema persiste, se indica al cliente que pruebe de vincular una nueva cartera electrónica: cerrar sesión de JoTMBé a TMB App, acceder a Configuración del dispositivo > Aplicaciones > Cartera electrónica, y limpiar todos los datos de navegación y galletas, reiniciar el dispositivo, volver a iniciar sesión a TMB App, a TMB App > Te mobilitat > Móvil, pulsar sobre \"Vincular una nueva cartera electrónica\". El usuario tendrá que aceptar todos los errores que le puedan aparecer hasta finalizar el proceso. Después de unos 10 o 30 minutos con la pantalla \"Cargando una nueva cartera electrónica\", el proceso concluye. A la pantalla inicial de TMB App > Configuración > Servicios vinculados > Te mobilitat > Sincronizar tarjeta virtual."
     },
     {
       "question": "Incidencias con el apoyo cartón - Qué es?",
@@ -2416,7 +2416,7 @@
     },
     {
       "question": "Incidencia carga o recarga errónea en TMB App - Qué tiene que hacer el cliente porque se haga efectiva la compra?",
-      "answer": "Si la compra se hace por tarjeta personalizada o cartón anónimo. El cliente, durante las primeras 24 horas desde la compra, tiene que hacer interactuar el apoyo dos veces con el dispositivo móvil con el cual hizo la compra, una vez hecha el pago: 1. Una primera interacción, a TMB App > T-mobilitat > Tarjetas. El cliente tiene que polsar el botón 'Iniciar la lectura' y, con NFC conectado, aprocar la tarjeta a la parte posterior del móvil (si tiene móvil iPhone, la lectura se puede hacer por la parte frontal del dispositivo). 2. Una segunda interacción, una vez el cliente visualiza la información de su tarjeta. Esta segunda interacción no requiere polsar ningún botón de 'Iniciar la lectura'. Si la compra se hace por apoyo virtual. El usuario tiene que cerrar la sesión JoTMBé a TMB App, iniciarla nuevamente, y, a TMB App > Configuración > Servicios vinculados > T-mobilitat, polsar sobre Sincronizar tarjeta virtual."
+      "answer": "Si la compra se hace por tarjeta personalizada o cartón anónimo. El cliente, durante las primeras 24 horas desde la compra, tiene que hacer interactuar el apoyo dos veces con el dispositivo móvil con el cual hizo la compra, una vez hecha el pago: 1. Una primera interacción, a TMB App > Te mobilitat > Tarjetas. El cliente tiene que polsar el botón 'Iniciar la lectura' y, con NFC conectado, aprocar la tarjeta a la parte posterior del móvil (si tiene móvil iPhone, la lectura se puede hacer por la parte frontal del dispositivo). 2. Una segunda interacción, una vez el cliente visualiza la información de su tarjeta. Esta segunda interacción no requiere polsar ningún botón de 'Iniciar la lectura'. Si la compra se hace por apoyo virtual. El usuario tiene que cerrar la sesión JoTMBé a TMB App, iniciarla nuevamente, y, a TMB App > Configuración > Servicios vinculados > Te mobilitat, polsar sobre Sincronizar tarjeta virtual."
     },
     {
       "question": "Incidencia carga o recarga errónea en TMB App - Qué son los canales de resolución",
@@ -2444,7 +2444,7 @@
     },
     {
       "question": "Incidencia carga o recarga errónea en TMB App - Canal QRS / BackOffice - Qué tiene que hacer el agente de QRS / BackOffice para gestionar la reclamación?",
-      "answer": "● Se piden los datos al cliente para identificarlo a TPW y a E-commerce (ECR). ● Verificar el estado de la operación: o A E-commerce Residente Backend / Cliente T-mobilitat, si se ha hecho el pago. o A E-commerce Residente Backend / Motorcloud, el estado de la operación (si el títil se ha hecho efectivo o no). o A TPW Agente / Apoyos / Detalle del apoyo / Detalle del título o a E-commerce, si el título se ha instanciat. ● Si todo cuadra con la información que nos ha facilitado el cliente y se comprueba el pago sin hacerse efectivo el título al apoyo, se gestiona la devolución con Billetatge, y se informa el cliente."
+      "answer": "● Se piden los datos al cliente para identificarlo a TPW y a E-commerce (ECR). ● Verificar el estado de la operación: o A E-commerce Residente Backend / Cliente Te mobilitat, si se ha hecho el pago. o A E-commerce Residente Backend / Motorcloud, el estado de la operación (si el títil se ha hecho efectivo o no). o A TPW Agente / Apoyos / Detalle del apoyo / Detalle del título o a E-commerce, si el título se ha instanciat. ● Si todo cuadra con la información que nos ha facilitado el cliente y se comprueba el pago sin hacerse efectivo el título al apoyo, se gestiona la devolución con Billetatge, y se informa el cliente."
     },
     {
       "question": "Incidencia carga o recarga errónea en TMB App - Consulta canales telefónico y digital - tarjeta personalizada",
@@ -2456,7 +2456,7 @@
     },
     {
       "question": "Incidencia carga o recarga errónea en TMB App - Consulta canales telefónico y digital - apoyo virtual",
-      "answer": "Apoyo virtual. Informar el cliente que durante las primeras 24 horas tiene que cerrar la sesión JoTMBé a TMB App, iniciarla nuevamente, y, a TMB App > Configuración > Servicios vinculados > T-mobilitat, polsar sobre Sincronizar tarjeta virtual. En el supuesto de que haya cerrado y abierto sesión, y no se haya hecho efectivo, para solucionarlo a de presentar una reclamación a través del formulario web, aportando el máximo de datos posible:comprobando de pago, número del documento de identidad, día y hora, etc., para analizar el caso."
+      "answer": "Apoyo virtual. Informar el cliente que durante las primeras 24 horas tiene que cerrar la sesión JoTMBé a TMB App, iniciarla nuevamente, y, a TMB App > Configuración > Servicios vinculados > Te mobilitat, polsar sobre Sincronizar tarjeta virtual. En el supuesto de que haya cerrado y abierto sesión, y no se haya hecho efectivo, para solucionarlo a de presentar una reclamación a través del formulario web, aportando el máximo de datos posible:comprobando de pago, número del documento de identidad, día y hora, etc., para analizar el caso."
     }
   ]
 }
