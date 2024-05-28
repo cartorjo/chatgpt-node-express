@@ -1,0 +1,208 @@
+/*------------------------------------*\
+    VARIABLES
+\*------------------------------------*/
+
+// Define breakpoints
+$breakpoints: (
+        "mobile": 767px,
+        "tablet": 1024px,
+        "laptop": 1025px
+);
+
+// Baseline spacing
+$baseline-spacing: 8px;
+
+// Define fixed margins and gutters for different screen sizes
+$spacing: (
+        "mobile": (margin: $baseline-spacing, gutter: $baseline-spacing),
+        "tablet": (margin: $baseline-spacing * 2, gutter: $baseline-spacing),
+        "laptop": (margin: $baseline-spacing * 2, gutter: $baseline-spacing * 2)
+);
+
+// Define number of columns
+$columns: 12;
+
+/*------------------------------------*\
+    MIXINS
+\*------------------------------------*/
+
+// Mixin for media queries
+@mixin respond-to($breakpoint) {
+  @if $breakpoint == "laptop" {
+    @media (min-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  } @else {
+    @media (max-width: map-get($breakpoints, $breakpoint)) {
+      @content;
+    }
+  }
+}
+
+// Mixin for margin and gutter
+@mixin apply-spacing($breakpoint) {
+  $margin: map-get(map-get($spacing, $breakpoint), margin);
+  $gutter: map-get(map-get($spacing, $breakpoint), gutter);
+
+  @include respond-to($breakpoint) {
+    margin: 0 $margin;
+    gap: $gutter;
+  }
+}
+
+// Mixin for grid container
+@mixin grid-container {
+  display: grid;
+  grid-template-columns: repeat($columns, 1fr);
+
+  @include apply-spacing(mobile);
+  @include apply-spacing(tablet);
+  @include apply-spacing(laptop);
+}
+
+// Utility mixin to generate percentage-based column classes
+@mixin generate-column-classes($breakpoint) {
+  $gutter: map-get(map-get($spacing, $breakpoint), gutter);
+  @for $i from 1 through $columns {
+    .col-#{$i}-#{$breakpoint} {
+      width: calc((100% - (#{$gutter} * (#{$columns} - 1))) / #{$columns} * #{$i});
+    }
+  }
+}
+
+// Mixin for grid item
+@mixin grid-item($span) {
+  grid-column: span $span;
+
+  @each $breakpoint, $size in $breakpoints {
+    @include respond-to($breakpoint) {
+      grid-column: span $span;
+    }
+  }
+}
+
+// Mixin for push and pull classes
+@mixin push-pull-classes($span) {
+  @each $breakpoint, $size in $breakpoints {
+    .push-#{$breakpoint}-#{$span} {
+      @include respond-to($breakpoint) {
+        margin-left: calc(100% / $columns * $span);
+      }
+    }
+    .pull-#{$breakpoint}-#{$span} {
+      @include respond-to($breakpoint) {
+        margin-right: calc(100% / $columns * $span);
+      }
+    }
+  }
+}
+
+/*------------------------------------*\
+    GRID SETUP
+\*------------------------------------*/
+
+// Base grid container
+.grid {
+  @include grid-container;
+}
+
+// Generate custom column classes for each breakpoint
+@each $breakpoint, $size in $breakpoints {
+  @include generate-column-classes($breakpoint);
+}
+
+// Grid item variations
+@each $breakpoint, $size in $breakpoints {
+  .#{$breakpoint}__item {
+    &.one-whole { @include grid-item(12); }
+    &.one-half { @include grid-item(6); }
+    &.one-third { @include grid-item(4); }
+    &.one-quarter { @include grid-item(3); }
+    &.one-fifth { @include grid-item(2.4); }
+    &.one-sixth { @include grid-item(2); }
+  }
+}
+
+// Generate push and pull classes
+@for $i from 1 through $columns {
+  @include push-pull-classes($i);
+}
+
+/*------------------------------------*\
+    BASELINE SPACING
+\*------------------------------------*/
+
+.spacing {
+  margin: $baseline-spacing;
+}
+
+/*------------------------------------*\
+    CHATBOT LAYOUT
+\*------------------------------------*/
+
+.chatbot-layout {
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+  height: 100vh;
+  gap: $baseline-spacing;
+
+  @include apply-spacing(mobile);
+  @include apply-spacing(tablet);
+  @include apply-spacing(laptop);
+
+  .header {
+    grid-row: 1;
+    background-color: #f8f9fa;
+    padding: $baseline-spacing * 2;
+    display: flex;
+    align-items: center;
+  }
+
+  .chat-area {
+    grid-row: 2;
+    overflow-y: auto;
+    padding: $baseline-spacing * 2;
+    background-color: #ffffff;
+  }
+
+  .input-area {
+    grid-row: 3;
+    background-color: #f8f9fa;
+    padding: $baseline-spacing * 2;
+
+    form {
+      display: flex;
+      gap: $baseline-spacing;
+      align-items: center;
+    }
+
+    input[type="text"] {
+      flex: 1;
+      padding: $baseline-spacing;
+      border: 1px solid #ced4da;
+      border-radius: 4px;
+    }
+
+    button {
+      padding: $baseline-spacing $baseline-spacing * 2;
+      border: none;
+      border-radius: 4px;
+      background-color: #007bff;
+      color: #ffffff;
+      cursor: pointer;
+    }
+
+    #start-voice, #stop-voice {
+      background-color: transparent;
+      color: inherit;
+    }
+
+    #start-voice i {
+      color: orange;
+    }
+
+    #stop-voice i {
+      color: red;
+    }
+  }
+}

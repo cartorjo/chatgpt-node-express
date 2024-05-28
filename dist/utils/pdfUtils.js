@@ -36,8 +36,7 @@ const extractTextsFromPDFs = (pdfFolder) => __awaiter(void 0, void 0, void 0, fu
         yield Promise.all(files.map((file) => __awaiter(void 0, void 0, void 0, function* () {
             if (file.endsWith('.pdf')) {
                 const filePath = path_1.default.join(pdfFolder, file);
-                const text = yield extractTextFromPDF(filePath);
-                pdfTexts[file] = text;
+                pdfTexts[file] = yield extractTextFromPDF(filePath);
             }
         })));
         return pdfTexts;
@@ -48,23 +47,26 @@ const extractTextsFromPDFs = (pdfFolder) => __awaiter(void 0, void 0, void 0, fu
     }
 });
 exports.extractTextsFromPDFs = extractTextsFromPDFs;
+const createMessageData = (role, content) => ({ role, content });
 const convertToFineTuneData = (pdfTexts, intentData) => {
     const fineTuneData = [];
     for (const [file, text] of Object.entries(pdfTexts)) {
-        const messages = [
-            { role: "system", content: `Extracted from ${file}` },
-            { role: "user", content: text },
-            { role: "assistant", content: "Ideal response or further completion text." }
-        ];
-        fineTuneData.push({ messages });
+        fineTuneData.push({
+            messages: [
+                createMessageData('system', `Extracted from ${file}`),
+                createMessageData('user', text),
+                createMessageData('assistant', 'Ideal response or further completion text.')
+            ]
+        });
     }
     if (intentData) {
         intentData.examples.forEach((example) => {
-            const messages = [
-                { role: "user", content: example.text },
-                { role: "assistant", content: intentData.responses[0].text }
-            ];
-            fineTuneData.push({ messages });
+            fineTuneData.push({
+                messages: [
+                    createMessageData('user', example.text),
+                    createMessageData('assistant', intentData.responses[0].text)
+                ]
+            });
         });
     }
     return fineTuneData;

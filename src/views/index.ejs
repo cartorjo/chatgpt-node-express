@@ -3,45 +3,158 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chat Bot</title>
-    <!-- Link to external CSS for styling -->
-    <link rel="stylesheet" href="/css/styles.css">
-    <!-- Internal styles for layout and appearance -->
+    <title>TMB</title>
     <style>
         body {
+            background-color: #404040;
+            color: white;
+            font-weight: 500;
+            font-style: normal;
+        }
+        body {
             display: flex;
-            flex-direction: column;
             margin: 0;
+            padding: 0;
             height: 100vh;
-            font-family: Arial, sans-serif;
         }
-
-        main {
-            flex: 1;
-            overflow-y: auto;
-            padding: 10px;
-            background: #f4f4f4;
-        }
-
-        #chat-container {
+        aside {
+            width: 256px;
             display: flex;
             flex-direction: column;
-            height: 100%;
-        }
-
-        #language-select, #voice-select, #enable-tts {
-            margin-right: 5px;
-        }
-
-        .visually-hidden {
-            position: absolute;
-            width: 1px;
-            height: 1px;
-            margin: -1px;
+            align-items: center;
+            justify-content: flex-start; /* Ensures content is aligned to the top */
+            box-sizing: border-box;
             padding: 0;
-            overflow: hidden;
-            clip: rect(0, 0, 0, 0);
-            border: 0;
+        }
+        aside img {
+            margin-top: 0; /* Ensures no margin at the top */
+            padding: 2rem;
+        }
+        main {
+            background-color: #333333;
+            flex-grow: 1;
+            width: calc(100vw - 256px);
+            display: flex;
+            flex-direction: column;
+        }
+        .conversation-window {
+            flex-grow: 1;
+            overflow-y: auto;
+            background-color: #333333;
+        }
+        .input-field-container  {
+            padding: 1rem;
+        }
+        .user {
+            background: white;
+            color: #404040;
+            width: auto;
+            max-width: fit-content;
+            height: auto;
+            padding: 1em;
+            border-radius: 3rem;
+            margin: 1em;
+        }
+        .bot {
+            background: #404040;
+            max-width: fit-content;
+            height: auto;
+            padding: 1em;
+            border-radius: 3rem;
+            margin: 0 1em;
+        }
+        .audio-card  {
+            padding: .5em 1em;
+        }
+
+        .text-input {
+            border-radius: 3rem;
+            min-height: 46px; /* min-h-[38px] */
+            flex: 1 1 0; /* flex-1 */
+            font-size: 1rem; /* text-sm */
+            background-color: white; /* bg-background-100 */
+            border: 1px solid white;
+            resize: none; /* resize-none */
+            scroll-margin: 0.5rem; /* scroll-m-2 */
+            height: auto; /* h-[34px] */
+            padding-right: 2rem; /* pr-9 */
+            padding-left: 2rem; /* pl-9 */
+            min-width: 480px;
+        }
+
+        .text-input::placeholder {
+            color: rgba(75, 85, 99, 1); /* placeholder-gray-600 */
+            opacity: 1; /* placeholder-opacity-100 */
+        }
+
+        .text-input:focus {
+            border-color: #a1a1aa; /* focus:border-zinc-400 */
+            box-shadow: none; /* focus:ring-0 */
+            outline: none; /* focus:outline-none */
+        }
+        .ph {
+            font-size: 2rem;
+        }
+        button {
+            background: none;
+            border: 2px solid transparent;  /* Use current text color for border */
+            font-size: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            text-align: center;
+            display: inline-block;
+        }
+
+        button:hover,
+        button:focus {
+            color: white;  /* Change text color on hover or focus */
+            outline: none;  /* Removes default focus outline */
+        }
+
+        button:active {
+            border-color: transparent;
+        }
+
+        button:disabled {
+            background: none;
+            color: #6c757d;  /* Replace with your disabled color */
+            border-color: #6c757d;
+            cursor: not-allowed;
+        }
+        /* Style for the select element */
+        #language-select {
+            border-radius: 3rem;
+            background: white;
+            min-height: 50px; /* min-h-[38px] */
+            font-size: 1rem; /* text-sm */
+            border: 1px solid white;
+            scroll-margin: 0.5rem; /* scroll-m-2 */
+            height: auto; /* h-[34px] */
+            padding-right: 2rem; /* pr-9 */
+            padding-left: 2rem; /* pl-9 */
+            min-width: 128px;
+            background-size: 0.65rem auto;
+        }
+
+        #language-select:focus {
+            border-color: #a1a1aa; /* focus:border-zinc-400 */
+            box-shadow: none; /* focus:ring-0 */
+            outline: none; /* focus:outline-none */
+        }
+
+        /* Style for the optgroup labels */
+        #language-select optgroup {
+            font-weight: bold;
+        }
+
+        /* Style for the options */
+        #language-select option {
+            color: rgba(75, 85, 99, 1); /* option text color */
+            padding: 0.5rem 1rem; /* Option padding */
+        }
+        .divider {
+            height: 24px;
+            width: 100%;
         }
     </style>
     <!-- Deferred loading of icons and custom scripts for better performance -->
@@ -49,13 +162,15 @@
     <script src="/scripts.js" defer></script>
 </head>
 <body>
+<aside>
+    <img src="/images/logotip_TMB_blanc.svg">
+</aside>
 <!-- Main content container -->
-<main id="chat-container">
-    <!-- Chat box where messages will be displayed -->
-    <section id="chat-box" aria-live="polite" aria-atomic="true"></section>
+<main class="chat-container">
+    <!-- Conversation window -->
+    <section class="conversation-window" id="chat-box" aria-live="polite" aria-atomic="true"></section>
     <!-- Input container for language selection, message input, and voice controls -->
-    <section id="input-container">
-        <label for="language-select" class="visually-hidden">Choose language:</label>
+    <section class="input-field-container">
         <select id="language-select" aria-label="Choose language">
             <!-- Core Languages optgroup -->
             <optgroup label="Core Languages">
@@ -135,37 +250,38 @@
             </optgroup>
         </select>
         <!-- Message input field -->
-        <label for="user-input" class="visually-hidden">Type a message</label>
-        <input type="text" id="user-input" placeholder="Type a message..." aria-label="Type a message">
+        <input type="text" id="user-input" class="text-input" placeholder="Type a message..." aria-label="Type a message">
         <!-- Send button -->
-        <button id="send-button" aria-label="Send message">
-            <i class="ph ph-arrow-circle-right"></i>
+        <button id="send-button" class="send-button" aria-label="Send message">
+            <i class="ph ph-arrow-circle-right" style="color: white"></i>
         </button>
         <!-- Start voice input button -->
         <button id="start-voice" aria-label="Start voice input">
-            <i class="ph ph-microphone" style="color: orange"></i>
+            <i class="ph ph-microphone" style="color: greenyellow"></i>
         </button>
         <!-- Stop voice input button -->
         <button id="stop-voice" aria-label="Stop voice input" disabled>
             <i class="ph ph-microphone-slash" style="color: red"></i>
         </button>
         <!-- Text-to-Speech toggle and voice selection -->
-        <hr>
+        <div class="divider"></div>
         <label>
             <input type="checkbox" id="enable-tts" aria-label="Enable Text-to-Speech"> Enable TTS
         </label>
-        <label for="voice-select" class="visually-hidden">Choose voice:</label>
+        <div class="divider"></div>
+        <label for="voice-select" class="visually-hidden">AI Voice:</label>
         <select id="voice-select" aria-label="Select voice">
             <option value="alloy">Alloy</option>
             <option value="echo">Echo</option>
             <option value="fable">Fable</option>
             <option value="onyx">Onyx</option>
-            <option value="nova">Nova</option>
+            <option value="nova" selected>Nova</option>
             <option value="shimmer">Shimmer</option>
         </select>
     </section>
     <!-- Loading indicator, hidden by default -->
     <div id="loading-indicator" aria-live="assertive" aria-busy="true" style="display: none;">Loading...</div>
+    <div class="divider"></div>
 </main>
 </body>
 </html>

@@ -23,8 +23,7 @@ export const extractTextsFromPDFs = async (pdfFolder: string): Promise<Record<st
         await Promise.all(files.map(async (file) => {
             if (file.endsWith('.pdf')) {
                 const filePath = path.join(pdfFolder, file);
-                const text = await extractTextFromPDF(filePath);
-                pdfTexts[file] = text;
+                pdfTexts[file] = await extractTextFromPDF(filePath);
             }
         }));
 
@@ -39,25 +38,29 @@ interface FineTuneData {
     messages: { role: string; content: string }[];
 }
 
+const createMessageData = (role: string, content: string) => ({ role, content });
+
 const convertToFineTuneData = (pdfTexts: Record<string, string>, intentData?: any): FineTuneData[] => {
     const fineTuneData: FineTuneData[] = [];
 
     for (const [file, text] of Object.entries(pdfTexts)) {
-        const messages = [
-            { role: "system", content: `Extracted from ${file}` },
-            { role: "user", content: text },
-            { role: "assistant", content: "Ideal response or further completion text." }
-        ];
-        fineTuneData.push({ messages });
+        fineTuneData.push({
+            messages: [
+                createMessageData('system', `Extracted from ${file}`),
+                createMessageData('user', text),
+                createMessageData('assistant', 'Ideal response or further completion text.')
+            ]
+        });
     }
 
     if (intentData) {
         intentData.examples.forEach((example: any) => {
-            const messages = [
-                { role: "user", content: example.text },
-                { role: "assistant", content: intentData.responses[0].text }
-            ];
-            fineTuneData.push({ messages });
+            fineTuneData.push({
+                messages: [
+                    createMessageData('user', example.text),
+                    createMessageData('assistant', intentData.responses[0].text)
+                ]
+            });
         });
     }
 

@@ -1,10 +1,10 @@
-import { Request, Response, NextFunction } from 'express';
+import {Request, Response, NextFunction} from 'express';
 import fs from 'fs';
 import path from 'path';
 import openai from '../config/openaiConfig';
 
 export const speakController = async (req: Request, res: Response, next: NextFunction) => {
-    const { text, voice = 'nova', response_format = 'mp3', speed = 1.0 } = req.body;
+    const {text, voice = 'nova', response_format = 'mp3', speed = 1.0} = req.body;
 
     try {
         // Create the speech using OpenAI API
@@ -25,7 +25,7 @@ export const speakController = async (req: Request, res: Response, next: NextFun
         await fs.promises.writeFile(audioFilePath, buffer);
 
         // Send the audio file URL as a response
-        res.json({ audioUrl: `/${audioFileName}` });
+        res.json({audioUrl: `/${audioFileName}`});
     } catch (error) {
         next(error); // Pass the error to the error handling middleware
     }

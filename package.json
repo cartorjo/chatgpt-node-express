@@ -7,7 +7,8 @@
     "build": "tsc",
     "start": "ts-node src/server.ts",
     "scss": "sass src/scss/styles.scss src/public/css/styles.css",
-    "generate-fine-tune-data": "ts-node scripts/generateFineTuneData.ts"
+    "generate-fine-tune-data": "ts-node scripts/generateFineTuneData.ts",
+    "translate": "ts-node scripts/translate.ts"
   },
   "keywords": [],
   "author": "",

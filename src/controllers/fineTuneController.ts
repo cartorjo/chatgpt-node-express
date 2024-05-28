@@ -1,6 +1,6 @@
-import { Request, Response, NextFunction } from 'express';
+import {Request, Response, NextFunction} from 'express';
 import path from 'path';
-import { prepareDataForFineTuning, fineTuneModel } from '../utils/pdfUtils';
+import {prepareDataForFineTuning, fineTuneModel} from '../utils/pdfUtils';
 
 const exampleData = {
     "intent": "update_email",
@@ -21,10 +21,10 @@ export const generateFineTuneData = async (req: Request, res: Response, next: Ne
     try {
         const pdfFolder = path.resolve(__dirname, '../../data/sample_pdfs');
         const fineTuningDataPath = await prepareDataForFineTuning(pdfFolder, exampleData);
-        res.json({ message: `Fine-tuning data has been generated and saved to ${fineTuningDataPath}` });
+        res.json({message: `Fine-tuning data has been generated and saved to ${fineTuningDataPath}`});
     } catch (error) {
         console.error('Error generating fine-tuning data:', error);
-        res.status(500).json({ error: 'Internal Server Error' });
+        res.status(500).json({error: 'Internal Server Error'});
         next(error);
     }
 };

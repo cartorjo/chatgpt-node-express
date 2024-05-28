@@ -1,6 +1,5 @@
 import path from 'path';
 import fs from 'fs/promises';
-import { detect } from 'langdetect';
 
 export const getLanguageCode = (detectedLang: string): string => {
     const languageMap: { [key: string]: string } = {
@@ -44,6 +43,7 @@ export const loadQAData = async (langCode: string): Promise<QAData[]> => {
 
     try {
         const dataPath = path.join(__dirname, `../../data/json/${langCode}.json`);
+        console.log(`Loading Q&A data from: ${dataPath}`);  // Debugging log
         const data = await fs.readFile(dataPath, 'utf-8');
         const parsedData: { qa: QAData[] } = JSON.parse(data);
         qaCache[langCode] = parsedData.qa;
