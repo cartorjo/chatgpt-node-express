@@ -26,13 +26,11 @@ Per entrenar un model de llenguatge gran (LLM) basat en la informació de Zendes
      - Utilitzar un model preentrenat que tingui un coneixement general de la llengua catalana i dels conceptes de transport.
    - **Ajust Fi amb Dades de Zendesk**:
      - Ajustar el model LLM utilitzant les dades estructurades de Zendesk per fer-lo específic al context de l’Autoritat Metropolitana:
-       - **Dades de Preguntes i Respostes**: Ajustar el model per millorar l’exactitud de les seves respostes basant-se en les interaccions reals amb els clients i les preguntes més freqüents.
        - **Dades dels Articles**: Entrenar el model perquè pugui referenciar i proporcionar informació detallada basada en els articles (per exemple, explicant opcions de bitllets o normes específiques de transport).
        - **Contextos de les Categories**: Assegurar-se que el model entén el context de cada categoria i pot navegar-hi o referenciar-les adequadament.
+       - **Dades de Preguntes i Respostes**: Ajustar el model per millorar l’exactitud de les seves respostes basant-se en les interaccions reals amb els clients i les preguntes més freqüents.
 
 ## 4. Optimització i Proves del Model
-   - **Proves del Model amb Dades Històriques**:
-     - Provar el model ajustat amb preguntes històriques del servei d’atenció al client per avaluar-ne el rendiment. Comprovar si el model pot proporcionar respostes precises i rellevants basant-se en casos anteriors.
    - **Bucle de Retroalimentació i Iteració**:
      - Implementar un bucle de retroalimentació on es valorin les respostes i es corregeixin discrepàncies per a seguir refinant el model.
      - Utilitzar tècniques com l’aprenentatge actiu, on les preguntes noves o poc comunes són revisades manualment i afegides al dataset per a futurs entrenaments.
