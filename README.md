@@ -6,10 +6,10 @@ Per entrenar un model de llenguatge gran (LLM) basat en la informació de Zendes
    - **Integració de l'API de Zendesk**:
      - Utilitzarem l’API de Zendesk per recuperar dades de la secció de preguntes i respostes (Q&A), categories i articles. Això inclou informació relacionada amb la venda de bitllets i diferents escenaris de transport (autobusos, tramvies, metro, trens, etc.).
      - Autenticar-se utilitzant les credencials de Zendesk i configurar els endpoints de l'API per extreure:
-       - **Incidències** (per obtenir dades de preguntes i respostes entre els agents de servei al client i els clients)
        - **Articles** (per obtenir informació detallada sobre bitllets, polítiques de transport i interrupcions del servei)
        - **Categories** (per estructurar les dades en seccions com problemes de bitllets, informació de rutes, serveis especials, etc.)
-     
+       - **Incidències** (per obtenir dades de preguntes i respostes entre els agents de servei al client i els clients)
+
    - **Neteja i Anonimització de Dades**:
      - Netejar les dades per eliminar informació irrellevant i garantir la privacitat dels clients anonimitzant qualsevol informació personal o sensible.
      - Normalitzar les dades de text (per exemple, eliminar etiquetes HTML innecessàries, corregir problemes de codificació i unificar formats).
